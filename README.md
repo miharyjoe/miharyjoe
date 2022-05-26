@@ -18,6 +18,19 @@
 </h1>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+---
+
+### :woman_technologist: About Me :
+
+I am a Student Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Madagascar.
+- :telescope: I’m looking for a alternance job in web developpement or mobile.
+
+- :zap: In my free time, I solve problems on codeWars,codingGame and hakkerrank, i also read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mihary-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mihary-jo%C3%ABl-andriamilanto-374609233/L)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -36,3 +49,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=miharyjoe&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miharyjoe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

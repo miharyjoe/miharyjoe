@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&center=true&width=435&lines=Welcome+to+my+Github+%F0%9F%96%90;I'm+Mihary+Joel+ANDRIAMILANTO+;An+aspiring+software+developer)](https://git.io/typing-svg)
+<div align="center">
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&center=true&width=435&lines=Welcome+to+my+Github+%F0%9F%96%90;I'm+Mihary+Joel+ANDRIAMILANTO+;An+aspiring+software+developer)](https://git.io/typing-svg) 
+ </div>            
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100%"/>

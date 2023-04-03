@@ -1,4 +1,5 @@
-### Hi there, I'm Mihary Joël ANDRIAMILANTO👋
+### Hi there, I'm Mihary Joël  ANDRIAMILANTO👋
+lines=Hi+%F0%9F%91%8B+I'm+ANDRIAMILANTO+ Mihary Joël;a+Student+Developer+from+Madagascar;Welcome+to+my+github!%F0%9F%98%84"/>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100%"/>

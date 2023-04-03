@@ -1,5 +1,4 @@
-### Hi there, I'm Mihary Joël  ANDRIAMILANTO👋
-lines=Hi+%F0%9F%91%8B+I'm+ANDRIAMILANTO+ Mihary Joël;a+Student+Developer+from+Madagascar;Welcome+to+my+github!%F0%9F%98%84"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&center=true&width=435&lines=Welcome+to+my+Github+%F0%9F%96%90;I'm+Mihary+Joel+ANDRIAMILANTO+;An+aspiring+software+developer)](https://git.io/typing-svg)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100%"/>

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Be Fearless in the pursuit of what sets your soul on fire.”  –  Anonymous
+    “What’s done is done.  What’s gone is gone.  One of life’s lessons is always moving on.  It’s okay to look back to see how far you’ve come but keep moving forward.”  –  Roy T. Bennett
   </p>
 </div>
 

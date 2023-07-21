@@ -1,0 +1,43 @@
+name: Update README all day at 04:04
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    # Run the workflow at 04:04 AM UTC every day
+    - cron: '4 4 * * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14.x'
+
+      - name: Run the README update script
+        run: |
+          # Replace 'index.js' with the name of your script file
+          node index.js > README.md
+        env:
+          CI: true
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add README.md
+          git commit -m ":memo: README.md updated by Gabot"
+        env:
+          # This is necessary in order to push a commit to the repo
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}

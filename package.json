@@ -1,0 +1,20 @@
+{
+  "name": "miharyjoe",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">\r <a href=\"https://git.io/typing-svg\"><img src=\"https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&center=true&width=435&lines=Welcome+to+my+Github+%F0%9F%96%90;I'm+Mihary+Joel+ANDRIAMILANTO+;An+aspiring+software+developer\" alt=\"Typing SVG\" /></a>\r  </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miharyjoe/miharyjoe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miharyjoe/miharyjoe/issues"
+  },
+  "homepage": "https://github.com/miharyjoe/miharyjoe#readme"
+}

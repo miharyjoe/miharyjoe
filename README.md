@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Ambition is the path to success. Persistence is the vehicle you arrive in”  –  Bill Bradley
+    “Be Fearless in the pursuit of what sets your soul on fire.”  –  Anonymous
   </p>
 </div>
 

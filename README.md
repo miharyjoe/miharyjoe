@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The truest wisdom is a resolute determination.”  –  Napoleon Bonaparte
+    “If grit begins with passion, you need to know what you’re interested in, and more importantly, what you love.  And you need to be clear about what you want now.”  –  Brendon Burchard
   </p>
 </div>
 

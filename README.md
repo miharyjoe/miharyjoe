@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If grit begins with passion, you need to know what you’re interested in, and more importantly, what you love.  And you need to be clear about what you want now.”  –  Brendon Burchard
+    “Your life is controlled by what you focus on.”  –  Tony Robbins
   </p>
 </div>
 

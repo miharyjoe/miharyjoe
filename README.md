@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Your life is controlled by what you focus on.”  –  Tony Robbins
+    “Remember no matter how fast you run, you can’t be the winner if you don’t finish.”  –  Israelmore Ayivor
   </p>
 </div>
 

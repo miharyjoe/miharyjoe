@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Remember no matter how fast you run, you can’t be the winner if you don’t finish.”  –  Israelmore Ayivor
+    “Run your own race. Who cares what others are doing? The only question that matters is, am I progressing?”  –  Robin Sharma
   </p>
 </div>
 

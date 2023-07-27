@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Run your own race. Who cares what others are doing? The only question that matters is, am I progressing?”  –  Robin Sharma
+    “It’s always too early too quit.”  –  Norman Vincent Peale
   </p>
 </div>
 

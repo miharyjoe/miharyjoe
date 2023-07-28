@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It’s always too early too quit.”  –  Norman Vincent Peale
+    “Never give up on something you can’t go a day without thinking about.”  –  Winston Churchill
   </p>
 </div>
 

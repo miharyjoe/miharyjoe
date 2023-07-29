@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Never give up on something you can’t go a day without thinking about.”  –  Winston Churchill
+    “Believe you can and you’re halfway there.”  –  Theodore Roosevelt
   </p>
 </div>
 

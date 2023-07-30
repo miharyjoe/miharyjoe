@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Believe you can and you’re halfway there.”  –  Theodore Roosevelt
+    “All good ideas start out as bad ideas, that’s why it takes so long.”  –  Steven Spielberg
   </p>
 </div>
 

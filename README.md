@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Success in anything will always come down to this:  focus and effort, and we control both of them.”  –  Dwayne Johnson
+    “Grit is the stubborn refusal to quit.”  –  Grit Quote
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Grit is the stubborn refusal to quit.”  –  Grit Quote
+    “Success doesn’t just happen.  It is a product of hard work, grit and ingenuity.”  –  Ogwo David Eminike
   </p>
 </div>
 

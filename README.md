@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Success doesn’t just happen.  It is a product of hard work, grit and ingenuity.”  –  Ogwo David Eminike
+    “The sight of an achievement is the greatest gift that a human being could offer to others.”  –  Ayn Rand
   </p>
 </div>
 

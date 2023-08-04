@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The sight of an achievement is the greatest gift that a human being could offer to others.”  –  Ayn Rand
+    “There is no failure except in no longer trying.”  –  Elbert Hubbard
   </p>
 </div>
 

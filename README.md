@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “There is no failure except in no longer trying.”  –  Elbert Hubbard
+    “If you set your goals ridiculously high and it’s a failure, you will fail above everyone else’s success.”  –  James Cameron
   </p>
 </div>
 

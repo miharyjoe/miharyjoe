@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Aim for the highest.”  –  Andrew Carnegie
+    “A person without a goal is like a ship without a rudder.”  –  Thomas Carlyle
   </p>
 </div>
 

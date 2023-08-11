@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Grit is the persistence in following your own destiny.”  –  Paul Bradley Smith
+    “Chance favors those in motion.”  –  James H. Austin
   </p>
 </div>
 

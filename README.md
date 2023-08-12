@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Chance favors those in motion.”  –  James H. Austin
+    “Opportunities are usually disguised as hard work, so most people don’t recognize them.”  –  Ann Landers
   </p>
 </div>
 

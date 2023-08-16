@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “God honors a beautiful blend of gift and grit! He gives the gift, and He expects us to have the grit to practice and learn how to use it effectively.”  –  Beth Moore
+    “Do not wait to strike till the iron is hot: But make it hot by striking.”  –  William B. Sprague
   </p>
 </div>
 

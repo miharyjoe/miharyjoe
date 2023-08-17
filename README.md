@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Do not wait to strike till the iron is hot: But make it hot by striking.”  –  William B. Sprague
+    “Never give up, for that is just the place and time that the tide will turn.”  –  Harriet Beecher Stowe
   </p>
 </div>
 

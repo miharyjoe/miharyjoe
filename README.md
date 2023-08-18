@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Never give up, for that is just the place and time that the tide will turn.”  –  Harriet Beecher Stowe
+    “When you want to succeed as bad as you want to breathe, then you’ll be successful.”  –  Eric Thomas
   </p>
 </div>
 

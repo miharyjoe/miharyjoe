@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “When you want to succeed as bad as you want to breathe, then you’ll be successful.”  –  Eric Thomas
+    “Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.”  –  Zig Ziglar
   </p>
 </div>
 

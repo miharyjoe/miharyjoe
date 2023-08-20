@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.”  –  Zig Ziglar
+    “Stay focused, go after your dreams and keep moving toward your goals.”  –  LL Cool J
   </p>
 </div>
 

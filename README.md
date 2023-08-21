@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Stay focused, go after your dreams and keep moving toward your goals.”  –  LL Cool J
+    “It’s not how hard you pushed along the way.  It’s having something in you to finish.”  –  Michael Jordan
   </p>
 </div>
 

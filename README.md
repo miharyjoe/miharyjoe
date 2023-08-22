@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It’s not how hard you pushed along the way.  It’s having something in you to finish.”  –  Michael Jordan
+    “To achieve a different result simply requires a different choice of understanding, grit and intention.” – Ty Howard
   </p>
 </div>
 

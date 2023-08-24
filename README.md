@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Most people never run far enough on their first wind to find out they’ve got a second. Give your dreams all you’ve got and you’ll be amazed at the energy that comes out of you.”  –  William James
+    “The #1 predictor of success… Grit!  The ability to persevere, overcome and move forward in spite of challenges, failures and obstacles.”  –  Anonymous
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The #1 predictor of success… Grit!  The ability to persevere, overcome and move forward in spite of challenges, failures and obstacles.”  –  Anonymous
+    “Go for it now.  The future is promised to no one.”  –  Wayne Dyer
   </p>
 </div>
 

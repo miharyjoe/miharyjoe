@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Go for it now.  The future is promised to no one.”  –  Wayne Dyer
+    “Success is how high you bounce when you hit bottom.”  –  George S. Patton
   </p>
 </div>
 

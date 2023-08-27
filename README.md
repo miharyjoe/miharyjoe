@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Success is how high you bounce when you hit bottom.”  –  George S. Patton
+    “It’s not where you start — It’s where you finish that counts.”  –  Zig Ziglar
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It’s not where you start — It’s where you finish that counts.”  –  Zig Ziglar
+    “The journey of a thousand miles begins with one step.”  –  Lao Tzu
   </p>
 </div>
 

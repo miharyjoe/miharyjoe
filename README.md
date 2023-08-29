@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The journey of a thousand miles begins with one step.”  –  Lao Tzu
+    “Listen, every overnight success has taken 15 years, and that’s just the way it goes.” – Daymond John
   </p>
 </div>
 

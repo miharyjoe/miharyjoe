@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Listen, every overnight success has taken 15 years, and that’s just the way it goes.” – Daymond John
+    “Tough time don’t last.  Tough people do.”  –  Robert H. Schuller
   </p>
 </div>
 

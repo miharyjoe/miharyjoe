@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Much good work is lost for the lack of a little more.”  –  Edward H. Harriman
+    “It’s always too early too quit.”  –  Norman Vincent Peale
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It’s always too early too quit.”  –  Norman Vincent Peale
+    “The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself.”  –  Mark Caine
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Focus on the solution, not on the problem.”  –  Jim Rohn
+    “The successful warrior is the average man, with laser-like focus.”  –  Bruce Lee
   </p>
 </div>
 

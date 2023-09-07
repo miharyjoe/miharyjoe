@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The successful warrior is the average man, with laser-like focus.”  –  Bruce Lee
+    “Success doesn’t just happen. You have to be intentional about it, and that takes discipline.”  –  John C. Maxwell
   </p>
 </div>
 

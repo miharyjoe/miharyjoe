@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Success doesn’t just happen. You have to be intentional about it, and that takes discipline.”  –  John C. Maxwell
+    “Set you goals high, and don’t stop till you get there.”  –  Bo Jackson
   </p>
 </div>
 

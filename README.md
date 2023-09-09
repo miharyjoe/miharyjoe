@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Set you goals high, and don’t stop till you get there.”  –  Bo Jackson
+    “Your life is controlled by what you focus on.”  –  Tony Robbins
   </p>
 </div>
 

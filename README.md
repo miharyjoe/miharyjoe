@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Your life is controlled by what you focus on.”  –  Tony Robbins
+    “Great is the art of beginning, but greater is the art of ending.”  –  Henry Wadsworth Longfellow
   </p>
 </div>
 

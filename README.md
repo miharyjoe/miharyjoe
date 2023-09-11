@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Great is the art of beginning, but greater is the art of ending.”  –  Henry Wadsworth Longfellow
+    “Strength does not come from physical capacity.  It comes from an indomitable will.”  –  Mahatma Gandhi
   </p>
 </div>
 

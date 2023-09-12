@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Strength does not come from physical capacity.  It comes from an indomitable will.”  –  Mahatma Gandhi
+    “Dreams don’t work unless you do.”  –  John C. Maxwell
   </p>
 </div>
 

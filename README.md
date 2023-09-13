@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Dreams don’t work unless you do.”  –  John C. Maxwell
+    “My first account was Neiman Marcus. I cold-called them just like I had cold-called businesses when I was selling fax machines for seven years.”  –  Sara Blakely
   </p>
 </div>
 

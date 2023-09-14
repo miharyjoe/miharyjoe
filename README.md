@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “My first account was Neiman Marcus. I cold-called them just like I had cold-called businesses when I was selling fax machines for seven years.”  –  Sara Blakely
+    “Success seems to be connected with action.  Successful people keep moving.  They make mistakes but they don’t quit.”  –  Finish Strong Quote
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Success seems to be connected with action.  Successful people keep moving.  They make mistakes but they don’t quit.”  –  Finish Strong Quote
+    “Success is the progressive realization of a worthy goal.”  –  Earl Nightingale
   </p>
 </div>
 

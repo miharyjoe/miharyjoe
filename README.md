@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Success is the progressive realization of a worthy goal.”  –  Earl Nightingale
+    “We are made to persist. That’s how we find out who we are.”  –  Tobias Wolff
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “We are made to persist. That’s how we find out who we are.”  –  Tobias Wolff
+    “I firmly believe that any man’s finest hour, the greatest fulfillment of all that he holds dear, is that moment when he has worked his heart out in a good cause and lies exhausted on the field of battle – victorious.” – Vince Lombardi
   </p>
 </div>
 

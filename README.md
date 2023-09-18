@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I firmly believe that any man’s finest hour, the greatest fulfillment of all that he holds dear, is that moment when he has worked his heart out in a good cause and lies exhausted on the field of battle – victorious.” – Vince Lombardi
+    “Success in anything will always come down to this: Focus & Effort, andwe control both of them.”  –  Dwayne ‘The Rock’ Johnson
   </p>
 </div>
 

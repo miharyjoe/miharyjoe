@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Success in anything will always come down to this: Focus & Effort, andwe control both of them.”  –  Dwayne ‘The Rock’ Johnson
+    “Grit comes down to your habits. It’s about doing the things you know you’re supposed to do on a more consistent basis. It’s about your dedication to daily practice and your ability to stick to a schedule.” – James Clear
   </p>
 </div>
 

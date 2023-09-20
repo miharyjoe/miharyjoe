@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Grit comes down to your habits. It’s about doing the things you know you’re supposed to do on a more consistent basis. It’s about your dedication to daily practice and your ability to stick to a schedule.” – James Clear
+    “Better is the end of a thing than its beginning, and the patient in spirit is better than the proud in spirit.”  –  Ecclesiastes 7:8
   </p>
 </div>
 

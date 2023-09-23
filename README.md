@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Most people don’t finish strong, but some do. And those that do continually get the treasures of their effort.”  –  Brian Robben
+    “Opportunities don’t happen. You create them.”  –  Chris Grosser
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I think very early on in life we all learn what we’re good at and what we’re not good at, and we stay where it’s safe.”  –  Sara Blakely
+    “Focus on your goal, not the how.”  –  Bob Proctor
   </p>
 </div>
 

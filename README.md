@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Everyone wants to be successful, but the prize eventually goes to those who strive to finish strong.  So, stay up late, do the work, and most importantly…finish strong.”  –  Atlas Rowe
+    “Our focus is our future, and what we focus on will multiply in our life.”  –  David DeNotaris
   </p>
 </div>
 

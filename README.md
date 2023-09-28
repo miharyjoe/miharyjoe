@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Our focus is our future, and what we focus on will multiply in our life.”  –  David DeNotaris
+    “Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.”   –  Jamie Paolinetti
   </p>
 </div>
 

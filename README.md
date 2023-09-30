@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I alone cannot change the world, but I can cast a stone across the water to create many ripples.” – Mother Teresa
+    “No matter where you’re from, your dreams are valid.”  –  Lupita Nyong’o
   </p>
 </div>
 

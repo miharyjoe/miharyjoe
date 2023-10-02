@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “There is no room for second place. There is only one place in my game and that is first place. I have finished second twice in my time at Green Bay and I never want to finish second again.”  –  Vince Lombardi
+    “No one ever defeated a resolute will. Even death stands still before such a will.”  –  Claude M. Bristol
   </p>
 </div>
 

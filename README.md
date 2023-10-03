@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “No one ever defeated a resolute will. Even death stands still before such a will.”  –  Claude M. Bristol
+    “Always take another step. If this is to no avail take another, and yet another. One step at a time is not too difficult.”  –  Og Mandino
   </p>
 </div>
 

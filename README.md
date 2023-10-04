@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Always take another step. If this is to no avail take another, and yet another. One step at a time is not too difficult.”  –  Og Mandino
+    “You will never win if you never begin.”  –  Helen Rowland
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You will never win if you never begin.”  –  Helen Rowland
+    “Someone twice as talented but half as hardworking as another person might reach the same level of skill but still produce dramatically less over time.”  –  Angela Duckworth
   </p>
 </div>
 

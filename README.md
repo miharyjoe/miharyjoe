@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “A man’s life is interesting primarily when he has failed. I well know. For its a sign that he tried to surpass himself.”  –  Georges Clemenceau
+    “All our dreams can come true, if we have the courage to pursue them.”  –  Walt Disney
   </p>
 </div>
 

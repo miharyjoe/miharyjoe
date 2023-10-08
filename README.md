@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “All our dreams can come true, if we have the courage to pursue them.”  –  Walt Disney
+    “To dare is to lose one’s footing momentarily. To not dare is to lose oneself.”  –  Soren Kierkegaard
   </p>
 </div>
 

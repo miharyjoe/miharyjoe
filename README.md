@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will.”  –  Vince Lombardi
+    “Most people never run far enough on their first wind to find out they’ve got a second. Give your dreams all you’ve got and you’ll be amazed at the energy that comes out of you.”  –  William James
   </p>
 </div>
 

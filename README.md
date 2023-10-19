@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Success doesn’t come to you, you go to it.”  –  T. Scott Mcleod
+    “In starting a business and growing a business, every day is learning how to manage obstacles.”  –  Sara Blakely
   </p>
 </div>
 

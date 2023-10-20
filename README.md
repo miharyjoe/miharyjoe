@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “In starting a business and growing a business, every day is learning how to manage obstacles.”  –  Sara Blakely
+    “Finishing strong is the attitude of believing you can do something and having the courage and determination to see it through to the end.” – Brad Larsen
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Finishing strong is the attitude of believing you can do something and having the courage and determination to see it through to the end.” – Brad Larsen
+    “To be gritty is to fall down seven times and rise eight.”  –  Angela Duckworth
   </p>
 </div>
 

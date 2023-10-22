@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “To be gritty is to fall down seven times and rise eight.”  –  Angela Duckworth
+    “It is not enough to be an enthusiastic starter; you must also be an optimistic finisher.”  –  Leon Ho
   </p>
 </div>
 

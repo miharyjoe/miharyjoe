@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The most difficult thing is the decision to act, the rest is merely tenacity.”  –  Amelia Earhart
+    “If you wish to be out front, then act as if you were behind.”  –  Lao Tzu
   </p>
 </div>
 

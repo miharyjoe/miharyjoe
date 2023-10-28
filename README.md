@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you wish to be out front, then act as if you were behind.”  –  Lao Tzu
+    “Differentiate yourself!  Why are you different?  What’s important about you?  Why does the customer need you?”  –  Sara Blakely
   </p>
 </div>
 

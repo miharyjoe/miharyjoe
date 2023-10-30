@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “What most of us never suspect of existing, is the silent but irresistiblepower which comes to the rescue of those who fight on in the face ofdiscouragement.” – Napoleon Hill
+    “Don’t be afraid to give up the good to go for the great.”  –  John D. Rockefeller
   </p>
 </div>
 

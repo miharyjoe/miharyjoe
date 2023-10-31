@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Don’t be afraid to give up the good to go for the great.”  –  John D. Rockefeller
+    “Only those who dare to fail greatly can ever achieve greatly.”  –  Robert F. Kennedy
   </p>
 </div>
 

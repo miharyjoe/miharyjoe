@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Focus on simplicity…  once you get there, you can move mountains.”  –  Steve Jobs
+    “Unwearied ceaseless effort is the price that must be paid for turning faith into a rich infallible experience.”  –  Mahatma Gandhi
   </p>
 </div>
 

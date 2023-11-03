@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Unwearied ceaseless effort is the price that must be paid for turning faith into a rich infallible experience.”  –  Mahatma Gandhi
+    “When everything seems to be going against you, remember that the airplane takes off against the wind, not within it.”  –  Henry Ford
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “When everything seems to be going against you, remember that the airplane takes off against the wind, not within it.”  –  Henry Ford
+    “It does not matter how slowly you go as long as you do not stop.”  –  Confucius
   </p>
 </div>
 

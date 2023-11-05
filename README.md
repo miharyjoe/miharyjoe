@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It does not matter how slowly you go as long as you do not stop.”  –  Confucius
+    “Winners embrace hard work. They love the discipline of it, the trade-off they’re making to win. Losers, on the other hand, see it as a punishment.And that’s the difference.”  –  Lou Holtz
   </p>
 </div>
 

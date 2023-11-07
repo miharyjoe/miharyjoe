@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “People that have grit are extraordinarily resilient and are willing to put in the effort to get things done.”  –  Lee David Daniels
+    “Don’t fear failure. — Not failure, but low aim, is the crime. In great attempts it is glorious even to fail.”  –  Bruce Lee
   </p>
 </div>
 

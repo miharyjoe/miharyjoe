@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Don’t fear failure. — Not failure, but low aim, is the crime. In great attempts it is glorious even to fail.”  –  Bruce Lee
+    “I don’t stop when I am tired.  I stop when I am done.”  –  David Goggins
   </p>
 </div>
 

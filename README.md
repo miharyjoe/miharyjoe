@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I don’t stop when I am tired.  I stop when I am done.”  –  David Goggins
+    “If you don’t let knowing how it’s done intimidate you, it’s amazing what you can do.”  –  Sara Blakely
   </p>
 </div>
 

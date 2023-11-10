@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you don’t let knowing how it’s done intimidate you, it’s amazing what you can do.”  –  Sara Blakely
+    “Do not wait to strike till the iron is hot: But make it hot by striking.”  –  William B. Sprague
   </p>
 </div>
 

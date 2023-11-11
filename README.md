@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Do not wait to strike till the iron is hot: But make it hot by striking.”  –  William B. Sprague
+    “Persistence. The only thing that will piss-off failure enough for it to get the fu** out of the way of your success. PERSIST.”  – The Ultimate Warrior
   </p>
 </div>
 

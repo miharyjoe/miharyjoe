@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Our greatest glory is not in never falling but in rising every time we fall.”  –  Confucius
+    “The truest wisdom is a resolute determination.”  –  Napoleon Bonaparte
   </p>
 </div>
 

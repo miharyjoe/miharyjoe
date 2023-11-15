@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Courage doesn’t always roar, sometimes it’s the quiet voice at the end ofthe day whispering ‘I will try again tomorrow’.”  –  Mary Anne Radmacher
+    “He who is not courageous enough to take risks will accomplish nothing in life.”  –  Muhammad Ali
   </p>
 </div>
 

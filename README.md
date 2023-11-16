@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “He who is not courageous enough to take risks will accomplish nothing in life.”  –  Muhammad Ali
+    “Many will start fast, few will finish strong.” – Gary Ryan Blair
   </p>
 </div>
 

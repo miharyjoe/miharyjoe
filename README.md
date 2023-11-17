@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Many will start fast, few will finish strong.” – Gary Ryan Blair
+    “The best way out is always through.”  –  Robert Frost
   </p>
 </div>
 

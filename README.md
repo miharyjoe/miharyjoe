@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “What’s done is done.  What’s gone is gone.  One of life’s lessons is always moving on.  It’s okay to look back to see how far you’ve come but keep moving forward.”  –  Roy T. Bennett
+    “Do the one thing you think you cannot do.  Fail at it.  Do better the second time.  The only people who never tumble are those who never mount the high wire.  This is your moment.  Own it.”  –  Oprah Winfrey
   </p>
 </div>
 

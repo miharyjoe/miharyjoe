@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Do the one thing you think you cannot do.  Fail at it.  Do better the second time.  The only people who never tumble are those who never mount the high wire.  This is your moment.  Own it.”  –  Oprah Winfrey
+    “The extra energy required to make another effort… is the secret of winning.”  –  Denis Waitley
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The extra energy required to make another effort… is the secret of winning.”  –  Denis Waitley
+    “Perseverance is the hard work you do after you get tired of doing the hard work you already did.”  –  Newt Gingrich
   </p>
 </div>
 

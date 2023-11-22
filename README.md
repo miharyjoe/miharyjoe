@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Perseverance is the hard work you do after you get tired of doing the hard work you already did.”  –  Newt Gingrich
+    “Never throughout history has a man who lived a life of ease left a name worth remembering.”  –  Theodore Roosevelt
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Never throughout history has a man who lived a life of ease left a name worth remembering.”  –  Theodore Roosevelt
+    “Whether you think you can or you think you can’t, you’re right.”  –  Henry Ford
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Do you want to know who you are? Don’t ask. Act! Action will delineate and define you.”  –  Thomas Jefferson
+    “To dare is to lose one’s footing momentarily. To not dare is to lose oneself.”  –  Soren Kierkegaard
   </p>
 </div>
 

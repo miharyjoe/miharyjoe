@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “To dare is to lose one’s footing momentarily. To not dare is to lose oneself.”  –  Soren Kierkegaard
+    “You must expect great things of yourself before you can do them.”  –  Michael Jordan
   </p>
 </div>
 

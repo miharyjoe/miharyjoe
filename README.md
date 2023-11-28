@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You must expect great things of yourself before you can do them.”  –  Michael Jordan
+    “The best way to predict the future is to create it.”  –  Peter Drucker
   </p>
 </div>
 

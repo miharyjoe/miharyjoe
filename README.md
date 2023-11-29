@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The best way to predict the future is to create it.”  –  Peter Drucker
+    “Miserable people focus on what they hate about their life.  Happy people focus on what they love about their life.”  –  Zig Ziglar
   </p>
 </div>
 

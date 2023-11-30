@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Miserable people focus on what they hate about their life.  Happy people focus on what they love about their life.”  –  Zig Ziglar
+    “You don’t need an MBA to launch a business. You need street smarts and grit.” – Barbara Corcoran
   </p>
 </div>
 

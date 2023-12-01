@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You don’t need an MBA to launch a business. You need street smarts and grit.” – Barbara Corcoran
+    “If you believe it will work out, you’ll see opportunities. If you believe it won’t, you will see obstacles.”  –  Wayne Dyer
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you believe it will work out, you’ll see opportunities. If you believe it won’t, you will see obstacles.”  –  Wayne Dyer
+    “Never throughout history has a man who lived a life of ease left a name worth remembering.”  –  Theodore Roosevelt
   </p>
 </div>
 

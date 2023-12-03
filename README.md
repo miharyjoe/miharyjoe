@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Never throughout history has a man who lived a life of ease left a name worth remembering.”  –  Theodore Roosevelt
+    “No one ever defeated a resolute will. Even death stands still before such a will.”  –  Claude M. Bristol
   </p>
 </div>
 

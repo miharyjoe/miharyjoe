@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “No one ever defeated a resolute will. Even death stands still before such a will.”  –  Claude M. Bristol
+    “Patience, persistence, and perspiration make an unbeatable combination for success.”  –  Napoleon Hill
   </p>
 </div>
 

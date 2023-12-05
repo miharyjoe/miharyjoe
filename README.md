@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Patience, persistence, and perspiration make an unbeatable combination for success.”  –  Napoleon Hill
+    “You must expect great things of yourself before you can do them.”  –  Michael Jordan
   </p>
 </div>
 

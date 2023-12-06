@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You must expect great things of yourself before you can do them.”  –  Michael Jordan
+    “Stop managing your time.  Start managing your focus.”  –  Robin Sharma
   </p>
 </div>
 

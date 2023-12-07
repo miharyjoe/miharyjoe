@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Stop managing your time.  Start managing your focus.”  –  Robin Sharma
+    “Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.”  –  Theodore Roosevelt
   </p>
 </div>
 

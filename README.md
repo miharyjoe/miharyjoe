@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.”  –  Theodore Roosevelt
+    “Do not bite at the bait of pleasure till you know there is no hook beneath it.”  –  Thomas Jefferson
   </p>
 </div>
 

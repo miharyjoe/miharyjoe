@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Do not bite at the bait of pleasure till you know there is no hook beneath it.”  –  Thomas Jefferson
+    “Focus on making yourself better, not on thinking that you are better.”  –  Bodhi Sanders
   </p>
 </div>
 

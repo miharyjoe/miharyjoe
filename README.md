@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Focus on making yourself better, not on thinking that you are better.”  –  Bodhi Sanders
+    “You have to think big to be big.”  –  Claude M. Bristol
   </p>
 </div>
 

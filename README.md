@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You have to think big to be big.”  –  Claude M. Bristol
+    “People are rewarded in public for what they’ve practiced for years in private.”  –  Tony Robbins
   </p>
 </div>
 

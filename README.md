@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Let me tell you the secret that has led me to my goal.  My strength lies solely in my tenacity.”  –  Louis Pasteur
+    “Goals are like a map. They help us determine where we want to end up, and give us personal direction on which to focus our energy.”  –  Catherine Pulsifer
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Goals are like a map. They help us determine where we want to end up, and give us personal direction on which to focus our energy.”  –  Catherine Pulsifer
+    “Grit determines that life challenges will neither defeat nor define us.”  –  Anonymous
   </p>
 </div>
 

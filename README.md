@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Grit determines that life challenges will neither defeat nor define us.”  –  Anonymous
+    “Never say never, because limits, like fears, are often just an illusion.”  –  Michael Jordan
   </p>
 </div>
 

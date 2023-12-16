@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Never say never, because limits, like fears, are often just an illusion.”  –  Michael Jordan
+    “Sometimes, a winner is a dreamer who just won’t quit.”  –  Rudy
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Sometimes, a winner is a dreamer who just won’t quit.”  –  Rudy
+    “Whenever you want to achieve something, keep your eyes open, concentrate and make sure you know exactly what it is you want. No one can hit their target with their eyes closed.”  –  Paulo Coelho
   </p>
 </div>
 

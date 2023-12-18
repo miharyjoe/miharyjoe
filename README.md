@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Whenever you want to achieve something, keep your eyes open, concentrate and make sure you know exactly what it is you want. No one can hit their target with their eyes closed.”  –  Paulo Coelho
+    “If you fell down yesterday, stand up today.”  –  H.G. Wells
   </p>
 </div>
 

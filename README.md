@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you fell down yesterday, stand up today.”  –  H.G. Wells
+    “Going in one more round when you don’t think you can. That’s what makes all the difference in your life.”  –  Rocky Balboa
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Going in one more round when you don’t think you can. That’s what makes all the difference in your life.”  –  Rocky Balboa
+    “Good, better, best. Never let it rest. ‘Till your good is better and your better is best.'”  –  St. Jerome
   </p>
 </div>
 

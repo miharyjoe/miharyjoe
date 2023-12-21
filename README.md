@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Good, better, best. Never let it rest. ‘Till your good is better and your better is best.'”  –  St. Jerome
+    “Do not bite at the bait of pleasure till you know there is no hook beneath it.”  –  Thomas Jefferson
   </p>
 </div>
 

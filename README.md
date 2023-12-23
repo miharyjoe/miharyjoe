@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It’s not that I am so smart; it’s just that I stay with problems longer.”  –  Albert Einstein
+    “With self-discipline, most anything is possible.”  –  Theodore Roosevelt
   </p>
 </div>
 

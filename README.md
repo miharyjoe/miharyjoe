@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I failed my way to success.” –  Thomas Edison
+    “Stop managing your time.  Start managing your focus.”  –  Robin Sharma
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Stop managing your time.  Start managing your focus.”  –  Robin Sharma
+    “Leadership grit begets grit. Lead by example.”  –  Bill Hybels
   </p>
 </div>
 

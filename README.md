@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Leadership grit begets grit. Lead by example.”  –  Bill Hybels
+    “Everything is hard before it is easy.”  –  Goethe
   </p>
 </div>
 

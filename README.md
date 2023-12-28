@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Everything is hard before it is easy.”  –  Goethe
+    “Think Strong.  Be Strong.  Finish Strong.”  –  Anonymous
   </p>
 </div>
 

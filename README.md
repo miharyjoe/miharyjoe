@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Winners embrace hard work. They love the discipline of it, the trade-off they’re making to win. Losers, on the other hand, see it as a punishment.And that’s the difference.”  –  Lou Holtz
+    “To be successful we must do things that unsuccessful people do not wantto do. Those things require levels of courage.”  –  R. Harpe
   </p>
 </div>
 

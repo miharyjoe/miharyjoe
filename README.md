@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “To be successful we must do things that unsuccessful people do not wantto do. Those things require levels of courage.”  –  R. Harpe
+    “Grit is living life like it is a marathon,  not a sprint.”  –  Angela Duckworth
   </p>
 </div>
 

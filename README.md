@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Grit is living life like it is a marathon,  not a sprint.”  –  Angela Duckworth
+    “Grit is the one trait that I, as a mentor, try to instill in younger entrepreneurs. Your road as an entrepreneur likely won’t be easy or straightforward. But, fortunately, those who train themselves to persevere and remain committed to their vision and principles are much more likely to attain their entrepreneurial goals than those who lack this sense of grit.”  –  Amine Rahal
   </p>
 </div>
 

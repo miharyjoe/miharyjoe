@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you are not willing to learn, no one can help you. If you are determined to learn, no one can stop you.”  –  Zig Ziglar
+    “I don’t count my sit-ups, I only start counting when it starts hurting, whenI feel pain, that’s when I start counting, cause that’s when it really counts.”  –  Muhammad Ali
   </p>
 </div>
 

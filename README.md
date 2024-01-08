@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I don’t count my sit-ups, I only start counting when it starts hurting, whenI feel pain, that’s when I start counting, cause that’s when it really counts.”  –  Muhammad Ali
+    “God doesn’t require us to succeed, he only requires that you try.”  –  Mother Teresa
   </p>
 </div>
 

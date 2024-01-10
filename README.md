@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Obstacles can’t stop you.  Problems can’t stop you.  Most of all, other people can’t stop you.  Only YOU can stop you.”  –  Jeoffrey Gitomer
+    “Build your own dreams, or someone else will hire you to build theirs.”  –  Farrah Gray
   </p>
 </div>
 

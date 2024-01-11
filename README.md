@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Build your own dreams, or someone else will hire you to build theirs.”  –  Farrah Gray
+    “Your true success in life begins only when you make the commitment to become excellent at what you do.”  –  Brian Tracy
   </p>
 </div>
 

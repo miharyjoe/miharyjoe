@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Your true success in life begins only when you make the commitment to become excellent at what you do.”  –  Brian Tracy
+    “Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.”  –  Dale Carnegie
   </p>
 </div>
 

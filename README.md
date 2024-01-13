@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.”  –  Dale Carnegie
+    “Don’t be afraid to fail.” – Sara Blakely
   </p>
 </div>
 

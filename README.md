@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Don’t be afraid to fail.” – Sara Blakely
+    “Over time, grit is what separates fruitful lives from aimlessness.”  –  John Ortberg
   </p>
 </div>
 

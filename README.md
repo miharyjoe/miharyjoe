@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Over time, grit is what separates fruitful lives from aimlessness.”  –  John Ortberg
+    “Nothing is less productive than to make more efficient what should not bedone at all.”  –  Peter Drucker
   </p>
 </div>
 

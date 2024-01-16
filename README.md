@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Nothing is less productive than to make more efficient what should not bedone at all.”  –  Peter Drucker
+    “Every strike brings me closer to the next home run.”  –  Babe Ruth
   </p>
 </div>
 

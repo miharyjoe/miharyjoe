@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Sometimes, a winner is a dreamer who just won’t quit.”  –  Rudy
+    “You deserve what your actions earned, or haven’t earned.”  –  M.J. Demarco
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “When I was young, I observed that nine out of ten things I did were failures. So I did ten times more work.”  –  George Bernard Shaw
+    “Anything’s possible if you’ve got enough grit.”  –  Atlas Rowe
   </p>
 </div>
 

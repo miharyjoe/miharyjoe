@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Anything’s possible if you’ve got enough grit.”  –  Atlas Rowe
+    “Grit isn’t about getting an incredible dose of inspiration or courage. It’s about building the daily habits that allow you to stick to a schedule and overcome challenges and distractions over and over and over again.”  –  James Clear
   </p>
 </div>
 

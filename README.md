@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Grit isn’t about getting an incredible dose of inspiration or courage. It’s about building the daily habits that allow you to stick to a schedule and overcome challenges and distractions over and over and over again.”  –  James Clear
+    “You do what you can for as long as you can, and when you can’t, you do the next best thing. You back up, but you don’t give up.”  –  Chuck Yeager
   </p>
 </div>
 

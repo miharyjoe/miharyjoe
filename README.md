@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You do what you can for as long as you can, and when you can’t, you do the next best thing. You back up, but you don’t give up.”  –  Chuck Yeager
+    “Long is the way and hard, that out of hell leads up to the light.”  –  John Milton
   </p>
 </div>
 

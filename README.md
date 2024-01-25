@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Long is the way and hard, that out of hell leads up to the light.”  –  John Milton
+    “There are two mistakes one can make along the way to truth: not going all the way, and not starting.”  –  Buddha
   </p>
 </div>
 

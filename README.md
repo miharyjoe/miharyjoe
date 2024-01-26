@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “There are two mistakes one can make along the way to truth: not going all the way, and not starting.”  –  Buddha
+    “There is a hidden blessing in the most traumatic things we go through in our lives.  My brain always goes to, ‘Where is the hidden blessing?  What is my gift?'”  –  Sara Blakely
   </p>
 </div>
 

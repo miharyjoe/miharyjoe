@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “There is a hidden blessing in the most traumatic things we go through in our lives.  My brain always goes to, ‘Where is the hidden blessing?  What is my gift?'”  –  Sara Blakely
+    “Nothing is less productive than to make more efficient what should not bedone at all.”  –  Peter Drucker
   </p>
 </div>
 

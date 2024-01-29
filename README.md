@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Problems are not stop signs, they are guidelines.”  –  Robert H. Schuller
+    “Focus on the solution, not on the problem.”  –  Jim Rohn
   </p>
 </div>
 

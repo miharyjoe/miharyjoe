@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Focus on the solution, not on the problem.”  –  Jim Rohn
+    “I am not a product of my circumstances. I am a product of my decision.”  –  Stephen Covey
   </p>
 </div>
 

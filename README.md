@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It’s going to be hard, but hard does not mean impossible.”  –  Anonymous
+    “Victory is always possible for the person who refuses defeat.” – Anonymous
   </p>
 </div>
 

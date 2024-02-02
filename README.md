@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Victory is always possible for the person who refuses defeat.” – Anonymous
+    “I believe every human has a finite number of heartbeats. I don’t intend to waste any of mine.”  –  Neil Armstrong
   </p>
 </div>
 

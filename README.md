@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I believe every human has a finite number of heartbeats. I don’t intend to waste any of mine.”  –  Neil Armstrong
+    “Continuous Effort, not strength or intelligence, is the key to unlocking our potential.”  –  Winston Churchill
   </p>
 </div>
 

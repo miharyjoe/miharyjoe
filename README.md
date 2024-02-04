@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Continuous Effort, not strength or intelligence, is the key to unlocking our potential.”  –  Winston Churchill
+    “Do the work. Everyone wants to be successful, but nobody wants to do the work.”  –  Gary Vaynerchuk
   </p>
 </div>
 

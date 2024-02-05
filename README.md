@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Do the work. Everyone wants to be successful, but nobody wants to do the work.”  –  Gary Vaynerchuk
+    “Don’t you dare let their laughter extinguish your ambition.”  –  J.K. Rowling
   </p>
 </div>
 

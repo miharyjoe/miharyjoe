@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Not everyone who started with you will finish with you.  Be willing to go without them if you have to.”  –  Tony Gaskins
+    “Kites rise highest against the wind – not with it.”  –  Winston Churchill
   </p>
 </div>
 

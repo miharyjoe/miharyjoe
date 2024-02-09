@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Kites rise highest against the wind – not with it.”  –  Winston Churchill
+    “For success, attitude is equally as important as ability.”  –  Harry F. Banks
   </p>
 </div>
 

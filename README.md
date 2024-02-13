@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The path to success is to take massive, determined action.” – Tony Robbins
+    “You can’t use up creativity. The more you use, the more you have.”  –  Maya Angelou
   </p>
 </div>
 

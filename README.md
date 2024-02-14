@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You can’t use up creativity. The more you use, the more you have.”  –  Maya Angelou
+    “The truth is, unless you let go, unless you forgive yourself, unless you forgive the situation, unless you realize that the situation is over, you can’t move forward.”  –  Steve Maraboli
   </p>
 </div>
 

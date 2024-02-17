@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Gritty people are resilient, in the sense that they thrive through adversity. They reframe every challenge as an opportunity and do the work to become the master of their emotions.”  –  Ashley Elizabeth
+    “There is no failure except in no longer trying.”  –  Elbert Hubbard
   </p>
 </div>
 

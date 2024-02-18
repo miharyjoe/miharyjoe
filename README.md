@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “There is no failure except in no longer trying.”  –  Elbert Hubbard
+    “If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on.”  –  Sheryl Sandberg
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on.”  –  Sheryl Sandberg
+    “Our greatest glory is not in never falling but in rising every time we fall.”  –  Confucius
   </p>
 </div>
 

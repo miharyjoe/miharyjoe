@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Never say never, because limits, like fears, are often just an illusion.”  –  Michael Jordan
+    “Listen, every overnight success has taken 15 years, and that’s just the way it goes.” – Daymond John
   </p>
 </div>
 

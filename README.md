@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Listen, every overnight success has taken 15 years, and that’s just the way it goes.” – Daymond John
+    “If it’s going to make you happy, go for it –  life is short.”  –  Tiffany Darwish
   </p>
 </div>
 

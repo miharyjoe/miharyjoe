@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If it’s going to make you happy, go for it –  life is short.”  –  Tiffany Darwish
+    “All the so-called ‘secrets of success’ will not work unless you do.” – Anonymous
   </p>
 </div>
 

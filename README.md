@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “All the so-called ‘secrets of success’ will not work unless you do.” – Anonymous
+    “You don’t get results by focusing on results.  You get results by focusing on the actions that produce results.”  –  Mike Hawkins
   </p>
 </div>
 

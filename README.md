@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You don’t get results by focusing on results.  You get results by focusing on the actions that produce results.”  –  Mike Hawkins
+    “The person who stops studying merely because he has finished school is forever hopelessly doomed to mediocrity, no matter what may be his calling. The way of success is the way of continuous pursuit of knowledge.” – Napoleon Hill
   </p>
 </div>
 

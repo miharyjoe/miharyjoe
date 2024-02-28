@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The person who stops studying merely because he has finished school is forever hopelessly doomed to mediocrity, no matter what may be his calling. The way of success is the way of continuous pursuit of knowledge.” – Napoleon Hill
+    “A champion is someone who gets up when he can’t.”  –  Jack Dempsey
   </p>
 </div>
 

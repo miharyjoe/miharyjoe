@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “A champion is someone who gets up when he can’t.”  –  Jack Dempsey
+    “Going in one more round when you don’t think you can. That’s what makes all the difference in your life.”  –  Rocky Balboa
   </p>
 </div>
 

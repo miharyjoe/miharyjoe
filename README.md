@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Going in one more round when you don’t think you can. That’s what makes all the difference in your life.”  –  Rocky Balboa
+    “Focus on making yourself better, not on thinking that you are better.”  –  Bodhi Sanders
   </p>
 </div>
 

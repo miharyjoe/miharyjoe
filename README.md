@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Focus on making yourself better, not on thinking that you are better.”  –  Bodhi Sanders
+    “The people who stick with things for years and never stop almost always win the race.”  –  James Clear
   </p>
 </div>
 

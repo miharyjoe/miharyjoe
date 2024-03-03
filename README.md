@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The people who stick with things for years and never stop almost always win the race.”  –  James Clear
+    “Beginnings are easy, the thing is to finish the race.”  –  Vitor Belfort
   </p>
 </div>
 

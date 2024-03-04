@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Beginnings are easy, the thing is to finish the race.”  –  Vitor Belfort
+    “A somebody was once a nobody who wanted to and did.”  –  John Burroughs
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “A somebody was once a nobody who wanted to and did.”  –  John Burroughs
+    “If people are doubting how far you can go, go so far that you can’t hear them anymore.”  –  Michele Ruiz
   </p>
 </div>
 

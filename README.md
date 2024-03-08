@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You don’t need an MBA to launch a business. You need street smarts and grit.” – Barbara Corcoran
+    “The start does matter.  The beginning is significant.  The first few steps are critical, but they aren’t the most important.  Do you know what matters more?  Do you know what makes the start look silly and easy?  The finish.”  –  Jon Acuff
   </p>
 </div>
 

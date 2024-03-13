@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If the word quit is part of your vocabulary, then the word finish is likely not.”  –  B.G. Jett
+    “I would rather die of passion than of boredom.”  –  Vincent van Gogh
   </p>
 </div>
 

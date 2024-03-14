@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I would rather die of passion than of boredom.”  –  Vincent van Gogh
+    “That some achieve great success, is proof to all that others can achieve it as well.”  –  Abraham Lincoln
   </p>
 </div>
 

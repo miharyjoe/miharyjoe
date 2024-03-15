@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “That some achieve great success, is proof to all that others can achieve it as well.”  –  Abraham Lincoln
+    “Don’t think about the start of the race. Think about the ending.” – Usain Bolt
   </p>
 </div>
 

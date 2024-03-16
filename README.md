@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Don’t think about the start of the race. Think about the ending.” – Usain Bolt
+    “Judge your success by what you had to give up in order to get it.”  –  Dalai Lama
   </p>
 </div>
 

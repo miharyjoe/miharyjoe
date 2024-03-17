@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Judge your success by what you had to give up in order to get it.”  –  Dalai Lama
+    “When a man is sufficiently motivated, discipline will take care of itself.”  –  Albert Einstein
   </p>
 </div>
 

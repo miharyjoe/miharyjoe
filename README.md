@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “When a man is sufficiently motivated, discipline will take care of itself.”  –  Albert Einstein
+    “It was desire that brought progress to the world.”  –  Claude M. Bristol
   </p>
 </div>
 

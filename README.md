@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It was desire that brought progress to the world.”  –  Claude M. Bristol
+    “Set you goals high, and don’t stop till you get there.”  –  Bo Jackson
   </p>
 </div>
 

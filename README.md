@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Set you goals high, and don’t stop till you get there.”  –  Bo Jackson
+    “Circumstances are beyond human control but our conduct is in our own power.” – Benjamin Disraeli
   </p>
 </div>
 

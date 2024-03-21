@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Circumstances are beyond human control but our conduct is in our own power.” – Benjamin Disraeli
+    “Self-discipline is the magic power that makes you virtually unstoppable.”  –  Dan Kennedy
   </p>
 </div>
 

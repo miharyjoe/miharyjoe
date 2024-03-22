@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Self-discipline is the magic power that makes you virtually unstoppable.”  –  Dan Kennedy
+    “The heights by great men reached and kept, were not attained by sudden flight, but they, while their companions slept, were toiling upward in the night.”  –  Henry Wadsworth Longfellow
   </p>
 </div>
 

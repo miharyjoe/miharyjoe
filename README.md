@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The heights by great men reached and kept, were not attained by sudden flight, but they, while their companions slept, were toiling upward in the night.”  –  Henry Wadsworth Longfellow
+    “When a goal matters enough to a person, that person will find a way to accomplish what at first seemed impossible.” – Nido Qubein
   </p>
 </div>
 

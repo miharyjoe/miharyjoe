@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Stay focused, go after your dreams and keep moving toward your goals.”  –  LL Cool J
+    “The desire for safety stands against every great and noble enterprise.”  –  Tacitus
   </p>
 </div>
 

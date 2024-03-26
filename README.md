@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The desire for safety stands against every great and noble enterprise.”  –  Tacitus
+    “To win you’ve got to stay in the game.”  –  Claude M. Bristol
   </p>
 </div>
 

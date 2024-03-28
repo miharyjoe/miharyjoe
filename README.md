@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “For success, attitude is equally as important as ability.”  –  Harry F. Banks
+    “Good, better, best. Never let it rest. ‘Till your good is better and your better is best.'”  –  St. Jerome
   </p>
 </div>
 

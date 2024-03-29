@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Good, better, best. Never let it rest. ‘Till your good is better and your better is best.'”  –  St. Jerome
+    “The best way out is always through.”  –  Robert Frost
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The best way out is always through.”  –  Robert Frost
+    “It doesn’t matter whether you are pursuing success in business, sports, thearts, or life in general: The bridge between wishing and accomplishing is discipline.”  –  Harvey Mackay
   </p>
 </div>
 

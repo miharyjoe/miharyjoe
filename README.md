@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Opportunities are usually disguised as hard work, so most people don’t recognize them.”  –  Ann Landers
+    “To live is to learn, to strive is to become.” – Friedrich Nietzsche
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “To live is to learn, to strive is to become.” – Friedrich Nietzsche
+    “He who seeks rest finds boredom….He who seeks work finds rest.”  –  Anonymous
   </p>
 </div>
 

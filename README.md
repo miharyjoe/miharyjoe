@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Effort is only effort when it begins to hurt.”  –  Jose Ortega y Gassett
+    “You’ve got to embrace what you don’t know.”  –  Sara Blakely
   </p>
 </div>
 

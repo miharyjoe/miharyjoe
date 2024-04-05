@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You’ve got to embrace what you don’t know.”  –  Sara Blakely
+    “It’s going to be hard, but hard does not mean impossible.”  –  Anonymous
   </p>
 </div>
 

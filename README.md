@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It’s going to be hard, but hard does not mean impossible.”  –  Anonymous
+    “Obstacles are those frightful things you see when you take your eyes off your goals.”  –  Henry Ford
   </p>
 </div>
 

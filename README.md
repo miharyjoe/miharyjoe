@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Obstacles are those frightful things you see when you take your eyes off your goals.”  –  Henry Ford
+    “Problems are only opportunities in work clothes.”  –  Henry J. Kaiser
   </p>
 </div>
 

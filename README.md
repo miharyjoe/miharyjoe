@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Problems are only opportunities in work clothes.”  –  Henry J. Kaiser
+    “Always discover your vision and the rest will follow.”  –  Arnold Schwarzenegger
   </p>
 </div>
 

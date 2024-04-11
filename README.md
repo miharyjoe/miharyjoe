@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Don’t stop until you’re proud.”  –  Anonymous
+    “Get action. Seize the moment. Man was never intended to become an oyster.”  –  Theodore Roosevelt
   </p>
 </div>
 

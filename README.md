@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Survival can be summed up in three words – never give up. That’s theheart of it really. Just keep trying.”  –  Bear Grylls
+    “We don’t have to be smarter than the rest; we have to be more disciplinedthan the rest.”  –  Warren Buffett
   </p>
 </div>
 

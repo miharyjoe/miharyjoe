@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “We don’t have to be smarter than the rest; we have to be more disciplinedthan the rest.”  –  Warren Buffett
+    “The path to success is to take massive, determined action.” – Tony Robbins
   </p>
 </div>
 

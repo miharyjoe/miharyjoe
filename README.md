@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Dreams don’t work unless you do.”  –  John C. Maxwell
+    “What we do now echoes in eternity.”  –  Marcus Aurelius
   </p>
 </div>
 

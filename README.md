@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “What we do now echoes in eternity.”  –  Marcus Aurelius
+    “Persistence. The only thing that will piss-off failure enough for it to get the fu** out of the way of your success. PERSIST.”  – The Ultimate Warrior
   </p>
 </div>
 

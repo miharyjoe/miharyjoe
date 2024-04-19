@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Persistence. The only thing that will piss-off failure enough for it to get the fu** out of the way of your success. PERSIST.”  – The Ultimate Warrior
+    “When I let go of what I am, I become what I might be.  When I let go of what I have, I receive what I need.”  –  Lao Tzu
   </p>
 </div>
 

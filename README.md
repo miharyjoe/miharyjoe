@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “When I let go of what I am, I become what I might be.  When I let go of what I have, I receive what I need.”  –  Lao Tzu
+    “Finish strong.  I challenge you to find two words that more absolutely define a performance objective.  For me, those two words are a clear call to action.”  –  Dan Green
   </p>
 </div>
 

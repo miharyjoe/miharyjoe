@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Finish strong.  I challenge you to find two words that more absolutely define a performance objective.  For me, those two words are a clear call to action.”  –  Dan Green
+    “When something is important enough, you do it even if the odds are not in your favor.”  –  Elon Musk
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “When something is important enough, you do it even if the odds are not in your favor.”  –  Elon Musk
+    “Live as if you were to die tomorrow. Learn as if you were to live forever.”  –  Mahatma Gandhi
   </p>
 </div>
 

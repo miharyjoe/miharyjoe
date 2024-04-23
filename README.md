@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Live as if you were to die tomorrow. Learn as if you were to live forever.”  –  Mahatma Gandhi
+    “Life is so much more rewarding if you strive for something, rather than take what’s given to you on a plate.” – Amy Winehouse
   </p>
 </div>
 

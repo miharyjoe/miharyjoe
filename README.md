@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Life is so much more rewarding if you strive for something, rather than take what’s given to you on a plate.” – Amy Winehouse
+    “In all human affairs there are efforts, and there are results, and the strengthof the effort is the measure of the result.”  –  James Allen
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “We are made to persist. That’s how we find out who we are.”  –  Tobias Wolff
+    “Stopping at third adds no more to the score than striking out. It doesn’t matter how well you start if you fail to finish.”  –  Billy Sunday
   </p>
 </div>
 

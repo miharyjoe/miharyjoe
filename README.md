@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Stopping at third adds no more to the score than striking out. It doesn’t matter how well you start if you fail to finish.”  –  Billy Sunday
+    “Inaction breeds doubt and fear. Action breeds confidence and courage. Ifyou want to conquer fear, do not sit home and think about it. Go out andget busy.”  –  Dale Carnegie
   </p>
 </div>
 

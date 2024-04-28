@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Inaction breeds doubt and fear. Action breeds confidence and courage. Ifyou want to conquer fear, do not sit home and think about it. Go out andget busy.”  –  Dale Carnegie
+    “The people who achieve success are the ones with grit, determination, and guts.” – Russell Brunson
   </p>
 </div>
 

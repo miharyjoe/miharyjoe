@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The people who achieve success are the ones with grit, determination, and guts.” – Russell Brunson
+    “Grit is that ‘extra something’ that separates the most successful people from the rest.” – Travis Bradberry
   </p>
 </div>
 

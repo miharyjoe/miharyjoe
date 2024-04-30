@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Grit is that ‘extra something’ that separates the most successful people from the rest.” – Travis Bradberry
+    “Finish strong.  I challenge you to find two words that more absolutely define a performance objective.  For me, those two words are a clear call to action.”  –  Dan Green
   </p>
 </div>
 

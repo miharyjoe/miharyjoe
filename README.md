@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Finish strong.  I challenge you to find two words that more absolutely define a performance objective.  For me, those two words are a clear call to action.”  –  Dan Green
+    “Focus on your goal, not the how.”  –  Bob Proctor
   </p>
 </div>
 

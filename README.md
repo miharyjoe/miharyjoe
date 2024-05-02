@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Focus on your goal, not the how.”  –  Bob Proctor
+    “The price of anything is the amount of life you exchange for it.”  –  Henry David Thoreau
   </p>
 </div>
 

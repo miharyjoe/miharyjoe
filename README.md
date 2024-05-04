@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Obstacles can’t stop you.  Problems can’t stop you.  Most of all, other people can’t stop you.  Only YOU can stop you.”  –  Jeoffrey Gitomer
+    “Effort is grossly underrated.”  –  Gary Vaynerchuk
   </p>
 </div>
 

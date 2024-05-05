@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Effort is grossly underrated.”  –  Gary Vaynerchuk
+    “Most of the important things in the world have been accomplished by people who have kept on trying when there seemed no hope at all.”  –  Dale Carnegie
   </p>
 </div>
 

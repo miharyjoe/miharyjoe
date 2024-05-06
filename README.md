@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Most of the important things in the world have been accomplished by people who have kept on trying when there seemed no hope at all.”  –  Dale Carnegie
+    “It’s going to be hard, but hard does not mean impossible.”  –  Anonymous
   </p>
 </div>
 

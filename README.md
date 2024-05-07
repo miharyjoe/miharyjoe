@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It’s going to be hard, but hard does not mean impossible.”  –  Anonymous
+    “The harder you work, the harder it is for you to surrender.”  –  Vince Lombardi
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If I fail, I try again, and again, and again. If you fail, are you going to try again? The human spirit can handle much worse than we realize. It matters how you are going to finish. Are you going to finish strong?” – Nick Vujicic
+    “If you hesitate, some bolder hand will stretch out before you and get the prize.”  –  P.T. Barnum
   </p>
 </div>
 

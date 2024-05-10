@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you hesitate, some bolder hand will stretch out before you and get the prize.”  –  P.T. Barnum
+    “In all human affairs there are efforts, and there are results, and the strengthof the effort is the measure of the result.”  –  James Allen
   </p>
 </div>
 

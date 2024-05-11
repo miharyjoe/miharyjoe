@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “In all human affairs there are efforts, and there are results, and the strengthof the effort is the measure of the result.”  –  James Allen
+    “When you help a woman fulfill her potential, magic happens.”  –  Sara Blakely
   </p>
 </div>
 

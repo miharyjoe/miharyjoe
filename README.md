@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “When you help a woman fulfill her potential, magic happens.”  –  Sara Blakely
+    “You have to think big to be big.”  –  Claude M. Bristol
   </p>
 </div>
 

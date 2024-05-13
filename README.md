@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You have to think big to be big.”  –  Claude M. Bristol
+    “Life is being on the wire, everything else is just waiting.”  –  Karl Wallenda
   </p>
 </div>
 

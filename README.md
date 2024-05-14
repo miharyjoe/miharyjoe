@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Life is being on the wire, everything else is just waiting.”  –  Karl Wallenda
+    “People feed off of your passion and your confidence.”  –  Sara Blakely
   </p>
 </div>
 

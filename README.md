@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “People feed off of your passion and your confidence.”  –  Sara Blakely
+    “We are made to persist. That’s how we find out who we are.”  –  Tobias Wolff
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “We are made to persist. That’s how we find out who we are.”  –  Tobias Wolff
+    “Our focus is our future, and what we focus on will multiply in our life.”  –  David DeNotaris
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I will persist until I succeed. I was not delivered into this world in defeat, nor does failure course in my veins. I am not a sheep waiting to be prodded by my shepherd. I am a lion and I refuse to talk, to walk, to sleep with the sheep. The slaughterhouse of failure is not my destiny. I will persist until I succeed.”  –  Og Mandino
+    “Grit is not synonymous with hard work. It involves a certain single-mindedness. An ungritty prison inmate will mount a daring new escape attempt every month, but a gritty prison inmate will tunnel his way out one spoonful of concrete at a time. Grit.”  –  Chip Heath
   </p>
 </div>
 

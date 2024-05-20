@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Listen, every overnight success has taken 15 years, and that’s just the way it goes.” – Daymond John
+    “Resilience is like a muscle. The more you get through something and not let it get you down or defeat you, the stronger your resilience muscle becomes.”  –  Sara Blakely
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It is those who concentrate on but one thing at a time who advance in this world. The great man or woman is the one who never steps outside his or her specialty or foolishly dissipates his or her individuality.”  –  Og Mandino
+    “The moment you feel like quitting is the time you need to keep on going.  Persistence fuels genius.  And grit creates champions.”  –  Robin Sharma
   </p>
 </div>
 

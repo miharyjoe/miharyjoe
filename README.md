@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The moment you feel like quitting is the time you need to keep on going.  Persistence fuels genius.  And grit creates champions.”  –  Robin Sharma
+    “Successful people make a lot of mistakes but they don’t quit.” – Conrad Hilton
   </p>
 </div>
 

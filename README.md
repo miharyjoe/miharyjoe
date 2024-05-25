@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Successful people make a lot of mistakes but they don’t quit.” – Conrad Hilton
+    “Never confuse a single defeat with a final defeat.”  –  F. Scott Fitzgerald
   </p>
 </div>
 

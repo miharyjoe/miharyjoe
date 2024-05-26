@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Never confuse a single defeat with a final defeat.”  –  F. Scott Fitzgerald
+    “Action is the foundational key to all success.”  –  Pablo Picasso
   </p>
 </div>
 

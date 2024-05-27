@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Action is the foundational key to all success.”  –  Pablo Picasso
+    “What you focus on expands; results follow focus.”  –  Marcus Buckingham
   </p>
 </div>
 

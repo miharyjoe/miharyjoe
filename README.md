@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “What you focus on expands; results follow focus.”  –  Marcus Buckingham
+    “It’s not where you start — It’s where you finish that counts.”  –  Zig Ziglar
   </p>
 </div>
 

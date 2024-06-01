@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The best way out is always through.” – Robert Frost
+    “Success seems to be connected with action. Successful people keep moving. They make mistakes, but they don’t quit.”  –  Conrad Hilton
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Follow your dreams, they know the way.”  –  Kobe Yamada
+    “What great thing would you attempt, if you knew you could not fail.”  –  Robert H. Schuller
   </p>
 </div>
 

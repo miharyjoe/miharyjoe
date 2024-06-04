@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “What great thing would you attempt, if you knew you could not fail.”  –  Robert H. Schuller
+    “Hustle until you no longer need to introduce yourself.”  –  Anonymous
   </p>
 </div>
 

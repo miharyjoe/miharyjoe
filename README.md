@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Hustle until you no longer need to introduce yourself.”  –  Anonymous
+    “The truest wisdom is a resolute determination.”  –  Napoleon Bonaparte
   </p>
 </div>
 

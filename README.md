@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I knew that I wanted to start my own business.  I knew that I wanted to work for myself.  I was no stranger to the word no.  You just have to keep going.”  –  Sara Blakely
+    “Success seems to be connected with action.  Successful people keep moving.  They make mistakes but they don’t quit.”  –  Finish Strong Quote
   </p>
 </div>
 

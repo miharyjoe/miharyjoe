@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Success seems to be connected with action.  Successful people keep moving.  They make mistakes but they don’t quit.”  –  Finish Strong Quote
+    “Where your attention goes, your time goes”  –  Idowu Koyenikan
   </p>
 </div>
 

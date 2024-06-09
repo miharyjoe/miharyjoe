@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Where your attention goes, your time goes”  –  Idowu Koyenikan
+    “Don’t tell me how hard you work. Tell me how much you get done.”  –  James Ling
   </p>
 </div>
 

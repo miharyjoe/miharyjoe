@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Don’t tell me how hard you work. Tell me how much you get done.”  –  James Ling
+    “The people who stick with things for years and never stop almost always win the race.”  –  James Clear
   </p>
 </div>
 

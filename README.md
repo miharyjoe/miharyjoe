@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The people who stick with things for years and never stop almost always win the race.”  –  James Clear
+    “To be gritty is to fall down seven times and rise eight.”  –  Angela Duckworth
   </p>
 </div>
 

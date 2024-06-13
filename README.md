@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The best way out is always through.” – Robert Frost
+    “Persistence is to the character of man as carbon is to steel.”  –  Napoleon Hill
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Persistence is to the character of man as carbon is to steel.”  –  Napoleon Hill
+    “Aim for the highest.”  –  Andrew Carnegie
   </p>
 </div>
 

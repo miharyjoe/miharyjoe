@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Aim for the highest.”  –  Andrew Carnegie
+    “Be brave. Take risks. Nothing can substitute experience.”  –  Paulo Coelho
   </p>
 </div>
 

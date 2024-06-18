@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You can never achieve more than you aspire to.”  –  Al Ries
+    “The pessimist complains about the wind;   the optimist expects it to change;   the realist adjusts the sails.”  –  William Arthur Ward
   </p>
 </div>
 

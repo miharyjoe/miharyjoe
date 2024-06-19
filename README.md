@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The pessimist complains about the wind;   the optimist expects it to change;   the realist adjusts the sails.”  –  William Arthur Ward
+    “Only those who dare to fail greatly can ever achieve greatly.”  –  Robert F. Kennedy
   </p>
 </div>
 

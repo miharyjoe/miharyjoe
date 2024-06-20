@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Only those who dare to fail greatly can ever achieve greatly.”  –  Robert F. Kennedy
+    “If you continue to thin the way you’ve always thought, you’ll continue to get what you’ve always got.”  –  Kevin Trudeau
   </p>
 </div>
 

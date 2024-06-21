@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you continue to thin the way you’ve always thought, you’ll continue to get what you’ve always got.”  –  Kevin Trudeau
+    “Great works are performed not by strength, but by perseverance.”  –  Samuel Johnson
   </p>
 </div>
 

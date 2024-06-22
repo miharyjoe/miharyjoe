@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Great works are performed not by strength, but by perseverance.”  –  Samuel Johnson
+    “The world is full of starters.  Be a finisher.”  –  Anonymous
   </p>
 </div>
 

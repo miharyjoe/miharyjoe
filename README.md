@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The world is full of starters.  Be a finisher.”  –  Anonymous
+    “Continuous Effort, not strength or intelligence, is the key to unlocking our potential.”  –  Winston Churchill
   </p>
 </div>
 

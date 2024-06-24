@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Continuous Effort, not strength or intelligence, is the key to unlocking our potential.”  –  Winston Churchill
+    “Valor grows by daring; fear by holding back.”  –  Publilius Syrus
   </p>
 </div>
 

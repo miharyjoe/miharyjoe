@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Valor grows by daring; fear by holding back.”  –  Publilius Syrus
+    “Success is the progressive realization of a worthy goal.”  –  Earl Nightingale
   </p>
 </div>
 

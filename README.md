@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Success is the progressive realization of a worthy goal.”  –  Earl Nightingale
+    “The world is full of educated derelicts. Perseverance and determination alone are omnipotent.”  –  Calvin Coolidge
   </p>
 </div>
 

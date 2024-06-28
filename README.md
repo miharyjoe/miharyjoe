@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “When we make progress quickly, it feeds our emotions. Then, when there’s a period of waiting or we hit a plateau, we find out how committed we really are and whether we’re going to see things through to the finish or quit.”  –  Joyce Meyer
+    “Someone twice as talented but half as hardworking as another person might reach the same level of skill but still produce dramatically less over time.”  –  Angela Duckworth
   </p>
 </div>
 

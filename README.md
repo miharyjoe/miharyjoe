@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Someone twice as talented but half as hardworking as another person might reach the same level of skill but still produce dramatically less over time.”  –  Angela Duckworth
+    “Your biggest failure is the thing you dreamed of contributing but didn’t find the guts to do.”  –  Seth Godin
   </p>
 </div>
 

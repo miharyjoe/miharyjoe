@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Nothing builds self-esteem and self-confidence like accomplishment.”  –  Thomas Carlyle
+    “If you are going through hell, keep going.”  –  Winston Churchill
   </p>
 </div>
 

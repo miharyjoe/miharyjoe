@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you are going through hell, keep going.”  –  Winston Churchill
+    “Problems are not stop signs, they are guidelines.”  –  Robert H. Schuller
   </p>
 </div>
 

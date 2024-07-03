@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Problems are not stop signs, they are guidelines.”  –  Robert H. Schuller
+    “Grit is living life like it is a marathon,  not a sprint.”  –  Angela Duckworth
   </p>
 </div>
 

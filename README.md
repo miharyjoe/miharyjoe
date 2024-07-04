@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Grit is living life like it is a marathon,  not a sprint.”  –  Angela Duckworth
+    “If you wish to be out front, then act as if you were behind.”  –  Lao Tzu
   </p>
 </div>
 

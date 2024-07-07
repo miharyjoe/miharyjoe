@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Patience, persistence, and perspiration make an unbeatable combination for success.”  –  Napoleon Hill
+    “He who seeks rest finds boredom….He who seeks work finds rest.”  –  Anonymous
   </p>
 </div>
 

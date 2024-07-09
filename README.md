@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If it’s important, you’ll find a way.  If it’s not, you’ll find an excuse.”  –  Ryan Blair
+    “Nothing is less productive than to make more efficient what should not bedone at all.”  –  Peter Drucker
   </p>
 </div>
 

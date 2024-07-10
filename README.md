@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Nothing is less productive than to make more efficient what should not bedone at all.”  –  Peter Drucker
+    “In the confrontation between the stream and the rock, the stream alwayswins – not through strength, but through persistence.”  –  Buddha
   </p>
 </div>
 

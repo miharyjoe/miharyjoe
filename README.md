@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “In the confrontation between the stream and the rock, the stream alwayswins – not through strength, but through persistence.”  –  Buddha
+    “Most people never run far enough on their first wind to find out they’ve got a second.” – William James
   </p>
 </div>
 

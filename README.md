@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Most people never run far enough on their first wind to find out they’ve got a second.” – William James
+    “Gritty people are resilient, in the sense that they thrive through adversity. They reframe every challenge as an opportunity and do the work to become the master of their emotions.”  –  Ashley Elizabeth
   </p>
 </div>
 

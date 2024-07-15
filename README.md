@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The 99% that achieve are willing to sacrifice, be persistent and put in disproportionate work, and think in 50 year terms not 50 day terms.” – Gary Vaynerchuk
+    “The most successful people are those who are willing to keep moving forward after making mistakes.  They find a way not to avoid life’s inevitable obstacles, but to overcome them.”  –  Ashley Elizabeth
   </p>
 </div>
 

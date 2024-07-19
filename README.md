@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “When we make progress quickly, it feeds our emotions. Then, when there’s a period of waiting or we hit a plateau, we find out how committed we really are and whether we’re going to see things through to the finish or quit.”  –  Joyce Meyer
+    “We must do our work for its own sake, not for fortune or attention or applause.”  –  Steven Pressfield
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “We must do our work for its own sake, not for fortune or attention or applause.”  –  Steven Pressfield
+    “When everything seems to be going against you, remember that the airplane takes off against the wind, not within it.”  –  Henry Ford
   </p>
 </div>
 

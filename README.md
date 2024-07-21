@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “When everything seems to be going against you, remember that the airplane takes off against the wind, not within it.”  –  Henry Ford
+    “Quitting is the easiest thing to do.”  –  Robert Kiyosaki
   </p>
 </div>
 

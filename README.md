@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Quitting is the easiest thing to do.”  –  Robert Kiyosaki
+    “Mental dominance is what ultimately makes you unstoppable.” – Tim S. Grover
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Mental dominance is what ultimately makes you unstoppable.” – Tim S. Grover
+    “Give your dreams all you’ve got and you’ll be amazed at the energy that comes out of you.”  –  William James
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Starve your distractions, feed your focus.”  –  Focus Quote
+    “I can’t change the direction of the wind, but I can adjust my sails to always reach my destination.”  –  Jimmy Dean
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Grit is living life like it is a marathon,  not a sprint.”  –  Angela Duckworth
+    “If you have everything seems under control, you’re just not going fast enough.”  –  Mario Andretti
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you have everything seems under control, you’re just not going fast enough.”  –  Mario Andretti
+    “Courage is fear holding on a minute longer.”  –  George S. Patton
   </p>
 </div>
 

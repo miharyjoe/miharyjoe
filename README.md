@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Courage is fear holding on a minute longer.”  –  George S. Patton
+    “Real lions like to hunt! They like the process just as much as they love the prize.”  –  Eric Thomas
   </p>
 </div>
 

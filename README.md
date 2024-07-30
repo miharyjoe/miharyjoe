@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Real lions like to hunt! They like the process just as much as they love the prize.”  –  Eric Thomas
+    “Where your attention goes, your time goes”  –  Idowu Koyenikan
   </p>
 </div>
 

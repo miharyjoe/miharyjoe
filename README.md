@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Where your attention goes, your time goes”  –  Idowu Koyenikan
+    “To be successful we must do things that unsuccessful people do not wantto do. Those things require levels of courage.”  –  R. Harpe
   </p>
 </div>
 

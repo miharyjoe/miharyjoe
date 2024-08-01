@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “To be successful we must do things that unsuccessful people do not wantto do. Those things require levels of courage.”  –  R. Harpe
+    “We always say, start strong, finish stronger.” – Chris Griffin
   </p>
 </div>
 

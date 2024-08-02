@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “We always say, start strong, finish stronger.” – Chris Griffin
+    “I don’t stop when I’m tired. I stop when I’m done.” – David Goggins
   </p>
 </div>
 

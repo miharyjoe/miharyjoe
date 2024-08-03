@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I don’t stop when I’m tired. I stop when I’m done.” – David Goggins
+    “Over time, grit is what separates fruitful lives from aimlessness.”  –  John Ortberg
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Over time, grit is what separates fruitful lives from aimlessness.”  –  John Ortberg
+    “Sometimes, a winner is a dreamer who just won’t quit.”  –  Rudy
   </p>
 </div>
 

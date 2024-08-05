@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Sometimes, a winner is a dreamer who just won’t quit.”  –  Rudy
+    “I just keep putting one foot in front of the other, it stands to reason that I’m going to get there.”  –  Rachel Joyce
   </p>
 </div>
 

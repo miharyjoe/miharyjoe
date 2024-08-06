@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I just keep putting one foot in front of the other, it stands to reason that I’m going to get there.”  –  Rachel Joyce
+    “It is those who concentrate on but one thing at a time who advance in this world. The great man or woman is the one who never steps outside his or her specialty or foolishly dissipates his or her individuality.”  –  Og Mandino
   </p>
 </div>
 

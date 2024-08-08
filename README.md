@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Grit is that ‘extra something’ that separates the most successful people from the rest.” – Travis Bradberry
+    “Energy and persistence conquer all things.”  –  Benjamin Franklin
   </p>
 </div>
 

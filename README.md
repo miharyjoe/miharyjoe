@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Energy and persistence conquer all things.”  –  Benjamin Franklin
+    “No matter how much falls on us, we keep plowing ahead. That’s the only way to keep the roads clear.”  –   Greg Kincaid
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “No matter how much falls on us, we keep plowing ahead. That’s the only way to keep the roads clear.”  –   Greg Kincaid
+    “You can throw in the towel, or you can use it to wipe the sweat off your face and keep going.”  –  Finish Strong Saying
   </p>
 </div>
 

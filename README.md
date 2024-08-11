@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You can throw in the towel, or you can use it to wipe the sweat off your face and keep going.”  –  Finish Strong Saying
+    “The mark of a great man is one who knows when to set aside the important things in order to accomplish the vital ones.”  –  Brandon Sanderson
   </p>
 </div>
 

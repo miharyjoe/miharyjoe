@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The mark of a great man is one who knows when to set aside the important things in order to accomplish the vital ones.”  –  Brandon Sanderson
+    “You’ve got to visualize where you’re headed and be very clear about it. Take a Polaroid picture of where you’re going to be in a few years.”  –   Sara Blakely
   </p>
 </div>
 

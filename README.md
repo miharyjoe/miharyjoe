@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You’ve got to visualize where you’re headed and be very clear about it. Take a Polaroid picture of where you’re going to be in a few years.”  –   Sara Blakely
+    “Follow your passion. The rest will attend to itself. If I can do it, anybody can do it. It’s possible. And it’s your turn. So go for it. It’s never too late to become what you always wanted to be in the first place.”  –  J. Michael Straczynski
   </p>
 </div>
 

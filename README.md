@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Follow your passion. The rest will attend to itself. If I can do it, anybody can do it. It’s possible. And it’s your turn. So go for it. It’s never too late to become what you always wanted to be in the first place.”  –  J. Michael Straczynski
+    “Hustle until you no longer need to introduce yourself.”  –  Anonymous
   </p>
 </div>
 

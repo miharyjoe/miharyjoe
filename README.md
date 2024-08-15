@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Hustle until you no longer need to introduce yourself.”  –  Anonymous
+    “Our potential is one thing.  What we do with it is quite another.”  –  Angela Duckworth
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Our potential is one thing.  What we do with it is quite another.”  –  Angela Duckworth
+    “Every morning you have two choices: continue to sleep with your dreams, or wake up and chase them.” – Anonymous
   </p>
 </div>
 

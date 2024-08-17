@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Every morning you have two choices: continue to sleep with your dreams, or wake up and chase them.” – Anonymous
+    “Every great story happened when someone decided not to give up.”  –  Spryte Loriano
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Every great story happened when someone decided not to give up.”  –  Spryte Loriano
+    “For success, attitude is equally as important as ability.”  –  Harry F. Banks
   </p>
 </div>
 

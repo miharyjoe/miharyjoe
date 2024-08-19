@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “For success, attitude is equally as important as ability.”  –  Harry F. Banks
+    “The road to success is always under construction.”  –  Lily Tomlin
   </p>
 </div>
 

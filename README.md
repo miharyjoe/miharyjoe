@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You can put forth maximum effort every day of the week, but if you’re not committed to finishing strong, someone hungrier will surpass you.”  –  The STRIVE
+    “When I let go of what I am, I become what I might be.  When I let go of what I have, I receive what I need.”  –  Lao Tzu
   </p>
 </div>
 

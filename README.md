@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Set your goals high, and don’t stop till you get there.”  –  Bo Jackson
+    “The smartest thing I ever did was to hire my weakness.”  –  Sara Blakely
   </p>
 </div>
 

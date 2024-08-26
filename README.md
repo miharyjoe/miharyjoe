@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The smartest thing I ever did was to hire my weakness.”  –  Sara Blakely
+    “To be successful we must do things that unsuccessful people do not wantto do. Those things require levels of courage.”  –  R. Harpe
   </p>
 </div>
 

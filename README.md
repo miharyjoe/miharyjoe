@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you believe in what you are doing, then let nothing hold you up in your work. Much of the best work of the world has been done against seeming impossibilities. The thing is to get the work done.” – Dale Carnegie
+    “You can throw in the towel, or you can use it to wipe the sweat off your face and keep going.”  –  Finish Strong Saying
   </p>
 </div>
 

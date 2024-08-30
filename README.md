@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You can throw in the towel, or you can use it to wipe the sweat off your face and keep going.”  –  Finish Strong Saying
+    “There are no limits to what you can accomplish, except the limits you place on your own thinking.”  –  Brian Tracy
   </p>
 </div>
 

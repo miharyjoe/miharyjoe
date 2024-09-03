@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The successful warrior is the average man, with laser-like focus.”  –  Bruce Lee
+    “Keep your face always toward the sunshine—and shadows will fall behind you.”  –  Walt Whitman
   </p>
 </div>
 

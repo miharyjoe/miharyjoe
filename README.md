@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Keep your face always toward the sunshine—and shadows will fall behind you.”  –  Walt Whitman
+    “I just keep putting one foot in front of the other, it stands to reason that I’m going to get there.”  –  Rachel Joyce
   </p>
 </div>
 

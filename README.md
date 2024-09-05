@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I just keep putting one foot in front of the other, it stands to reason that I’m going to get there.”  –  Rachel Joyce
+    “Effort is grossly underrated.”  –  Gary Vaynerchuk
   </p>
 </div>
 

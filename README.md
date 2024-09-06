@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Effort is grossly underrated.”  –  Gary Vaynerchuk
+    “When you help a woman fulfill her potential, magic happens.”  –  Sara Blakely
   </p>
 </div>
 

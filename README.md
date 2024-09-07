@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “When you help a woman fulfill her potential, magic happens.”  –  Sara Blakely
+    “My first account was Neiman Marcus. I cold-called them just like I had cold-called businesses when I was selling fax machines for seven years.”  –  Sara Blakely
   </p>
 </div>
 

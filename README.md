@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “My first account was Neiman Marcus. I cold-called them just like I had cold-called businesses when I was selling fax machines for seven years.”  –  Sara Blakely
+    “Do not bite at the bait of pleasure till you know there is no hook beneath it.”  –  Thomas Jefferson
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Do not bite at the bait of pleasure till you know there is no hook beneath it.”  –  Thomas Jefferson
+    “The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy.” — Martin Luther King Jr.
   </p>
 </div>
 

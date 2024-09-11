@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “People that have grit are extraordinarily resilient and are willing to put in the effort to get things done.”  –  Lee David Daniels
+    “Life shrinks or expands in proportion to one’s courage.”  –  Anais Nin
   </p>
 </div>
 

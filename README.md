@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Life shrinks or expands in proportion to one’s courage.”  –  Anais Nin
+    “Discipline is the bridge between goals and accomplishment.”  –  Jim Rohn
   </p>
 </div>
 

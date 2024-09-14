@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Grit is the stubborn refusal to quit.”  –  Grit Quote
+    “Great works are performed not by strength, but by perseverance.”  –  Samuel Johnson
   </p>
 </div>
 

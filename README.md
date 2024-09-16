@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The last thing you want to do is finish playing or doing anything and wish you would have worked harder.”  –  Derek Jeter
+    “Survival can be summed up in three words – never give up. That’s theheart of it really. Just keep trying.”  –  Bear Grylls
   </p>
 </div>
 

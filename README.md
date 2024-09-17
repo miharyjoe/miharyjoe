@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Survival can be summed up in three words – never give up. That’s theheart of it really. Just keep trying.”  –  Bear Grylls
+    “If it’s important, you’ll find a way.  If it’s not, you’ll find an excuse.”  –  Ryan Blair
   </p>
 </div>
 

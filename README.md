@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Inaction breeds doubt and fear. Action breeds confidence and courage. Ifyou want to conquer fear, do not sit home and think about it. Go out andget busy.”  –  Dale Carnegie
+    “A little more persistence a little more effort, and what seemed hopelessfailure may turn into a glorious success.” – Elbert Hubbard
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “A little more persistence a little more effort, and what seemed hopelessfailure may turn into a glorious success.” – Elbert Hubbard
+    “Ignore the noise, focus on your work.”  –  Anonymous
   </p>
 </div>
 

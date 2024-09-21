@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Ignore the noise, focus on your work.”  –  Anonymous
+    “Never throughout history has a man who lived a life of ease left a name worth remembering.”  –  Theodore Roosevelt
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Strength and growth come only through continuous effort and struggle.” – Napoleon Hill
+    “Never say never, because limits, like fears, are often just an illusion.”  –  Michael Jordan
   </p>
 </div>
 

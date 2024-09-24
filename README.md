@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Never say never, because limits, like fears, are often just an illusion.”  –  Michael Jordan
+    “Ordinary is easy. Extra-ordinary is what will separate you from the crowd.”  –  Darren Hardy
   </p>
 </div>
 

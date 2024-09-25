@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Ordinary is easy. Extra-ordinary is what will separate you from the crowd.”  –  Darren Hardy
+    “Don’t you dare let their laughter extinguish your ambition.”  –  J.K. Rowling
   </p>
 </div>
 

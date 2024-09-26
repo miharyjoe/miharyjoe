@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Don’t you dare let their laughter extinguish your ambition.”  –  J.K. Rowling
+    “Many of life’s failures are people who did not realize how close they were to success when they gave up.”  –  Thomas A. Edison
   </p>
 </div>
 

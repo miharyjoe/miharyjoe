@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Many of life’s failures are people who did not realize how close they were to success when they gave up.”  –  Thomas A. Edison
+    “Never let the fear of striking out get in your way.”  –  Babe Ruth
   </p>
 </div>
 

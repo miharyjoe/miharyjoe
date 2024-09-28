@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Never let the fear of striking out get in your way.”  –  Babe Ruth
+    “It is during our darkest moments that we must focus to see the light.”  –  Aristotle Onassis
   </p>
 </div>
 

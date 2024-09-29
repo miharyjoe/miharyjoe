@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It is during our darkest moments that we must focus to see the light.”  –  Aristotle Onassis
+    “Instead of failure being the outcome, failure became not trying. And it forced me at a young age to want to push myself so much further out of my comfort zone.”  –  Sara Blakely
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Instead of failure being the outcome, failure became not trying. And it forced me at a young age to want to push myself so much further out of my comfort zone.”  –  Sara Blakely
+    “The only man who doesn’t make mistakes is the man who never does anything.”  –  Theodore Roosevelt
   </p>
 </div>
 

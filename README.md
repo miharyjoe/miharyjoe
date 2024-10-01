@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The only man who doesn’t make mistakes is the man who never does anything.”  –  Theodore Roosevelt
+    “Grit comes down to your habits. It’s about doing the things you know you’re supposed to do on a more consistent basis. It’s about your dedication to daily practice and your ability to stick to a schedule.” – James Clear
   </p>
 </div>
 

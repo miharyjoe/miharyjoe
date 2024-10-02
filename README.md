@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Grit comes down to your habits. It’s about doing the things you know you’re supposed to do on a more consistent basis. It’s about your dedication to daily practice and your ability to stick to a schedule.” – James Clear
+    “Never let the fear of striking out get in your way.”  –  Babe Ruth
   </p>
 </div>
 

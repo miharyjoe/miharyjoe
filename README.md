@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Never let the fear of striking out get in your way.”  –  Babe Ruth
+    “Champions understand that finishing strong in practice, leads to finishing strong in application.  You play the way you practice.”  –  Atlas Rowe
   </p>
 </div>
 

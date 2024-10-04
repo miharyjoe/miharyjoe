@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Champions understand that finishing strong in practice, leads to finishing strong in application.  You play the way you practice.”  –  Atlas Rowe
+    “Chance favors those in motion.”  –  James H. Austin
   </p>
 </div>
 

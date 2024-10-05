@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Chance favors those in motion.”  –  James H. Austin
+    “Leadership grit begets grit. Lead by example.”  –  Bill Hybels
   </p>
 </div>
 

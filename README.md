@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Leadership grit begets grit. Lead by example.”  –  Bill Hybels
+    “Strength and growth come only through continuous effort and struggle.” – Napoleon Hill
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Strength and growth come only through continuous effort and struggle.” – Napoleon Hill
+    “Gritty people are resilient, in the sense that they thrive through adversity. They reframe every challenge as an opportunity and do the work to become the master of their emotions.”  –  Ashley Elizabeth
   </p>
 </div>
 

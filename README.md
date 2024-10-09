@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Judge your success by what you had to give up in order to get it.”  –  Dalai Lama
+    “Whether you think you can or you think you can’t, you’re right.”  –  Henry Ford
   </p>
 </div>
 

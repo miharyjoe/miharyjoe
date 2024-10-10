@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Whether you think you can or you think you can’t, you’re right.”  –  Henry Ford
+    “Anything’s possible if you’ve got enough grit.”  –  Atlas Rowe
   </p>
 </div>
 

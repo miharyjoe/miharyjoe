@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Anything’s possible if you’ve got enough grit.”  –  Atlas Rowe
+    “Don’t focus on the pain, focus on the progress.”  –  Dwayne Johnson
   </p>
 </div>
 

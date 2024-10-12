@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Don’t focus on the pain, focus on the progress.”  –  Dwayne Johnson
+    “Nothing is less productive than to make more efficient what should not bedone at all.”  –  Peter Drucker
   </p>
 </div>
 

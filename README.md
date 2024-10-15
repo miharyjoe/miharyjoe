@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.”  –  Zig Ziglar
+    “Everything is hard before it is easy.”  –  Goethe
   </p>
 </div>
 

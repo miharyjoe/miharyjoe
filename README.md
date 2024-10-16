@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Everything is hard before it is easy.”  –  Goethe
+    “The most successful people are those who are willing to keep moving forward after making mistakes.  They find a way not to avoid life’s inevitable obstacles, but to overcome them.”  –  Ashley Elizabeth
   </p>
 </div>
 

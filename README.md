@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The most successful people are those who are willing to keep moving forward after making mistakes.  They find a way not to avoid life’s inevitable obstacles, but to overcome them.”  –  Ashley Elizabeth
+    “Striving for success without hard work is like trying to harvest where youhaven’t planted.”  –  David Bly
   </p>
 </div>
 

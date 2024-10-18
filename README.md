@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Striving for success without hard work is like trying to harvest where youhaven’t planted.”  –  David Bly
+    “I CAN is 100 times more important that IQ.”  –  Anonymous
   </p>
 </div>
 

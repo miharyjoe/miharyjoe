@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I CAN is 100 times more important that IQ.”  –  Anonymous
+    “Never give up on something you can’t go a day without thinking about.”  –  Winston Churchill
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Never give up on something you can’t go a day without thinking about.”  –  Winston Churchill
+    “You don’t have to see the whole staircase, just take the first step.”  –  Martin Luther King
   </p>
 </div>
 

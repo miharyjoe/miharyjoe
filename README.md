@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “People like to tear you down. People are always going to take shots. You’ve just got to go for it.”  –  Joan Jett
+    “In all human affairs there are efforts, and there are results, and the strengthof the effort is the measure of the result.”  –  James Allen
   </p>
 </div>
 

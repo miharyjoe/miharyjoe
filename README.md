@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “In all human affairs there are efforts, and there are results, and the strengthof the effort is the measure of the result.”  –  James Allen
+    “The difference between ordinary and extraordinary is that little extra.”  –  Jimmy Johnson
   </p>
 </div>
 

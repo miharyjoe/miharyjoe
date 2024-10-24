@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The difference between ordinary and extraordinary is that little extra.”  –  Jimmy Johnson
+    “True grit is making a decision and standing by it, doing what must be done.  No moral man can have peace of mind if he leaves undone what he knows he should have done.”  –  John Wayne
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “True grit is making a decision and standing by it, doing what must be done.  No moral man can have peace of mind if he leaves undone what he knows he should have done.”  –  John Wayne
+    “Some people want it to happen, some wish it would happen, others make it happen.”  –  Michael Jordan
   </p>
 </div>
 

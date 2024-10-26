@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Some people want it to happen, some wish it would happen, others make it happen.”  –  Michael Jordan
+    “At the end of the day, success is about resilience and grit.”  –  Andy Frisella
   </p>
 </div>
 

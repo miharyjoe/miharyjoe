@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Never confuse a single defeat with a final defeat.”  –  F. Scott Fitzgerald
+    “Grit is passion and perseverance for very long-term goals. Grit is having stamina.” – Angela Duckworth
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Grit is passion and perseverance for very long-term goals. Grit is having stamina.” – Angela Duckworth
+    “Perseverance is the hard work you do after you get tired of doingthe hard work you already did.”  –  Newt Gingrich
   </p>
 </div>
 

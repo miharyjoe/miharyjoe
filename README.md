@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Perseverance is the hard work you do after you get tired of doingthe hard work you already did.”  –  Newt Gingrich
+    “If you can’t excel with talent, triumph with effort.”  –  Dave Weinbaum
   </p>
 </div>
 

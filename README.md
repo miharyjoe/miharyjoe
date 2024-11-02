@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.”  –  Harriet Tubman
+    “Everyone wants to be successful, but the prize eventually goes to those who strive to finish strong.  So, stay up late, do the work, and most importantly…finish strong.”  –  Atlas Rowe
   </p>
 </div>
 

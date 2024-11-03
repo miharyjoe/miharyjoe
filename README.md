@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Everyone wants to be successful, but the prize eventually goes to those who strive to finish strong.  So, stay up late, do the work, and most importantly…finish strong.”  –  Atlas Rowe
+    “Consistency of effort over the long run is everything.”  –  Angela Duckworth
   </p>
 </div>
 

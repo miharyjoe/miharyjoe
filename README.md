@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Consistency of effort over the long run is everything.”  –  Angela Duckworth
+    “Plough deep while sluggards sleep.”  –  Benjamin Franklin
   </p>
 </div>
 

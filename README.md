@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Plough deep while sluggards sleep.”  –  Benjamin Franklin
+    “For us, there is only the trying. The rest is not our business.” – T.S. Eliot
   </p>
 </div>
 

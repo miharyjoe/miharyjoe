@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Don’t let the fear of losing be greater than the excitement of winning.”  –  Robert Kiyosaki
+    “The three great essentials to achieve anything worthwhile are, first, hardwork; second, stick-to-itiveness; third, common sense.” – Thomas Edison
   </p>
 </div>
 

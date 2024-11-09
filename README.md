@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The three great essentials to achieve anything worthwhile are, first, hardwork; second, stick-to-itiveness; third, common sense.” – Thomas Edison
+    “It’s never too late to be what you might have been.”  –  George Elliot
   </p>
 </div>
 

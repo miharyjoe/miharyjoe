@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It’s never too late to be what you might have been.”  –  George Elliot
+    “Take time to deliberate; but when the time for action arrives, stop thinking and go in.”  –  Napoleon Bonaparte
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It doesn’t matter whether you are pursuing success in business, sports, thearts, or life in general: The bridge between wishing and accomplishing is discipline.”  –  Harvey Mackay
+    “Dream chasing is not for the faint of heart. Not only does it take massive courage to reach for the dreams and goals that many shrug off as impossible, but it also takes grit, tenacity, and an indomitable spirit to see things through.”  –  Nathan Lee Morales
   </p>
 </div>
 

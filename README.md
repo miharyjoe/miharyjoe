@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Dream chasing is not for the faint of heart. Not only does it take massive courage to reach for the dreams and goals that many shrug off as impossible, but it also takes grit, tenacity, and an indomitable spirit to see things through.”  –  Nathan Lee Morales
+    “Your life is controlled by what you focus on.”  –  Tony Robbins
   </p>
 </div>
 

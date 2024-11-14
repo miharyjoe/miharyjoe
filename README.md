@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Your life is controlled by what you focus on.”  –  Tony Robbins
+    “Work on your mindset daily because it is really going to be what differentiates you between other entrepreneurs.”  –  Sara Blakely
   </p>
 </div>
 

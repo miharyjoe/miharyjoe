@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Work on your mindset daily because it is really going to be what differentiates you between other entrepreneurs.”  –  Sara Blakely
+    “What most of us never suspect of existing, is the silent but irresistiblepower which comes to the rescue of those who fight on in the face ofdiscouragement.” – Napoleon Hill
   </p>
 </div>
 

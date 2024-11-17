@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Plough deep while sluggards sleep.”  –  Benjamin Franklin
+    “If you can’t excel with talent, triumph with effort.”  –  Dave Weinbaum
   </p>
 </div>
 

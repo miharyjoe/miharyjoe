@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You deserve what your actions earned, or haven’t earned.”  –  M.J. Demarco
+    “A person without a goal is like a ship without a rudder.”  –  Thomas Carlyle
   </p>
 </div>
 

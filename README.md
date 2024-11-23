@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “A person without a goal is like a ship without a rudder.”  –  Thomas Carlyle
+    “I planned my success, I knew it was going to happen.”  –  Erykah Badu
   </p>
 </div>
 

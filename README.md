@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I planned my success, I knew it was going to happen.”  –  Erykah Badu
+    “Don’t let the fear of losing be greater than the excitement of winning.”  –  Robert Kiyosaki
   </p>
 </div>
 

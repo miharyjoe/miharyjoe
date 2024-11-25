@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Don’t let the fear of losing be greater than the excitement of winning.”  –  Robert Kiyosaki
+    “The greatest test of courage on the earth is to bear defeat without losingheart.”  –  R.G. Ingersoll
   </p>
 </div>
 

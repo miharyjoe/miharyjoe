@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The greatest test of courage on the earth is to bear defeat without losingheart.”  –  R.G. Ingersoll
+    “Inactivity is retrogression.”  –  John McDonald
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Instead of failure being the outcome, failure became not trying. And it forced me at a young age to want to push myself so much further out of my comfort zone.”  –  Sara Blakely
+    “I realized the secret to success is finishing!  And not just finishing, but finishing strong!”  –  Eric Thomas
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I realized the secret to success is finishing!  And not just finishing, but finishing strong!”  –  Eric Thomas
+    “Stop chasing the money and start chasing the passion.”  –  Tony Hsieh
   </p>
 </div>
 

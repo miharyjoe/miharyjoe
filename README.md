@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Stop chasing the money and start chasing the passion.”  –  Tony Hsieh
+    “Don’t be afraid to fail.” – Sara Blakely
   </p>
 </div>
 

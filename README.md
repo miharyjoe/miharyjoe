@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Don’t be afraid to fail.” – Sara Blakely
+    “Do you want to know who you are? Don’t ask. Act! Action will delineate and define you.”  –  Thomas Jefferson
   </p>
 </div>
 

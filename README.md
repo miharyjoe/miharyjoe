@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Don’t be afraid to give up the good to go for the great.”  –  John D. Rockefeller
+    “Every strike brings me closer to the next home run.”  –  Babe Ruth
   </p>
 </div>
 

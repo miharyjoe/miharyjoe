@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Every strike brings me closer to the next home run.”  –  Babe Ruth
+    “Going in one more round when you don’t think you can. That’s what makes all the difference in your life.”  –  Rocky Balboa
   </p>
 </div>
 

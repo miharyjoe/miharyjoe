@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Going in one more round when you don’t think you can. That’s what makes all the difference in your life.”  –  Rocky Balboa
+    “Stopping at third adds no more to the score than striking out. It doesn’t matter how well you start if you fail to finish.”  –  Billy Sunday
   </p>
 </div>
 

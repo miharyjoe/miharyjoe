@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “We are made to persist. That’s how we find out who we are.”  –  Tobias Wolff
+    “A leader should have higher grit and tenacity, and be able to endure what the employees can’t.”  –  Jack Ma
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “We are made to persist. That’s how we find out who we are.”  –  Tobias Wolff
+    “When you feel like quitting, think about why you started.”  –  Anonymous
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “When you feel like quitting, think about why you started.”  –  Anonymous
+    “You can’t use up creativity. The more you use, the more you have.”  –  Maya Angelou
   </p>
 </div>
 

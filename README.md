@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You can’t use up creativity. The more you use, the more you have.”  –  Maya Angelou
+    “Take time to deliberate; but when the time for action arrives, stop thinking and go in.”  –  Napoleon Bonaparte
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Take time to deliberate; but when the time for action arrives, stop thinking and go in.”  –  Napoleon Bonaparte
+    “Do, or do not. There is no try.”  –  Yoda
   </p>
 </div>
 

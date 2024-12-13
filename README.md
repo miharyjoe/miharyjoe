@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Do, or do not. There is no try.”  –  Yoda
+    “You have to think big to be big.”  –  Claude M. Bristol
   </p>
 </div>
 

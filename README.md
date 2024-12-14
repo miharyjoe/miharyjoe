@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You have to think big to be big.”  –  Claude M. Bristol
+    “Comfort is the enemy of progress.” – P.T. Barnum
   </p>
 </div>
 

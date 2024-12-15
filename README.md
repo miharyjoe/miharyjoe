@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Comfort is the enemy of progress.” – P.T. Barnum
+    “Every morning you have two choices: continue to sleep with your dreams, or wake up and chase them.” – Anonymous
   </p>
 </div>
 

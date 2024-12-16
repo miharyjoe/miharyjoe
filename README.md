@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Every morning you have two choices: continue to sleep with your dreams, or wake up and chase them.” – Anonymous
+    “I’m a big perfectionist! I’m trying to channel super-confident women like Alicia Keys, Mariah Carey and Beyonce, because I realized that if you want something, you really have to go for it, just like they do.”  –  Ariana Grande
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I’m a big perfectionist! I’m trying to channel super-confident women like Alicia Keys, Mariah Carey and Beyonce, because I realized that if you want something, you really have to go for it, just like they do.”  –  Ariana Grande
+    “Don’t watch the clock; do what it does. Keep going.”  –  Sam Levonson
   </p>
 </div>
 

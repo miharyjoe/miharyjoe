@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Don’t watch the clock; do what it does. Keep going.”  –  Sam Levonson
+    “Don’t wait.  The time will never be just right.”  –  Napoleon Hill
   </p>
 </div>
 

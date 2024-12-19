@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Don’t wait.  The time will never be just right.”  –  Napoleon Hill
+    “Strength does not come from physical capacity.  It comes from an indomitable will.”  –  Mahatma Gandhi
   </p>
 </div>
 

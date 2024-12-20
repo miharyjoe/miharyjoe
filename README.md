@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Strength does not come from physical capacity.  It comes from an indomitable will.”  –  Mahatma Gandhi
+    “Do not wait to strike till the iron is hot: But make it hot by striking.”  –  William B. Sprague
   </p>
 </div>
 

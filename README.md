@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Do not wait to strike till the iron is hot: But make it hot by striking.”  –  William B. Sprague
+    “You can’t look ahead at the finish line decide to slow down, and still expect the world to crown you a champion.”  –  Finishing Strong Saying
   </p>
 </div>
 

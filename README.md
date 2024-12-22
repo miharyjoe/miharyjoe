@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You can’t look ahead at the finish line decide to slow down, and still expect the world to crown you a champion.”  –  Finishing Strong Saying
+    “The way we finish things are rarely as neat and intense as the way we start. But it’s exactly these moments, whether it is at the end of the set, or the end of a rep, where you should double down on your effort. This is when you conquer.” – Olivier Poirier-Leroy
   </p>
 </div>
 

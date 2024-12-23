@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The way we finish things are rarely as neat and intense as the way we start. But it’s exactly these moments, whether it is at the end of the set, or the end of a rep, where you should double down on your effort. This is when you conquer.” – Olivier Poirier-Leroy
+    “Things may come to those who wait, but only the things left by those who hustle.”  –  Abraham Lincoln
   </p>
 </div>
 

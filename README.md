@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Things may come to those who wait, but only the things left by those who hustle.”  –  Abraham Lincoln
+    “What’s done is done.  What’s gone is gone.  One of life’s lessons is always moving on.  It’s okay to look back to see how far you’ve come but keep moving forward.”  –  Roy T. Bennett
   </p>
 </div>
 

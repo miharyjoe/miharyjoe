@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Maybe, if you put your disbelief aside, roll up your sleeves, take some risks, and totally go for it, you’ll wake up one day and realize you’re living the kind of life you used to be jealous of.” – Jen Sincero
+    “To follow, without halt, one aim: There’s the secret of success.”  –  Anna Pavlova
   </p>
 </div>
 

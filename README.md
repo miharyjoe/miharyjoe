@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “To follow, without halt, one aim: There’s the secret of success.”  –  Anna Pavlova
+    “Be so good they can’t ignore you.”  –  Steve Martin
   </p>
 </div>
 

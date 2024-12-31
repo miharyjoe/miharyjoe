@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Be so good they can’t ignore you.”  –  Steve Martin
+    “Discipline is the bridge between goals and accomplishment.”  –  Jim Rohn
   </p>
 </div>
 

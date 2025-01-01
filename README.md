@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Discipline is the bridge between goals and accomplishment.”  –  Jim Rohn
+    “Enthusiasm is common. Endurance is rare.” – Angela Duckworth
   </p>
 </div>
 

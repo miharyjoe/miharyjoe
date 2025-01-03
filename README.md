@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It’s never crowded along the extra mile.”  –  Wayne Dyer
+    “Every master was once a disaster.”  –  T. Harv Eker
   </p>
 </div>
 

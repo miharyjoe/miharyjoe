@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Much good work is lost for the lack of a little more.”  –  Edward H. Harriman
+    “If people are doubting how far you can go, go so far that you can’t hear them anymore.”  –  Michele Ruiz
   </p>
 </div>
 

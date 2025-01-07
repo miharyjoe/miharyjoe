@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If people are doubting how far you can go, go so far that you can’t hear them anymore.”  –  Michele Ruiz
+    “Leave it all on the field.” – Allan Sepkowitz
   </p>
 </div>
 

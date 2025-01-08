@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Leave it all on the field.” – Allan Sepkowitz
+    “Perseverance is the key to starting a successful business.”  –  Sara Blakely
   </p>
 </div>
 

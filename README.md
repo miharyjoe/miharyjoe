@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Perseverance is the key to starting a successful business.”  –  Sara Blakely
+    “Circumstances are beyond human control but our conduct is in our own power.” – Benjamin Disraeli
   </p>
 </div>
 

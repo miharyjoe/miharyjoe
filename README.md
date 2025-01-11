@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Work on your mindset daily because it is really going to be what differentiates you between other entrepreneurs.”  –  Sara Blakely
+    “It was desire that brought progress to the world.”  –  Claude M. Bristol
   </p>
 </div>
 

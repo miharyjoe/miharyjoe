@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It was desire that brought progress to the world.”  –  Claude M. Bristol
+    “If you are going through hell, keep going.”  –  Winston Churchill
   </p>
 </div>
 

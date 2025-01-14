@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “There isn’t a person anywhere who isn’t capable of doing more than he thinks he can.”  –  Henry Ford
+    “Inaction breeds doubt and fear. Action breeds confidence and courage. Ifyou want to conquer fear, do not sit home and think about it. Go out andget busy.”  –  Dale Carnegie
   </p>
 </div>
 

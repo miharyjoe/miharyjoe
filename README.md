@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Inaction breeds doubt and fear. Action breeds confidence and courage. Ifyou want to conquer fear, do not sit home and think about it. Go out andget busy.”  –  Dale Carnegie
+    “I know the price of success; dedication, hard work and an unremitting devotion to the things you want to see happen.”  –  Frank Lloyd Wright
   </p>
 </div>
 

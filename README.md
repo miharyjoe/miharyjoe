@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I know the price of success; dedication, hard work and an unremitting devotion to the things you want to see happen.”  –  Frank Lloyd Wright
+    “He who would accomplish little must sacrifice little; he who would achieve much must sacrifice much.”  –  James Allen
   </p>
 </div>
 

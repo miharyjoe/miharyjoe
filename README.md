@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “He who would accomplish little must sacrifice little; he who would achieve much must sacrifice much.”  –  James Allen
+    “It’s going to be hard, but hard does not mean impossible.”  –  Anonymous
   </p>
 </div>
 

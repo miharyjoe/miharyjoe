@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It’s going to be hard, but hard does not mean impossible.”  –  Anonymous
+    “Striving for success without hard work is like trying to harvest where youhaven’t planted.”  –  David Bly
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Ordinary is easy. Extra-ordinary is what will separate you from the crowd.”  –  Darren Hardy
+    “Energy and persistence conquer all things.”  –  Benjamin Franklin
   </p>
 </div>
 

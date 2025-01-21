@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Energy and persistence conquer all things.”  –  Benjamin Franklin
+    “Stop managing your time.  Start managing your focus.”  –  Robin Sharma
   </p>
 </div>
 

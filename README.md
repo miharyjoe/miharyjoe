@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Stop managing your time.  Start managing your focus.”  –  Robin Sharma
+    “Grit is the stubborn refusal to quit.”  –  Grit Quote
   </p>
 </div>
 

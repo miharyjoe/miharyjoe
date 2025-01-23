@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Grit is the stubborn refusal to quit.”  –  Grit Quote
+    “Miserable people focus on what they hate about their life.  Happy people focus on what they love about their life.”  –  Zig Ziglar
   </p>
 </div>
 

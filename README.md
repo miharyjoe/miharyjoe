@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you are not willing to learn, no one can help you.  If you are determined to learn, no one can stop you.”  –  Zig Ziglar
+    “There’s not a person on my team in 16 years that has consistently beat me to the ball every play. That ain’t got anything to do with talent, that’s just got everything to do with effort, and nothing else.”  –  Ray Lewis
   </p>
 </div>
 

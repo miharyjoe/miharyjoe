@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It was desire that brought progress to the world.”  –  Claude M. Bristol
+    “It is during our darkest moments that we must focus to see the light.”  –  Aristotle Onassis
   </p>
 </div>
 

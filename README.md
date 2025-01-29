@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It is during our darkest moments that we must focus to see the light.”  –  Aristotle Onassis
+    “One of the most important principles of success is developing the habit of going the extra mile.”  –  Napoleon Hill
   </p>
 </div>
 

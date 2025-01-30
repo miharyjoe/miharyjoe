@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “One of the most important principles of success is developing the habit of going the extra mile.”  –  Napoleon Hill
+    “If you put forth the effort, good things will be bestowed upon you.”  –  Michael Jordan
   </p>
 </div>
 

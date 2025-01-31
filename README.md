@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you put forth the effort, good things will be bestowed upon you.”  –  Michael Jordan
+    “We always say, start strong, finish stronger.” – Chris Griffin
   </p>
 </div>
 

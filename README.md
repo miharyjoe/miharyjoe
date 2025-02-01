@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “We always say, start strong, finish stronger.” – Chris Griffin
+    “I start a picture and I finish it.”  –  Jean-Michel Basquiat
   </p>
 </div>
 

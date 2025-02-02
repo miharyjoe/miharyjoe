@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I start a picture and I finish it.”  –  Jean-Michel Basquiat
+    “I knew the one thing I might regret was not ever having tried.”  –  Jeff Bezos
   </p>
 </div>
 

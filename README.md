@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I knew the one thing I might regret was not ever having tried.”  –  Jeff Bezos
+    “If your dreams don’t scare you, they aren’t big enough.”  –  Muhammad Ali
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If your dreams don’t scare you, they aren’t big enough.”  –  Muhammad Ali
+    “The start does matter.  The beginning is significant.  The first few steps are critical, but they aren’t the most important.  Do you know what matters more?  Do you know what makes the start look silly and easy?  The finish.”  –  Jon Acuff
   </p>
 </div>
 

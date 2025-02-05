@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The start does matter.  The beginning is significant.  The first few steps are critical, but they aren’t the most important.  Do you know what matters more?  Do you know what makes the start look silly and easy?  The finish.”  –  Jon Acuff
+    “Change your life today.  Don’t gamble on the future, act now, without delay.”  –  Simone de Beauvoir
   </p>
 </div>
 

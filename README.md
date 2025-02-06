@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Change your life today.  Don’t gamble on the future, act now, without delay.”  –  Simone de Beauvoir
+    “The 99% that achieve are willing to sacrifice, be persistent and put in disproportionate work, and think in 50 year terms not 50 day terms.” – Gary Vaynerchuk
   </p>
 </div>
 

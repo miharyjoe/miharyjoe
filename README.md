@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You will never win if you never begin.”  –  Helen Rowland
+    “Greatness is not measured by what a man or woman accomplishes, but by the opposition they overcame to reach their goals.”  –  D. Height
   </p>
 </div>
 

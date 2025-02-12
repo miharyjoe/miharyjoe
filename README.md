@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Greatness is not measured by what a man or woman accomplishes, but by the opposition they overcame to reach their goals.”  –  D. Height
+    “Your biggest failure is the thing you dreamed of contributing but didn’t find the guts to do.”  –  Seth Godin
   </p>
 </div>
 

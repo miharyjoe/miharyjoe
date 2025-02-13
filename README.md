@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Your biggest failure is the thing you dreamed of contributing but didn’t find the guts to do.”  –  Seth Godin
+    “Whatever it takes to finish things, finish. You will learn more from a glorious failure than you ever will from something you never finished.”― Neil Gaiman
   </p>
 </div>
 

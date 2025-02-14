@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Whatever it takes to finish things, finish. You will learn more from a glorious failure than you ever will from something you never finished.”― Neil Gaiman
+    “Things may come to those who wait, but only the things left by those who hustle.”  –  Abraham Lincoln
   </p>
 </div>
 

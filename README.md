@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Things may come to those who wait, but only the things left by those who hustle.”  –  Abraham Lincoln
+    “If you want to make an easy job seem mighty hard, just keep putting off doing it.”  –  Olin Miller
   </p>
 </div>
 

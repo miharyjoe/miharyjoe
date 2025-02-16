@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you want to make an easy job seem mighty hard, just keep putting off doing it.”  –  Olin Miller
+    “If you follow your dreams and spend your life doing what brings you joy, you are more likely to find success.” – Richard Branson
   </p>
 </div>
 

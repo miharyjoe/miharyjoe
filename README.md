@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “What we achieve inwardly will change outer reality.”  –  Plutarch
+    “Yesterday’s home runs don’t win today’s games.”  –  Babe Ruth
   </p>
 </div>
 

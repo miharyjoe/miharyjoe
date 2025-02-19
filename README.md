@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Yesterday’s home runs don’t win today’s games.”  –  Babe Ruth
+    “To live is to learn, to strive is to become.” – Friedrich Nietzsche
   </p>
 </div>
 

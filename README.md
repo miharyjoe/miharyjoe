@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Concentrate all your thoughts upon the work at hand.  The sun’s rays do not burn until brought to a focus.”  –  Alexander Graham Bell
+    “Finish strong.  I challenge you to find two words that more absolutely define a performance objective.  For me, those two words are a clear call to action.”  –  Dan Green
   </p>
 </div>
 

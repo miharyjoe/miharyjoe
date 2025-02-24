@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Strength and growth come only through continuous effort and struggle.” – Napoleon Hill
+    “The difference between ordinary and extraordinary is that little extra.”  –  Jimmy Johnson
   </p>
 </div>
 

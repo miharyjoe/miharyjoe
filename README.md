@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The difference between ordinary and extraordinary is that little extra.”  –  Jimmy Johnson
+    “Work on your mindset daily because it is really going to be what differentiates you between other entrepreneurs.”  –  Sara Blakely
   </p>
 </div>
 

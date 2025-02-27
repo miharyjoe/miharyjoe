@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Nothing is put on pause. Everything is still happening. And then as far as just reflecting on what got you to where you are, there aren’t very many times where we have the space to sit and reflect and really understand the depth of what it took and the grit that we had to have to get to where we are.” – Jessica Alba
+    “Trying new things and not being afraid to fail along the way are more important than what you learn in school.”  –  Sara Blakely
   </p>
 </div>
 

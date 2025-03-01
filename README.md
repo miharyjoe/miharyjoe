@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Grit is not just simple elbow-grease term for rugged persistence. It is an often invisible display of endurance that lets you stay in an uncomfortable place, work hard to improve upon a given interest, and do it again and again.”  –  Sarah Lewis
+    “You are destined for greatness.  Believe in yourself and Go For It!”  –  Anonymous
   </p>
 </div>
 

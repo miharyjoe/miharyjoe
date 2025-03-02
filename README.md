@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You are destined for greatness.  Believe in yourself and Go For It!”  –  Anonymous
+    “The only way out is through.”  –  Helen Keller
   </p>
 </div>
 

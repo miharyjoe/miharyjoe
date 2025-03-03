@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The only way out is through.”  –  Helen Keller
+    “It’s hard to beat a person who never gives up.” – Babe Ruth
   </p>
 </div>
 

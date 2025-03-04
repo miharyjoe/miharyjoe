@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It’s hard to beat a person who never gives up.” – Babe Ruth
+    “Don’t be pushed around by the fears in your mind.  Be led by the dreams in your heart.”  –  Roy T. Bennett
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Don’t be pushed around by the fears in your mind.  Be led by the dreams in your heart.”  –  Roy T. Bennett
+    “Don’t focus on the pain, focus on the progress.”  –  Dwayne Johnson
   </p>
 </div>
 

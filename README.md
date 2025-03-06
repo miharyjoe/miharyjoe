@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Don’t focus on the pain, focus on the progress.”  –  Dwayne Johnson
+    “People that have grit are extraordinarily resilient and are willing to put in the effort to get things done.”  –  Lee David Daniels
   </p>
 </div>
 

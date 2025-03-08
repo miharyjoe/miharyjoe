@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “People like to tear you down. People are always going to take shots. You’ve just got to go for it.”  –  Joan Jett
+    “Better is the end of a thing than its beginning, and the patient in spirit is better than the proud in spirit.”  –  Ecclesiastes 7:8
   </p>
 </div>
 

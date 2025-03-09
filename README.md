@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Better is the end of a thing than its beginning, and the patient in spirit is better than the proud in spirit.”  –  Ecclesiastes 7:8
+    “Success doesn’t just happen. You have to be intentional about it, and that takes discipline.”  –  John C. Maxwell
   </p>
 </div>
 

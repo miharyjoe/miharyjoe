@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Success doesn’t just happen. You have to be intentional about it, and that takes discipline.”  –  John C. Maxwell
+    “He who seeks rest finds boredom….He who seeks work finds rest.”  –  Anonymous
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “He who seeks rest finds boredom….He who seeks work finds rest.”  –  Anonymous
+    “People that have grit are extraordinarily resilient and are willing to put in the effort to get things done.”  –  Lee David Daniels
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “For success, attitude is equally as important as ability.”  –  Harry F. Banks
+    “Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.”  –  Harriet Tubman
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.”  –  Harriet Tubman
+    “Stay focused, ignore the distractions, and you will accomplish your goals much faster.”  –  Joel Osteen
   </p>
 </div>
 

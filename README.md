@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Stay focused, ignore the distractions, and you will accomplish your goals much faster.”  –  Joel Osteen
+    “I just keep putting one foot in front of the other, it stands to reason that I’m going to get there.”  –  Rachel Joyce
   </p>
 </div>
 

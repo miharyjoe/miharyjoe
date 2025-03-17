@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Be brave. Take risks. Nothing can substitute experience.”  –  Paulo Coelho
+    “I don’t stop when I’m tired. I stop when I’m done.” – David Goggins
   </p>
 </div>
 

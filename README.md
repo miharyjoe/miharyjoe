@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It doesn’t matter whether you are pursuing success in business, sports, thearts, or life in general: The bridge between wishing and accomplishing is discipline.”  –  Harvey Mackay
+    “Strength and growth come only through continuous effort and struggle.” – Napoleon Hill
   </p>
 </div>
 

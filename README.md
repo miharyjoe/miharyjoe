@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Strength and growth come only through continuous effort and struggle.” – Napoleon Hill
+    “I think failure is nothing more than life’s way of nudging you that you are off course. My attitude to failure is not attached to the outcome, but in not trying. It is liberating. Most people attach failure to something not working out or how people perceive you. This way, it is about answering to yourself.”  –  Sara Blakely
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “He who is not courageous enough to take risks will accomplish nothing in life.”  –  Muhammad Ali
+    “Imperfect action is better than perfect inaction.”  –  Harry Truman
   </p>
 </div>
 

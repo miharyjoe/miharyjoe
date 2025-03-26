@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Imperfect action is better than perfect inaction.”  –  Harry Truman
+    “Success doesn’t come to you, you go to it.”  –  T. Scott Mcleod
   </p>
 </div>
 

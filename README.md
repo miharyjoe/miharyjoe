@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Success doesn’t come to you, you go to it.”  –  T. Scott Mcleod
+    “The secret to happiness is freedom… and the secret to freedom is courage.”  –  Thucydides
   </p>
 </div>
 

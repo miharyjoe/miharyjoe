@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It’s not that I am so smart; it’s just that I stay with problems longer.”  –  Albert Einstein
+    “Much good work is lost for the lack of a little more.”  –  Edward H. Harriman
   </p>
 </div>
 

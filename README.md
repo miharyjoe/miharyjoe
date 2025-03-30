@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Much good work is lost for the lack of a little more.”  –  Edward H. Harriman
+    “Build your own dreams, or someone else will hire you to build theirs.”  –  Farrah Gray
   </p>
 </div>
 

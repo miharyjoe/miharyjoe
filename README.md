@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Build your own dreams, or someone else will hire you to build theirs.”  –  Farrah Gray
+    “It is time to reverse this prejudice against conscious effort and to see the powers we gain through practice and discipline as eminently inspiring and even miraculous.”  –  Robert Greene
   </p>
 </div>
 

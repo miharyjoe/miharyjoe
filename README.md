@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It is time to reverse this prejudice against conscious effort and to see the powers we gain through practice and discipline as eminently inspiring and even miraculous.”  –  Robert Greene
+    “There are no limits to what you can accomplish, except the limits you place on your own thinking.”  –  Brian Tracy
   </p>
 </div>
 

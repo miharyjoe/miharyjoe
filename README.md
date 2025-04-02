@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “There are no limits to what you can accomplish, except the limits you place on your own thinking.”  –  Brian Tracy
+    “Do not wait to strike till the iron is hot: But make it hot by striking.”  –  William B. Sprague
   </p>
 </div>
 

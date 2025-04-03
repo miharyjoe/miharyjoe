@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Do not wait to strike till the iron is hot: But make it hot by striking.”  –  William B. Sprague
+    “When everything seems to be going against you, remember that the airplane takes off against the wind, not within it.”  –  Henry Ford
   </p>
 </div>
 

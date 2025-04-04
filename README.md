@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “When everything seems to be going against you, remember that the airplane takes off against the wind, not within it.”  –  Henry Ford
+    “Only put off until tomorrow what you are willing to die having left undone.”  –  Pablo Picasso
   </p>
 </div>
 

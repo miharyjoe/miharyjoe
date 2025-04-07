@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Grit is the stubborn refusal to quit.”  –  Grit Quote
+    “Over time, grit is what separates fruitful lives from aimlessness.”  –  John Ortberg
   </p>
 </div>
 

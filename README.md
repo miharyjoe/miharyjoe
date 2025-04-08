@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Over time, grit is what separates fruitful lives from aimlessness.”  –  John Ortberg
+    “A leader should have higher grit and tenacity, and be able to endure what the employees can’t.”  –  Jack Ma
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “A leader should have higher grit and tenacity, and be able to endure what the employees can’t.”  –  Jack Ma
+    “Focus on your goal, not the how.”  –  Bob Proctor
   </p>
 </div>
 

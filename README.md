@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Focus on your goal, not the how.”  –  Bob Proctor
+    “Never say never, because limits, like fears, are often just an illusion.”  –  Michael Jordan
   </p>
 </div>
 

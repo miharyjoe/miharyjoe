@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Never say never, because limits, like fears, are often just an illusion.”  –  Michael Jordan
+    “If you continue to thin the way you’ve always thought, you’ll continue to get what you’ve always got.”  –  Kevin Trudeau
   </p>
 </div>
 

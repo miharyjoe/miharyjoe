@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Grit is having the courage to push through, no matter what the obstacles are, because it’s worth it.”  –  Chris Morris
+    “Energy and persistence conquer all things.”  –  Benjamin Franklin
   </p>
 </div>
 

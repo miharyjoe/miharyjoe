@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Energy and persistence conquer all things.”  –  Benjamin Franklin
+    “If you follow your dreams and spend your life doing what brings you joy, you are more likely to find success.” – Richard Branson
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you follow your dreams and spend your life doing what brings you joy, you are more likely to find success.” – Richard Branson
+    “Your life is controlled by what you focus on.”  –  Tony Robbins
   </p>
 </div>
 

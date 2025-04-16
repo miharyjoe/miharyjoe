@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Your life is controlled by what you focus on.”  –  Tony Robbins
+    “Grit is more endurance than strength. Grit is about working on something you care about so much that you’re willing to see it through to completion.” – Lee David Daniels
   </p>
 </div>
 

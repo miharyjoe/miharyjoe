@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Grit is more endurance than strength. Grit is about working on something you care about so much that you’re willing to see it through to completion.” – Lee David Daniels
+    “When you want to succeed as bad as you want to breathe, then you’ll be successful.”  –  Eric Thomas
   </p>
 </div>
 

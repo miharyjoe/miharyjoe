@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “When you want to succeed as bad as you want to breathe, then you’ll be successful.”  –  Eric Thomas
+    “You have to think big to be big.”  –  Claude M. Bristol
   </p>
 </div>
 

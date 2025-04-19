@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You have to think big to be big.”  –  Claude M. Bristol
+    “It’s not that I am so smart; it’s just that I stay with problems longer.”  –  Albert Einstein
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It’s hard to beat a person who never gives up.” – Babe Ruth
+    “Courage is fear holding on a minute longer.”  –  George S. Patton
   </p>
 </div>
 

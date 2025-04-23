@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Courage is fear holding on a minute longer.”  –  George S. Patton
+    “Your life is controlled by what you focus on.”  –  Tony Robbins
   </p>
 </div>
 

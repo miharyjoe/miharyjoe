@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I just keep putting one foot in front of the other, it stands to reason that I’m going to get there.”  –  Rachel Joyce
+    “It’s not how hard you pushed along the way.  It’s having something in you to finish.”  –  Michael Jordan
   </p>
 </div>
 

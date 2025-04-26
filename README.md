@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It’s not how hard you pushed along the way.  It’s having something in you to finish.”  –  Michael Jordan
+    “The truth is, unless you let go, unless you forgive yourself, unless you forgive the situation, unless you realize that the situation is over, you can’t move forward.”  –  Steve Maraboli
   </p>
 </div>
 

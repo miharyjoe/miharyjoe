@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The truth is, unless you let go, unless you forgive yourself, unless you forgive the situation, unless you realize that the situation is over, you can’t move forward.”  –  Steve Maraboli
+    “Never hope for it more than you work for it.”  –  Sonya Teclai
   </p>
 </div>
 

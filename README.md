@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Never hope for it more than you work for it.”  –  Sonya Teclai
+    “Only those who dare to fail greatly can ever achieve greatly.”  –  Robert F. Kennedy
   </p>
 </div>
 

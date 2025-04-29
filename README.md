@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Only those who dare to fail greatly can ever achieve greatly.”  –  Robert F. Kennedy
+    “I am grinding while your sleeping.”  –  Gary Vaynerchuk
   </p>
 </div>
 

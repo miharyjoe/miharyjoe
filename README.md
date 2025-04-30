@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I am grinding while your sleeping.”  –  Gary Vaynerchuk
+    “There’s nothing like biting off more than you can chew, and then chewing anyway.”  –  Mark Burnett
   </p>
 </div>
 

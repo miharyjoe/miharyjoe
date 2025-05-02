@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Your competition is hoping you’ll take it easy today, don’t.  Finish Strong” – The Strive
+    “The road to success is always under construction.”  –  Lily Tomlin
   </p>
 </div>
 

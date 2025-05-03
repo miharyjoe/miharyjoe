@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The road to success is always under construction.”  –  Lily Tomlin
+    “I believe every human has a finite number of heartbeats. I don’t intend to waste any of mine.”  –  Neil Armstrong
   </p>
 </div>
 

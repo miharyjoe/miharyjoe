@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I believe every human has a finite number of heartbeats. I don’t intend to waste any of mine.”  –  Neil Armstrong
+    “If you are not willing to risk the usual, you will have to settle for the ordinary.”   –  Jim Rohn
   </p>
 </div>
 

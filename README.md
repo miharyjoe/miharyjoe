@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you are not willing to risk the usual, you will have to settle for the ordinary.”   –  Jim Rohn
+    “One painful duty fulfilled makes the next plainer and easier.”  –  Hellen Keller
   </p>
 </div>
 

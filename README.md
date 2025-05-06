@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “One painful duty fulfilled makes the next plainer and easier.”  –  Hellen Keller
+    “Focus does not mean saying yes, it means saying no.”  –  Steve Jobs
   </p>
 </div>
 

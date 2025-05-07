@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Focus does not mean saying yes, it means saying no.”  –  Steve Jobs
+    “A goal is a dream with a finish line.”  –  Duke Ellington
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “A goal is a dream with a finish line.”  –  Duke Ellington
+    “Patience, persistence, and perspiration make an unbeatable combination for success.”  –  Napoleon Hill
   </p>
 </div>
 

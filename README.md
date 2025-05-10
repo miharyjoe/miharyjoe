@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Believe you can and you’re halfway there.”  –  Theodore Roosevelt
+    “Ignore the noise, focus on your work.”  –  Anonymous
   </p>
 </div>
 

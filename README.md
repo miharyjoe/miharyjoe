@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Ignore the noise, focus on your work.”  –  Anonymous
+    “Champions keep playing until they get it right.”  –  Billy Jean King
   </p>
 </div>
 

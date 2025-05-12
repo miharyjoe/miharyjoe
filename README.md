@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Champions keep playing until they get it right.”  –  Billy Jean King
+    “Start strong, finish stronger.”  –  Anonymous
   </p>
 </div>
 

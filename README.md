@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Start strong, finish stronger.”  –  Anonymous
+    “I CAN is 100 times more important that IQ.”  –  Anonymous
   </p>
 </div>
 

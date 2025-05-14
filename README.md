@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I CAN is 100 times more important that IQ.”  –  Anonymous
+    “The mark of a great man is one who knows when to set aside the important things in order to accomplish the vital ones.”  –  Brandon Sanderson
   </p>
 </div>
 

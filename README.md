@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The mark of a great man is one who knows when to set aside the important things in order to accomplish the vital ones.”  –  Brandon Sanderson
+    “Grit is guts, resilience, industriousness and tenacity.  Grit is the ability to focus, stay determined, stay optimistic in the face of a challenge, and simply work harder than the next guy or gal.”  –  Linda Kaplan Thaler
   </p>
 </div>
 

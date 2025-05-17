@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The path to success is to take massive, determined action.” – Tony Robbins
+    “If you wish to be out front, then act as if you were behind.”  –  Lao Tzu
   </p>
 </div>
 

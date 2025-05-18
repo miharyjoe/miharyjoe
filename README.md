@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you wish to be out front, then act as if you were behind.”  –  Lao Tzu
+    “If you follow your dreams and spend your life doing what brings you joy, you are more likely to find success.” – Richard Branson
   </p>
 </div>
 

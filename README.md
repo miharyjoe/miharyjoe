@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Victory is always possible for the person who refuses defeat.” – Anonymous
+    “Winning is not everything, but the effort to win is.”  –  Zig Ziglar
   </p>
 </div>
 

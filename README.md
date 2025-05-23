@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Winning is not everything, but the effort to win is.”  –  Zig Ziglar
+    “I alone cannot change the world, but I can cast a stone across the water to create many ripples.” – Mother Teresa
   </p>
 </div>
 

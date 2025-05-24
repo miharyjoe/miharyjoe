@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I alone cannot change the world, but I can cast a stone across the water to create many ripples.” – Mother Teresa
+    “Success is nothing more than a few simple disciplines, practiced every day.”  –  Jim Rohn
   </p>
 </div>
 

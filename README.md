@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Success is nothing more than a few simple disciplines, practiced every day.”  –  Jim Rohn
+    “Set you goals high, and don’t stop till you get there.”  –  Bo Jackson
   </p>
 </div>
 

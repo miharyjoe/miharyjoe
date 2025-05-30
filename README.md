@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Success is how high you bounce when you hit bottom.”  –  George S. Patton
+    “Believe you can and you’re halfway there.”  –  Theodore Roosevelt
   </p>
 </div>
 

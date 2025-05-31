@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Believe you can and you’re halfway there.”  –  Theodore Roosevelt
+    “Get going… walk if you have to, but finish the damned race.”  –  Ron Hill
   </p>
 </div>
 

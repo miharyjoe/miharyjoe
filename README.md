@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Get going… walk if you have to, but finish the damned race.”  –  Ron Hill
+    “We don’t have to be smarter than the rest; we have to be more disciplinedthan the rest.”  –  Warren Buffett
   </p>
 </div>
 

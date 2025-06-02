@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “We don’t have to be smarter than the rest; we have to be more disciplinedthan the rest.”  –  Warren Buffett
+    “Whatever it takes to finish things, finish. You will learn more from a glorious failure than you ever will from something you never finished.”― Neil Gaiman
   </p>
 </div>
 

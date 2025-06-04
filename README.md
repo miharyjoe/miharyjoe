@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I failed my way to success.” –  Thomas Edison
+    “It’s not luck, it’s not magic, it’s not circumstances. It’s developing a great plan and executing on it, day in and day out until the visions in your head become your reality.”  –  Andy Frisella
   </p>
 </div>
 

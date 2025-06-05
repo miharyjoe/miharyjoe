@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It’s not luck, it’s not magic, it’s not circumstances. It’s developing a great plan and executing on it, day in and day out until the visions in your head become your reality.”  –  Andy Frisella
+    “When a goal matters enough to a person, that person will find a way to accomplish what at first seemed impossible.” – Nido Qubein
   </p>
 </div>
 

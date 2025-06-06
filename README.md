@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “When a goal matters enough to a person, that person will find a way to accomplish what at first seemed impossible.” – Nido Qubein
+    “Glory gives herself only to those who have always dreamed of her.”  –  Charles de Gaul
   </p>
 </div>
 

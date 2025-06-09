@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Courage is fear holding on a minute longer.”  –  George S. Patton
+    “Good, better, best. Never let it rest. ‘Till your good is better and your better is best.'”  –  St. Jerome
   </p>
 </div>
 

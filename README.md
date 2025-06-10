@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Good, better, best. Never let it rest. ‘Till your good is better and your better is best.'”  –  St. Jerome
+    “When I let go of what I am, I become what I might be.  When I let go of what I have, I receive what I need.”  –  Lao Tzu
   </p>
 </div>
 

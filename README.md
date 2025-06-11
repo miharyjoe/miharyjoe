@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “When I let go of what I am, I become what I might be.  When I let go of what I have, I receive what I need.”  –  Lao Tzu
+    “There will be obstacles. There will be doubters. There will be mistakes.  But with hard work, there are no limits.”  –  Michael Phelps
   </p>
 </div>
 

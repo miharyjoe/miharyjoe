@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “As long as there’s breath in You–Persist!  –  Bernard Kelvin Clive
+    “Grit is the grain of character. It may generally be described as heroism materialized, spirit and will thrust into heart, brain, and backbone, so as to form part of the physical substance of the man.”  –  Edwin Percy Whipple
   </p>
 </div>
 

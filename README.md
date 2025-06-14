@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Grit is the grain of character. It may generally be described as heroism materialized, spirit and will thrust into heart, brain, and backbone, so as to form part of the physical substance of the man.”  –  Edwin Percy Whipple
+    “Success means having the courage, the determination, and the will to become the person you believe you were meant to be.”  –  George A. Sheehan
   </p>
 </div>
 

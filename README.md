@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Success means having the courage, the determination, and the will to become the person you believe you were meant to be.”  –  George A. Sheehan
+    “The most common way people give up their power is by thinking they don’t have any.”  –  Alice Walker
   </p>
 </div>
 

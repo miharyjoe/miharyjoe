@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The most common way people give up their power is by thinking they don’t have any.”  –  Alice Walker
+    “The extra energy required to make another effort… is the secret of winning.”  –  Denis Waitley
   </p>
 </div>
 

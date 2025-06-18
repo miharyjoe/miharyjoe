@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Life’s battles don’t always go to the stronger or faster man. But sooner or later, the man who wins is the man who thinks he can.”  –  Walter D. Wintle
+    “Whatever the mind of man can conceive and believe, it can achieve.”  –  Napoleon Hill
   </p>
 </div>
 

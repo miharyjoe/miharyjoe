@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Whatever the mind of man can conceive and believe, it can achieve.”  –  Napoleon Hill
+    “It’s not where you start — It’s where you finish that counts.”  –  Zig Ziglar
   </p>
 </div>
 

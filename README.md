@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It’s not where you start — It’s where you finish that counts.”  –  Zig Ziglar
+    “With self-discipline, most anything is possible.”  –  Theodore Roosevelt
   </p>
 </div>
 

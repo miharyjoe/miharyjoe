@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “With self-discipline, most anything is possible.”  –  Theodore Roosevelt
+    “FOCUS:  Follow One Course Until Successful.”  –  Focus Acronym
   </p>
 </div>
 

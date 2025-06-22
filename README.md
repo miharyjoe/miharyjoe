@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “FOCUS:  Follow One Course Until Successful.”  –  Focus Acronym
+    “Most of the reasons we don’t do things is because we’re afraid to fail.  I just made a decision one day that I was not going to do things in my life because of fear.”  –  Sara Blakely
   </p>
 </div>
 

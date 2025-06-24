@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The key to success is failure.” – Michael Jordan
+    “It’s not that I am so smart; it’s just that I stay with problems longer.”  –  Albert Einstein
   </p>
 </div>
 

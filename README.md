@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It’s not that I am so smart; it’s just that I stay with problems longer.”  –  Albert Einstein
+    “A little more persistence a little more effort, and what seemed hopeless failure may turn into a glorious success.” – Elbert Hubbard
   </p>
 </div>
 

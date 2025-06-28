@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Grit is not synonymous with hard work. It involves a certain single-mindedness. An ungritty prison inmate will mount a daring new escape attempt every month, but a gritty prison inmate will tunnel his way out one spoonful of concrete at a time. Grit.”  –  Chip Heath
+    “What we achieve inwardly will change outer reality.”  –  Plutarch
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “What we achieve inwardly will change outer reality.”  –  Plutarch
+    “I always say, ‘I think being a woman in business is our weakness and strength are being underestimated.” – Sara Blakely
   </p>
 </div>
 

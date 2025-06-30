@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I always say, ‘I think being a woman in business is our weakness and strength are being underestimated.” – Sara Blakely
+    “There are better starters than me, but I’m a strong finisher.”  –  Usain Bolt
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “There are better starters than me, but I’m a strong finisher.”  –  Usain Bolt
+    “Grit is about staying committed to your goals, even when it’s hard.”   –  Angela Duckworth
   </p>
 </div>
 

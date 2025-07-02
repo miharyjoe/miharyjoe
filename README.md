@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Grit is about staying committed to your goals, even when it’s hard.”   –  Angela Duckworth
+    “The three great essentials to achieve anything worthwhile are, first, hardwork; second, stick-to-itiveness; third, common sense.” – Thomas Edison
   </p>
 </div>
 

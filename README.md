@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The three great essentials to achieve anything worthwhile are, first, hardwork; second, stick-to-itiveness; third, common sense.” – Thomas Edison
+    “Don’t think about the start of the race. Think about the ending.” – Usain Bolt
   </p>
 </div>
 

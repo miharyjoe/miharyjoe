@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Think Strong.  Be Strong.  Finish Strong.”  –  Anonymous
+    “It ain’t how you start out, it’s how you finish.”  –  Tony Gonzales
   </p>
 </div>
 

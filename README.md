@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “What would happen if you gave yourself permission to do somethingyou’ve never done before? There’s only one way to find out.”  –  Gina Greenlee
+    “You do what you can for as long as you can, and when you can’t, you do the next best thing. You back up, but you don’t give up.”  –  Chuck Yeager
   </p>
 </div>
 

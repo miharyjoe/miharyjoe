@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You do what you can for as long as you can, and when you can’t, you do the next best thing. You back up, but you don’t give up.”  –  Chuck Yeager
+    “Grit is guts, resilience, industriousness and tenacity.  Grit is the ability to focus, stay determined, stay optimistic in the face of a challenge, and simply work harder than the next guy or gal.”  –  Linda Kaplan Thaler
   </p>
 </div>
 

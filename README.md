@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Climb mountains not so the world can see you, but so you can see the world.”  –  David McCullough Jr.
+    “It’s one thing to have the faith to get started, but it’s another thing to have the fortitude to finish strong.” – Kami Dempsey
   </p>
 </div>
 

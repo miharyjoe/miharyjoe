@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It’s one thing to have the faith to get started, but it’s another thing to have the fortitude to finish strong.” – Kami Dempsey
+    “It’s hard to beat a person who never gives up.” – Babe Ruth
   </p>
 </div>
 

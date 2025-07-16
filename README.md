@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It’s hard to beat a person who never gives up.” – Babe Ruth
+    “Grit is that ‘extra something’ that separates the most successful people from the rest.” – Travis Bradberry
   </p>
 </div>
 

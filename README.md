@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Grit is that ‘extra something’ that separates the most successful people from the rest.” – Travis Bradberry
+    “That some achieve great success, is proof to all that others can achieve it as well.”  –  Abraham Lincoln
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “What you exhibit outwardly, you are inwardly.”  –  Claude M. Bristol
+    “Our potential is one thing.  What we do with it is quite another.”  –  Angela Duckworth
   </p>
 </div>
 

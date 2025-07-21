@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you don’t design your own life plan, chances are you’ll fall into someone else’s plan. And guess what they have planned for you? Not much.”  –  Jim Rohn
+    “Grit is choosing to hang on when you desperately want to let go.”  –  The STRIVE
   </p>
 </div>
 

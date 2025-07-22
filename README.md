@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Grit is choosing to hang on when you desperately want to let go.”  –  The STRIVE
+    “Success is how high you bounce when you hit bottom.”  –  George S. Patton
   </p>
 </div>
 

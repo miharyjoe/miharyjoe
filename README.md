@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You don’t get results by focusing on results.  You get results by focusing on the actions that produce results.”  –  Mike Hawkins
+    “It’s not where you start — It’s where you finish that counts.”  –  Zig Ziglar
   </p>
 </div>
 

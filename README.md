@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Most people never run far enough on their first wind to find out they’ve got a second. Give your dreams all you’ve got and you’ll be amazed at the energy that comes out of you.”  –  William James
+    “Screw it, let’s do it — just get on with it and do it.”  –  Richard Branson
   </p>
 </div>
 

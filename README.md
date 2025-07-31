@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.”  –  Theodore Roosevelt
+    “With the new day comes new strength and new thoughts.”  –  Elenor Roosevelt
   </p>
 </div>
 

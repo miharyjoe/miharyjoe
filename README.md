@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The 99% that achieve are willing to sacrifice, be persistent and put in disproportionate work, and think in 50 year terms not 50 day terms.” – Gary Vaynerchuk
+    “We always say, start strong, finish stronger.” – Chris Griffin
   </p>
 </div>
 

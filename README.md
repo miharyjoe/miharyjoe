@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “We always say, start strong, finish stronger.” – Chris Griffin
+    “There will be obstacles. There will be doubters. There will be mistakes. But with hard work, there are no limits.” – Michael Phelps
   </p>
 </div>
 

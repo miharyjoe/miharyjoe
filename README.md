@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Stay focused, ignore the distractions, and you will accomplish your goals much faster.”  –  Joel Osteen
+    “Kites rise highest against the wind – not with it.”  –  Winston Churchill
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I knew that I wanted to start my own business.  I knew that I wanted to work for myself.  I was no stranger to the word no.  You just have to keep going.”  –  Sara Blakely
+    “Ensure that you do things differently from everyone else.”  –  Sara Blakely
   </p>
 </div>
 

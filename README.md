@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Ensure that you do things differently from everyone else.”  –  Sara Blakely
+    “Judge your success by what you had to give up in order to get it.”  –  Dalai Lama
   </p>
 </div>
 

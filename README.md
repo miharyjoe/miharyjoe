@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Judge your success by what you had to give up in order to get it.”  –  Dalai Lama
+    “Opportunities are usually disguised as hard work, so most people don’t recognize them.”  –  Ann Landers
   </p>
 </div>
 

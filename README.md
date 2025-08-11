@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Opportunities are usually disguised as hard work, so most people don’t recognize them.”  –  Ann Landers
+    “To be successful we must do things that unsuccessful people do not wantto do. Those things require levels of courage.”  –  R. Harpe
   </p>
 </div>
 

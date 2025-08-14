@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Fate loves the fearless.”  –  James Russell Lowell
+    “One of the most important principles of success is developing the habit of going the extra mile.”  –  Napoleon Hill
   </p>
 </div>
 

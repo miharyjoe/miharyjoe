@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “One of the most important principles of success is developing the habit of going the extra mile.”  –  Napoleon Hill
+    “One painful duty fulfilled makes the next plainer and easier.”  –  Hellen Keller
   </p>
 </div>
 

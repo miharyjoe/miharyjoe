@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “One painful duty fulfilled makes the next plainer and easier.”  –  Hellen Keller
+    “Persistence is to the character of man as carbon is to steel.”  –  Napoleon Hill
   </p>
 </div>
 

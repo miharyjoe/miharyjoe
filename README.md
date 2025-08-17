@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Persistence is to the character of man as carbon is to steel.”  –  Napoleon Hill
+    “Survival can be summed up in three words – never give up. That’s theheart of it really. Just keep trying.”  –  Bear Grylls
   </p>
 </div>
 

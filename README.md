@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Survival can be summed up in three words – never give up. That’s theheart of it really. Just keep trying.”  –  Bear Grylls
+    “Do a little more each day than you think you possibly can.”  –  Lowell Thomas
   </p>
 </div>
 

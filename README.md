@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Do a little more each day than you think you possibly can.”  –  Lowell Thomas
+    “When we demonstrate grit or are described as gritty, it is because we have had the resilience to push ourselves over, through, around, and sometimes under obstacles.”  –  Kori D. Miller
   </p>
 </div>
 

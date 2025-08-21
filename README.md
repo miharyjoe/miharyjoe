@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you have everything seems under control, you’re just not going fast enough.”  –  Mario Andretti
+    “Believe you can and you’re halfway there.”  –  Theodore Roosevelt
   </p>
 </div>
 

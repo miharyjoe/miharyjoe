@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Believe you can and you’re halfway there.”  –  Theodore Roosevelt
+    “It is not because things are difficult that we do not dare, it is because we do not dare that they are difficult.”  –  Seneca
   </p>
 </div>
 

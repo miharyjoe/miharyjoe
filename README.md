@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It is not because things are difficult that we do not dare, it is because we do not dare that they are difficult.”  –  Seneca
+    “The only way out is through.”  –  Helen Keller
   </p>
 </div>
 

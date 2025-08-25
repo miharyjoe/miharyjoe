@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.”  –  Harriet Tubman
+    “There are two mistakes one can make along the way to truth: not going all the way, and not starting.”  –  Buddha
   </p>
 </div>
 

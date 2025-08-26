@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “There are two mistakes one can make along the way to truth: not going all the way, and not starting.”  –  Buddha
+    “Opportunities are usually disguised as hard work, so most people don’t recognize them.”  –  Ann Landers
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Opportunities are usually disguised as hard work, so most people don’t recognize them.”  –  Ann Landers
+    “Focus on making yourself better, not on thinking that you are better.”  –  Bodhi Sanders
   </p>
 </div>
 

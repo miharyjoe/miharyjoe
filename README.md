@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Focus on making yourself better, not on thinking that you are better.”  –  Bodhi Sanders
+    “Over time, grit is what separates fruitful lives from aimlessness.”  –  John Ortberg
   </p>
 </div>
 

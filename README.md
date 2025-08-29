@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Over time, grit is what separates fruitful lives from aimlessness.”  –  John Ortberg
+    “Victory is always possible for the person who refuses defeat.” – Anonymous
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Victory is always possible for the person who refuses defeat.” – Anonymous
+    “Beginnings are easy, the thing is to finish the race.”  –  Vitor Belfort
   </p>
 </div>
 

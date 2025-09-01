@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Money grows on the tree of persistence.”  –  Japanese Proverb
+    “The secret to happiness is freedom… and the secret to freedom is courage.”  –  Thucydides
   </p>
 </div>
 

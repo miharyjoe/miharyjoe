@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The secret to happiness is freedom… and the secret to freedom is courage.”  –  Thucydides
+    “In starting a business and growing a business, every day is learning how to manage obstacles.”  –  Sara Blakely
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “In starting a business and growing a business, every day is learning how to manage obstacles.”  –  Sara Blakely
+    “We always say, start strong, finish stronger.” – Chris Griffin
   </p>
 </div>
 

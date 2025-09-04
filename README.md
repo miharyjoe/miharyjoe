@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “We always say, start strong, finish stronger.” – Chris Griffin
+    “Beginnings are easy, the thing is to finish the race.”  –  Vitor Belfort
   </p>
 </div>
 

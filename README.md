@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Beginnings are easy, the thing is to finish the race.”  –  Vitor Belfort
+    “Mental dominance is what ultimately makes you unstoppable.” – Tim S. Grover
   </p>
 </div>
 

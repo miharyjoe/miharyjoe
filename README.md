@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “What we call the beginning is often the end.  And to make an end is to make a beginning.  The end is where we start from.”  –  T.S. Eliot
+    “Regardless of what came before or of what is yet to come, what matters most right now is how I choose to respond to the challenge before me. Will I lie down or will I fight? The choice is mine, and I choose to FINISH STRONG.” – Dan Green
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Go for it now.  The future is promised to no one.”  –  Wayne Dyer
+    “A little more persistence a little more effort, and what seemed hopeless failure may turn into a glorious success.” – Elbert Hubbard
   </p>
 </div>
 

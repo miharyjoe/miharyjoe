@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “A little more persistence a little more effort, and what seemed hopeless failure may turn into a glorious success.” – Elbert Hubbard
+    “I live by ‘Go big or go home.’ That’s with everything. It’s like either commit and go for it or don’t do it at all.”  –  Paul Walker
   </p>
 </div>
 

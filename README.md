@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I would rather die of passion than of boredom.”  –  Vincent van Gogh
+    “Do you want to know who you are? Don’t ask. Act! Action will delineate and define you.”  –  Thomas Jefferson
   </p>
 </div>
 

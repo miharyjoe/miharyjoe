@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Do you want to know who you are? Don’t ask. Act! Action will delineate and define you.”  –  Thomas Jefferson
+    “Success in anything will always come down to this: Focus & Effort, andwe control both of them.”  –  Dwayne ‘The Rock’ Johnson
   </p>
 </div>
 

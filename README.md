@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Success in anything will always come down to this: Focus & Effort, andwe control both of them.”  –  Dwayne ‘The Rock’ Johnson
+    “When the end comes for you, let if find you conquering a new mountain not sliding down an old one.”  –  Jim Rohn
   </p>
 </div>
 

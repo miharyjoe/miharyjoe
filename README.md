@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “When the end comes for you, let if find you conquering a new mountain not sliding down an old one.”  –  Jim Rohn
+    “Real lions like to hunt! They like the process just as much as they love the prize.”  –  Eric Thomas
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Real lions like to hunt! They like the process just as much as they love the prize.”  –  Eric Thomas
+    “Where I excel, is ridiculous, sickening, work-ethic!”  –  Will Smith
   </p>
 </div>
 

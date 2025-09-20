@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Where I excel, is ridiculous, sickening, work-ethic!”  –  Will Smith
+    “Don’t tell me how hard you work. Tell me how much you get done.”  –  James Ling
   </p>
 </div>
 

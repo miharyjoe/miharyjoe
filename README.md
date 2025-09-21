@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Don’t tell me how hard you work. Tell me how much you get done.”  –  James Ling
+    “He who seeks rest finds boredom….He who seeks work finds rest.”  –  Anonymous
   </p>
 </div>
 

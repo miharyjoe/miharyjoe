@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “He who seeks rest finds boredom….He who seeks work finds rest.”  –  Anonymous
+    “The best way to predict the future is to create it.”  –  Peter Drucker
   </p>
 </div>
 

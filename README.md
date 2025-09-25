@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Your daily behavior reveals your deepest beliefs.”  –  Robin Sharma
+    “Fate loves the fearless.”  –  James Russell Lowell
   </p>
 </div>
 

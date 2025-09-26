@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Fate loves the fearless.”  –  James Russell Lowell
+    “For success, attitude is equally as important as ability.”  –  Harry F. Banks
   </p>
 </div>
 

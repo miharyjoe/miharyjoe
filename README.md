@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “For success, attitude is equally as important as ability.”  –  Harry F. Banks
+    “What you focus on expands; results follow focus.”  –  Marcus Buckingham
   </p>
 </div>
 

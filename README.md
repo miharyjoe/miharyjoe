@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “What you focus on expands; results follow focus.”  –  Marcus Buckingham
+    “Sometimes, a winner is a dreamer who just won’t quit.”  –  Rudy
   </p>
 </div>
 

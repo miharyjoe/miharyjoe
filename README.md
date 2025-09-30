@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “People that have grit are extraordinarily resilient and are willing to put in the effort to get things done.”  –  Lee David Daniels
+    “You have to learn the rules of the game. And then you have to play better than anyone else.”  –  Albert Einstein
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You have to learn the rules of the game. And then you have to play better than anyone else.”  –  Albert Einstein
+    “Greatness is not measured by what a man or woman accomplishes, but by the opposition they overcame to reach their goals.”  –  D. Height
   </p>
 </div>
 

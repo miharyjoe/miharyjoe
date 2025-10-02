@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Greatness is not measured by what a man or woman accomplishes, but by the opposition they overcame to reach their goals.”  –  D. Height
+    “I am grinding while your sleeping.”  –  Gary Vaynerchuk
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Remember no matter how fast you run, you can’t be the winner if you don’t finish.”  –  Israelmore Ayivor
+    “True grit is staying in the game when others would have dropped the ball and left the park.”  –  Anonymous
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “True grit is staying in the game when others would have dropped the ball and left the park.”  –  Anonymous
+    “I’d never worked in fashion or retail. I just needed an undergarment that didn’t exist.”  –  Sara Blakely
   </p>
 </div>
 

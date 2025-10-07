@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I’d never worked in fashion or retail. I just needed an undergarment that didn’t exist.”  –  Sara Blakely
+    “They indeed are fools who are satisfied with the fruits of their past effort and do not engage themselves in self-effort now.”  –  Swami Venkatesananda
   </p>
 </div>
 

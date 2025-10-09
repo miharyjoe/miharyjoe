@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Your life is controlled by what you focus on.”  –  Tony Robbins
+    “If you don’t let knowing how it’s done intimidate you, it’s amazing what you can do.”  –  Sara Blakely
   </p>
 </div>
 

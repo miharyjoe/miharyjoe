@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you don’t let knowing how it’s done intimidate you, it’s amazing what you can do.”  –  Sara Blakely
+    “You’ve got to embrace what you don’t know.”  –  Sara Blakely
   </p>
 </div>
 

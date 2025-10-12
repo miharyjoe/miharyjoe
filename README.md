@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Don’t stop until you’re proud.”  –  Anonymous
+    “If you can’t excel with talent, triumph with effort.”  –  Dave Weinbaum
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you can’t excel with talent, triumph with effort.”  –  Dave Weinbaum
+    “There’s nothing like biting off more than you can chew, and then chewing anyway.”  –  Mark Burnett
   </p>
 </div>
 

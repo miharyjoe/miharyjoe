@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “There’s nothing like biting off more than you can chew, and then chewing anyway.”  –  Mark Burnett
+    “If you are going through hell, keep going.”  –  Winston Churchill
   </p>
 </div>
 

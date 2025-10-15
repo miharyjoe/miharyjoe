@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you are going through hell, keep going.”  –  Winston Churchill
+    “I knew the one thing I might regret was not ever having tried.”  –  Jeff Bezos
   </p>
 </div>
 

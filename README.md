@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Stop managing your time.  Start managing your focus.”  –  Robin Sharma
+    “In any given moment, we have two options: To step forward into growth or to step back into safety.”  –  Abraham Maslow
   </p>
 </div>
 

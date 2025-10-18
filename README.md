@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “In any given moment, we have two options: To step forward into growth or to step back into safety.”  –  Abraham Maslow
+    “You will always have ups and downs in your life and your career, but just stay positive and go for it.”  –  Angelique Kerber
   </p>
 </div>
 

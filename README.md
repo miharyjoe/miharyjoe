@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You will always have ups and downs in your life and your career, but just stay positive and go for it.”  –  Angelique Kerber
+    “Success doesn’t come to you, you go to it.”  –  T. Scott Mcleod
   </p>
 </div>
 

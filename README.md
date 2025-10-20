@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Success doesn’t come to you, you go to it.”  –  T. Scott Mcleod
+    “Your life is controlled by what you focus on.”  –  Tony Robbins
   </p>
 </div>
 

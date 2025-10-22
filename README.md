@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “There’s not a person on my team in 16 years that has consistently beat me to the ball every play. That ain’t got anything to do with talent, that’s just got everything to do with effort, and nothing else.”  –  Ray Lewis
+    “The man who succeeds is a man who has withstood the tests of time, trials,and has made every effort count.”  –  Hermann J. Steinherr
   </p>
 </div>
 

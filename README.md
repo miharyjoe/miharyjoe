@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The man who succeeds is a man who has withstood the tests of time, trials,and has made every effort count.”  –  Hermann J. Steinherr
+    “Action is the foundational key to all success.”  –  Pablo Picasso
   </p>
 </div>
 

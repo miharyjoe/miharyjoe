@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “There will be obstacles. There will be doubters. There will be mistakes.  But with hard work, there are no limits.”  –  Michael Phelps
+    “For success, attitude is equally as important as ability.”  –  Walter Scott
   </p>
 </div>
 

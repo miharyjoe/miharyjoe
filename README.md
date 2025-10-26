@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “For success, attitude is equally as important as ability.”  –  Walter Scott
+    “If you are not willing to risk the usual, you will have to settle for the ordinary.”   –  Jim Rohn
   </p>
 </div>
 

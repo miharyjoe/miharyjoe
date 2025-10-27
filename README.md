@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you are not willing to risk the usual, you will have to settle for the ordinary.”   –  Jim Rohn
+    “Grit is guts, resilience, industriousness and tenacity.  Grit is the ability to focus, stay determined, stay optimistic in the face of a challenge, and simply work harder than the next guy or gal.”  –  Linda Kaplan Thaler
   </p>
 </div>
 

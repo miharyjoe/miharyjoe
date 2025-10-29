@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “We all have dreams. But in order to make dreams come into reality, it takesan awful lot of determination, dedication, self-discipline, and effort.”  –  Jesse Owens
+    “Life shrinks or expands in proportion to one’s courage.”  –  Anais Nin
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Life shrinks or expands in proportion to one’s courage.”  –  Anais Nin
+    “The only man who doesn’t make mistakes is the man who never does anything.”  –  Theodore Roosevelt
   </p>
 </div>
 

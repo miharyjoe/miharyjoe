@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The only man who doesn’t make mistakes is the man who never does anything.”  –  Theodore Roosevelt
+    “Grit determines that life challenges will neither defeat nor define us.”  –  Anonymous
   </p>
 </div>
 

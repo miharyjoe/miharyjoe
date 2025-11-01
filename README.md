@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Grit determines that life challenges will neither defeat nor define us.”  –  Anonymous
+    “If you can’t excel with talent, triumph with effort.”  –  Dave Weinbaum
   </p>
 </div>
 

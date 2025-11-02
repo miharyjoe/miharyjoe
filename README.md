@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you can’t excel with talent, triumph with effort.”  –  Dave Weinbaum
+    “Real lions like to hunt! They like the process just as much as they love the prize.”  –  Eric Thomas
   </p>
 </div>
 

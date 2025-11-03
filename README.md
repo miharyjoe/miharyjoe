@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Real lions like to hunt! They like the process just as much as they love the prize.”  –  Eric Thomas
+    “When we demonstrate grit or are described as gritty, it is because we have had the resilience to push ourselves over, through, around, and sometimes under obstacles.”  –  Kori D. Miller
   </p>
 </div>
 

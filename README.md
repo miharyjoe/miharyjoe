@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I am not a product of my circumstances. I am a product of my decision.”  –  Stephen Covey
+    “All the so-called ‘secrets of success’ will not work unless you do.” – Anonymous
   </p>
 </div>
 

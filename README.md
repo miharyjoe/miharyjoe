@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “All the so-called ‘secrets of success’ will not work unless you do.” – Anonymous
+    “Champions keep playing until they get it right.”  –  Billy Jean King
   </p>
 </div>
 

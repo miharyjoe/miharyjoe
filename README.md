@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Success is nothing more than a few simple disciplines, practiced every day.”  –  Jim Rohn
+    “All progress takes place outside the comfort zone.”  –  Michael John Bobak
   </p>
 </div>
 

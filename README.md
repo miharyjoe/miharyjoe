@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.”  –  Dale Carnegie
+    “Run your own race. Who cares what others are doing? The only question that matters is, am I progressing?”  –  Robin Sharma
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Run your own race. Who cares what others are doing? The only question that matters is, am I progressing?”  –  Robin Sharma
+    “If you believe in what you are doing, then let nothing hold you up in your work. Much of the best work of the world has been done against seeming impossibilities. The thing is to get the work done.” – Dale Carnegie
   </p>
 </div>
 

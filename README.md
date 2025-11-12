@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you believe in what you are doing, then let nothing hold you up in your work. Much of the best work of the world has been done against seeming impossibilities. The thing is to get the work done.” – Dale Carnegie
+    “Opportunities are usually disguised as hard work, so most people don’t recognize them.”  –  Ann Landers
   </p>
 </div>
 

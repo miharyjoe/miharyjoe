@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Opportunities are usually disguised as hard work, so most people don’t recognize them.”  –  Ann Landers
+    “Success in anything will always come down to this:  focus and effort, and we control both of them.”  –  Dwayne Johnson
   </p>
 </div>
 

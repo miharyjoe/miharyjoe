@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Success in anything will always come down to this:  focus and effort, and we control both of them.”  –  Dwayne Johnson
+    “If you surround yourself with gritty people who are mentally tough and psychologically resilient, it will positively influence your own attitude and behavior.”  –  Shade Zahrai
   </p>
 </div>
 

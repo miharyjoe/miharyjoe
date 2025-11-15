@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you surround yourself with gritty people who are mentally tough and psychologically resilient, it will positively influence your own attitude and behavior.”  –  Shade Zahrai
+    “It’s the extra effort after you’ve done your best that creates victory.”  –  Lou Holtz
   </p>
 </div>
 

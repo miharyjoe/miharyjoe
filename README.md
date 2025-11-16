@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It’s the extra effort after you’ve done your best that creates victory.”  –  Lou Holtz
+    “Don’t tell me how hard you work. Tell me how much you get done.”  –  James Ling
   </p>
 </div>
 

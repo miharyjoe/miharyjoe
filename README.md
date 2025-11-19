@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “What you focus on expands; results follow focus.”  –  Marcus Buckingham
+    “People like to tear you down. People are always going to take shots. You’ve just got to go for it.”  –  Joan Jett
   </p>
 </div>
 

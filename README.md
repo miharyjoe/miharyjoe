@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “People like to tear you down. People are always going to take shots. You’ve just got to go for it.”  –  Joan Jett
+    “I would rather die of passion than of boredom.”  –  Vincent van Gogh
   </p>
 </div>
 

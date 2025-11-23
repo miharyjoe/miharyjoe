@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Trying new things and not being afraid to fail along the way are more important than what you learn in school.”  –  Sara Blakely
+    “I firmly believe that any man’s finest hour, the greatest fulfillment of all that he holds dear, is that moment when he has worked his heart out in a good cause and lies exhausted on the field of battle – victorious.” – Vince Lombardi
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Work your ass off. There is no magic pill.” – Arnold Schwarzenegger
+    “If you believe you can do a thing, you can do it.”  –  Claude M. Bristol
   </p>
 </div>
 

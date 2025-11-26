@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you believe you can do a thing, you can do it.”  –  Claude M. Bristol
+    “Yesterday’s home runs don’t win today’s games.”  –  Babe Ruth
   </p>
 </div>
 

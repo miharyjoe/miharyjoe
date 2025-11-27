@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Yesterday’s home runs don’t win today’s games.”  –  Babe Ruth
+    “Dreams are not what you see in your sleep, they are the things that don’t let you sleep.”  –   Cristiano Ronaldo
   </p>
 </div>
 

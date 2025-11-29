@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Don’t tell me how hard you work. Tell me how much you get done.”  –  James Ling
+    “Whatever you can do, or dream you can, begin it. Boldness has genius, power, and magic in it.”  –  Johann Wolfgang von Goethe
   </p>
 </div>
 

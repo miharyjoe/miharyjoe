@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Whatever you can do, or dream you can, begin it. Boldness has genius, power, and magic in it.”  –  Johann Wolfgang von Goethe
+    “Persistence. The only thing that will piss-off failure enough for it to get the fu** out of the way of your success. PERSIST.”  – The Ultimate Warrior
   </p>
 </div>
 

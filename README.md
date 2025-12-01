@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Persistence. The only thing that will piss-off failure enough for it to get the fu** out of the way of your success. PERSIST.”  – The Ultimate Warrior
+    “The thought of my mortality – I think about it a lot. I find it motivating. It can be any time that your number’s up.”  –  Sara Blakely
   </p>
 </div>
 

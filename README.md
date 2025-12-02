@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The thought of my mortality – I think about it a lot. I find it motivating. It can be any time that your number’s up.”  –  Sara Blakely
+    “Don’t brood. Get on with living and loving. You don’t have forever.”  –  Leo Buscaglia
   </p>
 </div>
 

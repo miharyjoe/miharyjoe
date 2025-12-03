@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Don’t brood. Get on with living and loving. You don’t have forever.”  –  Leo Buscaglia
+    “Over time, grit is what separates fruitful lives from aimlessness.”  –  John Ortberg
   </p>
 </div>
 

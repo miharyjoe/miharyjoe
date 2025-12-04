@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Over time, grit is what separates fruitful lives from aimlessness.”  –  John Ortberg
+    “It is in your moments of decision that your destiny is shaped.” – Tony Robbins
   </p>
 </div>
 

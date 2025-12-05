@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It is in your moments of decision that your destiny is shaped.” – Tony Robbins
+    “Men of action are favored by the goddess of good luck.”  –  George S. Clason
   </p>
 </div>
 

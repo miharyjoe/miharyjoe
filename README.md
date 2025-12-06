@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Men of action are favored by the goddess of good luck.”  –  George S. Clason
+    “Great things come from hard work and perseverance. No Excuses.” – Kobe Bryant
   </p>
 </div>
 

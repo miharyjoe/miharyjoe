@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Great things come from hard work and perseverance. No Excuses.” – Kobe Bryant
+    “Beginning in itself has no value, it is an end which makes beginning meaningful, we must end what we begun.”  –  Amit Kalantri
   </p>
 </div>
 

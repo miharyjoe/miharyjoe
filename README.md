@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The best way out is always through.”  –  Robert Frost
+    “Beginning in itself has no value, it is an end which makes beginning meaningful, we must end what we begun.”  –  Amit Kalantri
   </p>
 </div>
 

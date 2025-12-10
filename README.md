@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Beginning in itself has no value, it is an end which makes beginning meaningful, we must end what we begun.”  –  Amit Kalantri
+    “I always say, ‘I think being a woman in business is our weakness and strength are being underestimated.” – Sara Blakely
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The most successful people are those who are willing to keep moving forward after making mistakes.  They find a way not to avoid life’s inevitable obstacles, but to overcome them.”  –  Ashley Elizabeth
+    “Whenever you want to achieve something, keep your eyes open, concentrate and make sure you know exactly what it is you want. No one can hit their target with their eyes closed.”  –  Paulo Coelho
   </p>
 </div>
 

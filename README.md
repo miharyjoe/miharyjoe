@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Whenever you want to achieve something, keep your eyes open, concentrate and make sure you know exactly what it is you want. No one can hit their target with their eyes closed.”  –  Paulo Coelho
+    “Enthusiasm is the mother of effort, and without it nothing great was everachieved.”  –  Ralph Waldo Emerson
   </p>
 </div>
 

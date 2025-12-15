@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Enthusiasm is the mother of effort, and without it nothing great was everachieved.”  –  Ralph Waldo Emerson
+    “Your biggest failure is the thing you dreamed of contributing but didn’t find the guts to do.”  –  Seth Godin
   </p>
 </div>
 

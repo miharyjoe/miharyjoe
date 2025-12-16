@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Your biggest failure is the thing you dreamed of contributing but didn’t find the guts to do.”  –  Seth Godin
+    “There are no limits to what you can accomplish, except the limits you place on your own thinking.”  –  Brian Tracy
   </p>
 </div>
 

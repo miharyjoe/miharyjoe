@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The heights by great men reached and kept, were not attained by sudden flight, but they, while their companions slept, were toiling upward in the night.”  –  Henry Wadsworth Longfellow
+    “The greatest test of courage on the earth is to bear defeat without losingheart.”  –  R.G. Ingersoll
   </p>
 </div>
 

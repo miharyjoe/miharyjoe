@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The greatest test of courage on the earth is to bear defeat without losingheart.”  –  R.G. Ingersoll
+    “Grit is having the courage to push through, no matter what the obstacles are, because it’s worth it.”  –  Chris Morris
   </p>
 </div>
 

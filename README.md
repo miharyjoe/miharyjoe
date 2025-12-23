@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I planned my success, I knew it was going to happen.”  –  Erykah Badu
+    “Things may come to those who wait, but only the things left by those who hustle.”  –  Abraham Lincoln
   </p>
 </div>
 

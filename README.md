@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Things may come to those who wait, but only the things left by those who hustle.”  –  Abraham Lincoln
+    “Build your own dreams, or someone else will hire you to build theirs.”  –  Farrah Gray
   </p>
 </div>
 

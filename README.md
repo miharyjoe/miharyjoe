@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Build your own dreams, or someone else will hire you to build theirs.”  –  Farrah Gray
+    “Energy and persistence conquer all things.”  –  Benjamin Franklin
   </p>
 </div>
 

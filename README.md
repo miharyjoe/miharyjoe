@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Energy and persistence conquer all things.”  –  Benjamin Franklin
+    “To be gritty is to fall down seven times and rise eight.”  –  Angela Duckworth
   </p>
 </div>
 

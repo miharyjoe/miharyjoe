@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “To be gritty is to fall down seven times and rise eight.”  –  Angela Duckworth
+    “Grit is passion and perseverance for very long-term goals. Grit is having stamina.” – Angela Duckworth
   </p>
 </div>
 

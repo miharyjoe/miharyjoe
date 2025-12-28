@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Grit is passion and perseverance for very long-term goals. Grit is having stamina.” – Angela Duckworth
+    “He who sweats more in training bleeds less in war.”  –  Spartan Creed
   </p>
 </div>
 

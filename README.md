@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “He who sweats more in training bleeds less in war.”  –  Spartan Creed
+    “Run your own race. Who cares what others are doing? The only question that matters is, am I progressing?”  –  Robin Sharma
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Run your own race. Who cares what others are doing? The only question that matters is, am I progressing?”  –  Robin Sharma
+    “Kites rise highest against the wind – not with it.”  –  Winston Churchill
   </p>
 </div>
 

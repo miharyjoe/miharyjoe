@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Kites rise highest against the wind – not with it.”  –  Winston Churchill
+    “Sometimes adversity is what you need to face in order to become successful.”  –  Zig Ziglar
   </p>
 </div>
 

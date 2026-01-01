@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Sometimes adversity is what you need to face in order to become successful.”  –  Zig Ziglar
+    “Focus on the possibilities for success, not on the potential for failure.”  –  Napoleon Hill
   </p>
 </div>
 

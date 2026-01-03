@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It’s the constant and determined effort that breaks down all resistance,sweeps away all obstacles.”  –  Claude M. Bristol
+    “God honors a beautiful blend of gift and grit! He gives the gift, and He expects us to have the grit to practice and learn how to use it effectively.”  –  Beth Moore
   </p>
 </div>
 

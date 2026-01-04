@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “God honors a beautiful blend of gift and grit! He gives the gift, and He expects us to have the grit to practice and learn how to use it effectively.”  –  Beth Moore
+    “We are all self-made, but only the successful will admit it.”  –  Earl Nightingale
   </p>
 </div>
 

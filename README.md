@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “We are all self-made, but only the successful will admit it.”  –  Earl Nightingale
+    “Leave it all on the field.” – Allan Sepkowitz
   </p>
 </div>
 

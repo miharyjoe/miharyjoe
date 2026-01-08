@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Successful people make a lot of mistakes but they don’t quit.” – Conrad Hilton
+    “My first account was Neiman Marcus. I cold-called them just like I had cold-called businesses when I was selling fax machines for seven years.”  –  Sara Blakely
   </p>
 </div>
 

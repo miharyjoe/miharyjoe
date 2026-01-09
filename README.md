@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “My first account was Neiman Marcus. I cold-called them just like I had cold-called businesses when I was selling fax machines for seven years.”  –  Sara Blakely
+    “It’s not about money or connections.  It’s the willingness to outwork and outlearn everyone when it comes to your business.”  –  Mark Cuban
   </p>
 </div>
 

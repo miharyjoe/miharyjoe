@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It’s not about money or connections.  It’s the willingness to outwork and outlearn everyone when it comes to your business.”  –  Mark Cuban
+    “Sometimes adversity is what you need to face in order to become successful.”  –  Zig Ziglar
   </p>
 </div>
 

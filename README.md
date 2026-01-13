@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I will persist until I succeed. I was not delivered into this world in defeat, nor does failure course in my veins. I am not a sheep waiting to be prodded by my shepherd. I am a lion and I refuse to talk, to walk, to sleep with the sheep. The slaughterhouse of failure is not my destiny. I will persist until I succeed.”  –  Og Mandino
+    “True grit is staying in the game when others would have dropped the ball and left the park.”  –  Anonymous
   </p>
 </div>
 

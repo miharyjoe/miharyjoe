@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “True grit is staying in the game when others would have dropped the ball and left the park.”  –  Anonymous
+    “Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.”  –  Theodore Roosevelt
   </p>
 </div>
 

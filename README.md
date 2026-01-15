@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty.”  –  Theodore Roosevelt
+    “Finishing strong is the attitude of believing you can do something and having the courage and determination to see it through to the end.” – Brad Larsen
   </p>
 </div>
 

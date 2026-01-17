@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Don’t you dare let their laughter extinguish your ambition.”  –  J.K. Rowling
+    “When walking, walk. When eating, eat.”  –  Zen Proverb
   </p>
 </div>
 

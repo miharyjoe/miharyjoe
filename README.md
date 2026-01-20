@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you can dream it, you can do it.”  –  Walt Disney
+    “Energy and persistence conquer all things.”  –  Benjamin Franklin
   </p>
 </div>
 

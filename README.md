@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Energy and persistence conquer all things.”  –  Benjamin Franklin
+    “Finishing strong is the attitude of believing you can do something and having the courage and determination to see it through to the end.” – Brad Larsen
   </p>
 </div>
 

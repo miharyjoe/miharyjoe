@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Finishing strong is the attitude of believing you can do something and having the courage and determination to see it through to the end.” – Brad Larsen
+    “No one can be successful if you don’t finish what you start. Finishing strong is a sign of commitment, integrity, and excellence. Finishing strong is about choice. Each of us has the power to choose how we perform a job or a task and to finish strong.”  –  Kathyrn Kee
   </p>
 </div>
 

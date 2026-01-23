@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “No one can be successful if you don’t finish what you start. Finishing strong is a sign of commitment, integrity, and excellence. Finishing strong is about choice. Each of us has the power to choose how we perform a job or a task and to finish strong.”  –  Kathyrn Kee
+    “Success in anything will always come down to this:  focus and effort, and we control both of them.”  –  Dwayne Johnson
   </p>
 </div>
 

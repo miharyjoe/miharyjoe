@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Problems are not stop signs, they are guidelines.”  –  Robert H. Schuller
+    “It is better to fail in originality than to succeed in imitation.”  –  Herman Melville
   </p>
 </div>
 

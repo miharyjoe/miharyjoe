@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It is better to fail in originality than to succeed in imitation.”  –  Herman Melville
+    “The winner of any competition always comes from among those who finish. Not from among all those who try, or all those who mean well, but from among those who face the challenge and finish, and finish strong.”  –  Brad Larsen
   </p>
 </div>
 

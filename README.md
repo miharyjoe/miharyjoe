@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The winner of any competition always comes from among those who finish. Not from among all those who try, or all those who mean well, but from among those who face the challenge and finish, and finish strong.”  –  Brad Larsen
+    “Every morning you have two choices: continue to sleep with your dreams, or wake up and chase them.” – Anonymous
   </p>
 </div>
 

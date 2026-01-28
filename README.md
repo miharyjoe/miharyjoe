@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Every morning you have two choices: continue to sleep with your dreams, or wake up and chase them.” – Anonymous
+    “I don’t stop when I’m tired. I stop when I’m done.” – David Goggins
   </p>
 </div>
 

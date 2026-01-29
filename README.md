@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I don’t stop when I’m tired. I stop when I’m done.” – David Goggins
+    “It does not matter how slowly you go as long as you do not stop.”  –  Confucius
   </p>
 </div>
 

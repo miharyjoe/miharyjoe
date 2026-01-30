@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It does not matter how slowly you go as long as you do not stop.”  –  Confucius
+    “Remember that guy that gave up? Neither does anyone else.”  –  Anonymous
   </p>
 </div>
 

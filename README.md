@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Remember that guy that gave up? Neither does anyone else.”  –  Anonymous
+    “Stay focused, go after your dreams and keep moving toward your goals.”  –  LL Cool J
   </p>
 </div>
 

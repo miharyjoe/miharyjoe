@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Stay focused, go after your dreams and keep moving toward your goals.”  –  LL Cool J
+    “It is not because things are difficult that we do not dare, it is because we do not dare that they are difficult.”  –  Seneca
   </p>
 </div>
 

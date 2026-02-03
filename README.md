@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Fortune favors the bold.”  –  Virgil
+    “Sometimes a winner is just a dreamer who just won’t quit.” – Rudy
   </p>
 </div>
 

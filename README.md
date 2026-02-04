@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Sometimes a winner is just a dreamer who just won’t quit.” – Rudy
+    “Mental dominance is what ultimately makes you unstoppable.” – Tim S. Grover
   </p>
 </div>
 

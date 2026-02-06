@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It’s not how hard you pushed along the way.  It’s having something in you to finish.”  –  Michael Jordan
+    “If it’s important, you’ll find a way.  If it’s not, you’ll find an excuse.”  –  Ryan Blair
   </p>
 </div>
 

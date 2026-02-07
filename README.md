@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If it’s important, you’ll find a way.  If it’s not, you’ll find an excuse.”  –  Ryan Blair
+    “Work your ass off. There is no magic pill.” – Arnold Schwarzenegger
   </p>
 </div>
 

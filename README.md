@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Work your ass off. There is no magic pill.” – Arnold Schwarzenegger
+    “What kind of competitor see’s the finish line and slows down…  Always Finish Strong.”  –  Gary Ryan Blair
   </p>
 </div>
 

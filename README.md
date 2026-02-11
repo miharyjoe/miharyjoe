@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Believe you can and you’re halfway there.”  –  Theodore Roosevelt
+    “What is grit?  Grit is refusing to give up.  Persistence.  It’s making your own luck.”  –  Peter Diamandis
   </p>
 </div>
 

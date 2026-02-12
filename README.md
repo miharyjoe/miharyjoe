@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “What is grit?  Grit is refusing to give up.  Persistence.  It’s making your own luck.”  –  Peter Diamandis
+    “Comfort is the enemy of progress.” – P.T. Barnum
   </p>
 </div>
 

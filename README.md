@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Comfort is the enemy of progress.” – P.T. Barnum
+    “Success doesn’t just happen. You have to be intentional about it, and that takes discipline.”  –  John C. Maxwell
   </p>
 </div>
 

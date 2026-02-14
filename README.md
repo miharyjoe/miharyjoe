@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Success doesn’t just happen. You have to be intentional about it, and that takes discipline.”  –  John C. Maxwell
+    “Most people never run far enough on their first wind to find out they’ve got a second.” – William James
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Most people never run far enough on their first wind to find out they’ve got a second.” – William James
+    “For success, attitude is equally as important as ability.”  –  Walter Scott
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You must tell yourself; “No matter how hard it is, or how hard it gets, I’M GOING TO MAKE IT!'”  –  Les Brown
+    “Keep your face always toward the sunshine—and shadows will fall behind you.”  –  Walt Whitman
   </p>
 </div>
 

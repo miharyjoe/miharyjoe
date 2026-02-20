@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Keep your face always toward the sunshine—and shadows will fall behind you.”  –  Walt Whitman
+    “The greatest test of courage on the earth is to bear defeat without losingheart.”  –  R.G. Ingersoll
   </p>
 </div>
 

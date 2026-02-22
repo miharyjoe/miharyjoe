@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Press on. Nothing in the world can take the place of persistence.”  –  Ray Kroc
+    “Life is so much more rewarding if you strive for something, rather than take what’s given to you on a plate.” – Amy Winehouse
   </p>
 </div>
 

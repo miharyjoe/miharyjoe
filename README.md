@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Life is so much more rewarding if you strive for something, rather than take what’s given to you on a plate.” – Amy Winehouse
+    “People are rewarded in public for what they’ve practiced for years in private.”  –  Tony Robbins
   </p>
 </div>
 

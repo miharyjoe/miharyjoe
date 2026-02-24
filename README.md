@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “People are rewarded in public for what they’ve practiced for years in private.”  –  Tony Robbins
+    “The size of your success is measured by the strength of your desire, the size of your dream, and how you handle disappointment along the way.”  –  Robert Kiyosaki
   </p>
 </div>
 

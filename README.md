@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The best revenge is massive success.”  –  Frank Sinatra
+    “Do the work. Everyone wants to be successful, but nobody wants to do the work.”  –  Gary Vaynerchuk
   </p>
 </div>
 

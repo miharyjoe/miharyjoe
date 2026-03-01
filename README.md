@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You’ve got to get up every morning with determination if you’re going to go to bed with satisfaction.” – George Lorimer
+    “Remember that guy that gave up? Neither does anyone else.”  –  Anonymous
   </p>
 </div>
 

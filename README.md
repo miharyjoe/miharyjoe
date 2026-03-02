@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Remember that guy that gave up? Neither does anyone else.”  –  Anonymous
+    “Champions understand that finishing strong in practice, leads to finishing strong in application.  You play the way you practice.”  –  Atlas Rowe
   </p>
 </div>
 

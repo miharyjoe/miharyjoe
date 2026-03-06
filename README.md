@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Much effort, much prosperity.”  –  Euripides
+    “You can put forth maximum effort every day of the week, but if you’re not committed to finishing strong, someone hungrier will surpass you.”  –  The STRIVE
   </p>
 </div>
 

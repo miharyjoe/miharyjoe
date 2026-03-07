@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You can put forth maximum effort every day of the week, but if you’re not committed to finishing strong, someone hungrier will surpass you.”  –  The STRIVE
+    “You know you are on the road to success if you would do your job, and not be paid for it.”  –  Oprah Winfrey
   </p>
 </div>
 

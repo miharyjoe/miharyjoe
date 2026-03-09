@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “What would happen if you gave yourself permission to do somethingyou’ve never done before? There’s only one way to find out.”  –  Gina Greenlee
+    “I’d never worked in fashion or retail. I just needed an undergarment that didn’t exist.”  –  Sara Blakely
   </p>
 </div>
 

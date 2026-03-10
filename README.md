@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I’d never worked in fashion or retail. I just needed an undergarment that didn’t exist.”  –  Sara Blakely
+    “The most difficult thing is the decision to act, the rest is merely tenacity.”  –  Amelia Earhart
   </p>
 </div>
 

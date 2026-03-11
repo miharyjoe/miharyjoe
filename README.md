@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The most difficult thing is the decision to act, the rest is merely tenacity.”  –  Amelia Earhart
+    “No one has a problem with the first mile of a journey. Even an infant could do fine for a while. But it isn’t the start that matters. It’s the finish line.” – Julien Smith
   </p>
 </div>
 

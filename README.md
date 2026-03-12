@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “No one has a problem with the first mile of a journey. Even an infant could do fine for a while. But it isn’t the start that matters. It’s the finish line.” – Julien Smith
+    “The desire for safety stands against every great and noble enterprise.”  –  Tacitus
   </p>
 </div>
 

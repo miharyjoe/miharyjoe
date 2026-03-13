@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The desire for safety stands against every great and noble enterprise.”  –  Tacitus
+    “You don’t get results by focusing on results.  You get results by focusing on the actions that produce results.”  –  Mike Hawkins
   </p>
 </div>
 

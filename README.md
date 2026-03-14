@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You don’t get results by focusing on results.  You get results by focusing on the actions that produce results.”  –  Mike Hawkins
+    “Yesterday is not ours to recover, but tomorrow is ours to win or lose.”  –  Lyndon B. Johnson
   </p>
 </div>
 

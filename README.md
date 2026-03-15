@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Yesterday is not ours to recover, but tomorrow is ours to win or lose.”  –  Lyndon B. Johnson
+    “Do you want to know who you are? Don’t ask. Act! Action will delineate and define you.”  –  Thomas Jefferson
   </p>
 </div>
 

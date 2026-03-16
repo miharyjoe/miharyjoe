@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Do you want to know who you are? Don’t ask. Act! Action will delineate and define you.”  –  Thomas Jefferson
+    “Life’s battles don’t always go to the stronger or faster man. But sooner or later, the man who wins is the man who thinks he can.”  –  Walter D. Wintle
   </p>
 </div>
 

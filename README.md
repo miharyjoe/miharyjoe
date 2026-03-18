@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Focus does not mean saying yes, it means saying no.”  –  Steve Jobs
+    “He who is firm in will molds the world to himself.”  –  Johann Wolfgang von Goethe
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “He who is firm in will molds the world to himself.”  –  Johann Wolfgang von Goethe
+    “Set your goals high, and don’t stop till you get there.”  –  Bo Jackson
   </p>
 </div>
 

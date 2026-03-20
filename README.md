@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Set your goals high, and don’t stop till you get there.”  –  Bo Jackson
+    “Perseverance is the hard work you do after you get tired of doing the hard work you already did.”  –  Newt Gingrich
   </p>
 </div>
 

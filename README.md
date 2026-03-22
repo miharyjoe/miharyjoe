@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The journey of a thousand miles begins with one step.”  –  Lao Tzu
+    “The world is full of starters.  Be a finisher.”  –  Anonymous
   </p>
 </div>
 

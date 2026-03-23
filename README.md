@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The world is full of starters.  Be a finisher.”  –  Anonymous
+    “The biggest adventure you can take is to live the life of your dreams.”  –  Opra Winfrey
   </p>
 </div>
 

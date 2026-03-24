@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The biggest adventure you can take is to live the life of your dreams.”  –  Opra Winfrey
+    “You don’t need an MBA to launch a business. You need street smarts and grit.” – Barbara Corcoran
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You don’t need an MBA to launch a business. You need street smarts and grit.” – Barbara Corcoran
+    “It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all — in which case, you fail by default.”  –  J.K. Rowling
   </p>
 </div>
 

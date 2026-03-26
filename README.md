@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all — in which case, you fail by default.”  –  J.K. Rowling
+    “The artist is nothing without the gift, but the gift is nothing without work.”  –  Emile Zola
   </p>
 </div>
 

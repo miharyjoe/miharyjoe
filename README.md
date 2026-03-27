@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The artist is nothing without the gift, but the gift is nothing without work.”  –  Emile Zola
+    “If you can dream it, you can do it.”  –  Walt Disney
   </p>
 </div>
 

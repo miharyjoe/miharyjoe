@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you can dream it, you can do it.”  –  Walt Disney
+    “Make each day count by setting specific goals to succeed, then putting forth every effort to exceed your own expectations.”  –  Les Brown
   </p>
 </div>
 

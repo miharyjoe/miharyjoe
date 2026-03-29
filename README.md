@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Make each day count by setting specific goals to succeed, then putting forth every effort to exceed your own expectations.”  –  Les Brown
+    “Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.”  –  Zig Ziglar
   </p>
 </div>
 

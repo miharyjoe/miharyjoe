@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Some people dream of success while others wake up and work.”  –  Anonymous
+    “They indeed are fools who are satisfied with the fruits of their past effort and do not engage themselves in self-effort now.”  –  Swami Venkatesananda
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “They indeed are fools who are satisfied with the fruits of their past effort and do not engage themselves in self-effort now.”  –  Swami Venkatesananda
+    “If you are going through hell, keep going.”  –  Winston Churchill
   </p>
 </div>
 

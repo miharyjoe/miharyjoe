@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you are going through hell, keep going.”  –  Winston Churchill
+    “Always make a total effort, even when the odds are against you.”  –  Arnold Palmer
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you can’t fly, then run, if you can’t run then walk, if you can’t walk then crawl, but whatever you do, you have to keep moving forward.” – Martin Luther King, Jr.
+    “In starting a business and growing a business, every day is learning how to manage obstacles.”  –  Sara Blakely
   </p>
 </div>
 

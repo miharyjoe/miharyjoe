@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Having a mental snapshot of where you are, where you are going, and what you are moving toward is incredibly powerful.”  –  Sara Blakely
+    “Give your dreams all you’ve got and you’ll be amazed at the energy that comes out of you.”  –  William James
   </p>
 </div>
 

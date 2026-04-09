@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Give your dreams all you’ve got and you’ll be amazed at the energy that comes out of you.”  –  William James
+    “Start strong, stay strong, and finish strong by always remembering why you’re doing it in the first place.”  –  Ralph Marston
   </p>
 </div>
 

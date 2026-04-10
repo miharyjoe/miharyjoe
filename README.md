@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Start strong, stay strong, and finish strong by always remembering why you’re doing it in the first place.”  –  Ralph Marston
+    “Starting is fun, but the future belongs to finishers.” – McRae Patterson
   </p>
 </div>
 

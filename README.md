@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Starting is fun, but the future belongs to finishers.” – McRae Patterson
+    “Perseverance is the key to starting a successful business.”  –  Sara Blakely
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Perseverance is the key to starting a successful business.”  –  Sara Blakely
+    “Finish what you start, no matter how painful it may be.”  –  Nastia Liukin
   </p>
 </div>
 

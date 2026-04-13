@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Finish what you start, no matter how painful it may be.”  –  Nastia Liukin
+    “Great is the art of beginning, but greater is the art of ending.”  –  Henry Wadsworth Longfellow
   </p>
 </div>
 

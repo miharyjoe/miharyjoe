@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Great is the art of beginning, but greater is the art of ending.”  –  Henry Wadsworth Longfellow
+    “What you focus on grows, what you think about expands, and what you dwell upon determines your destiny.”  –  Robin Sharma
   </p>
 </div>
 

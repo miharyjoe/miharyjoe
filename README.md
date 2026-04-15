@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “What you focus on grows, what you think about expands, and what you dwell upon determines your destiny.”  –  Robin Sharma
+    “The thought of my mortality – I think about it a lot. I find it motivating. It can be any time that your number’s up.”  –  Sara Blakely
   </p>
 </div>
 

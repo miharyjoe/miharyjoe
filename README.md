@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you can’t excel with talent, triumph with effort.”  –  Dave Weinbaum
+    “The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will.”  –  Vince Lombardi
   </p>
 </div>
 

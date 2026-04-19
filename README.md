@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Don’t judge each day by the harvest you reap but by the seeds that you plant.”  –  Robert Louis Stevenson
+    “Stop managing your time.  Start managing your focus.”  –  Robin Sharma
   </p>
 </div>
 

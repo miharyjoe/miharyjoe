@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Stop managing your time.  Start managing your focus.”  –  Robin Sharma
+    “You can’t use up creativity. The more you use, the more you have.”  –  Maya Angelou
   </p>
 </div>
 

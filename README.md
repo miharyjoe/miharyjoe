@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You can’t use up creativity. The more you use, the more you have.”  –  Maya Angelou
+    “Regardless of what came before or of what is yet to come, what matters most right now is how I choose to respond to the challenge before me. Will I lie down or will I fight? The choice is mine, and I choose to FINISH STRONG.” – Dan Green
   </p>
 </div>
 

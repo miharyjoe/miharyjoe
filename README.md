@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “People are rewarded in public for what they’ve practiced for years in private.”  –  Tony Robbins
+    “If you’re going through hell, keep going.”  –  Winston Churchill
   </p>
 </div>
 

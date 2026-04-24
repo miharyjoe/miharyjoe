@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you’re going through hell, keep going.”  –  Winston Churchill
+    “Some people want it to happen, some wish it would happen, others make it happen.”  –  Michael Jordan
   </p>
 </div>
 

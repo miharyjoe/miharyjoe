@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Some people want it to happen, some wish it would happen, others make it happen.”  –  Michael Jordan
+    “The man who succeeds is a man who has withstood the tests of time, trials,and has made every effort count.”  –  Hermann J. Steinherr
   </p>
 </div>
 

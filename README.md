@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If it’s going to make you happy, go for it –  life is short.”  –  Tiffany Darwish
+    “It doesn’t matter whether you are pursuing success in business, sports, thearts, or life in general: The bridge between wishing and accomplishing is discipline.”  –  Harvey Mackay
   </p>
 </div>
 

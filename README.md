@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “God honors a beautiful blend of gift and grit! He gives the gift, and He expects us to have the grit to practice and learn how to use it effectively.”  –  Beth Moore
+    “Grit is the one trait that I, as a mentor, try to instill in younger entrepreneurs. Your road as an entrepreneur likely won’t be easy or straightforward. But, fortunately, those who train themselves to persevere and remain committed to their vision and principles are much more likely to attain their entrepreneurial goals than those who lack this sense of grit.”  –  Amine Rahal
   </p>
 </div>
 

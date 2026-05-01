@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “What you exhibit outwardly, you are inwardly.”  –  Claude M. Bristol
+    “Finish what you start, no matter how painful it may be.”  –  Nastia Liukin
   </p>
 </div>
 

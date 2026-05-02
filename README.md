@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Finish what you start, no matter how painful it may be.”  –  Nastia Liukin
+    “No matter who you are or what you do, embrace the challenge to first start with the goal to finish strong.”  –  Andy Andrews
   </p>
 </div>
 

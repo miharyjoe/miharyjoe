@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “No matter who you are or what you do, embrace the challenge to first start with the goal to finish strong.”  –  Andy Andrews
+    “The only way to do great work is to love what you do.”  –  Steve Jobs
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The only way to do great work is to love what you do.”  –  Steve Jobs
+    “The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself.”  –  Mark Caine
   </p>
 </div>
 

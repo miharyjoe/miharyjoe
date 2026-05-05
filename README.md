@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself.”  –  Mark Caine
+    “The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy.” — Martin Luther King Jr.
   </p>
 </div>
 

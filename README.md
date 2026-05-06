@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy.” — Martin Luther King Jr.
+    “The most common way people give up their power is by thinking they don’t have any.”  –  Alice Walker
   </p>
 </div>
 

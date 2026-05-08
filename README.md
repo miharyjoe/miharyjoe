@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Yesterday is not ours to recover, but tomorrow is ours to win or lose.”  –  Lyndon B. Johnson
+    “Grit is the stubborn refusal to quit.”  –  Grit Quote
   </p>
 </div>
 

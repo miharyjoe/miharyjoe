@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Grit is the stubborn refusal to quit.”  –  Grit Quote
+    “It’s the extra effort after you’ve done your best that creates victory.”  –  Lou Holtz
   </p>
 </div>
 

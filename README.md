@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It’s the extra effort after you’ve done your best that creates victory.”  –  Lou Holtz
+    “Only put off until tomorrow what you are willing to die having left undone.”  –  Pablo Picasso
   </p>
 </div>
 

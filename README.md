@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Only put off until tomorrow what you are willing to die having left undone.”  –  Pablo Picasso
+    “The extra energy required to make another effort… is the secret of winning.”  –  Denis Waitley
   </p>
 </div>
 

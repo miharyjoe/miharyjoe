@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The extra energy required to make another effort… is the secret of winning.”  –  Denis Waitley
+    “Success seems to be connected with action. Successful people keep moving. They make mistakes, but they don’t quit.”  –  Conrad Hilton
   </p>
 </div>
 

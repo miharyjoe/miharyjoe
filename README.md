@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Success seems to be connected with action. Successful people keep moving. They make mistakes, but they don’t quit.”  –  Conrad Hilton
+    “Grit is the grain of character. It may generally be described as heroism materialized, spirit and will thrust into heart, brain, and backbone, so as to form part of the physical substance of the man.”  –  Edwin Percy Whipple
   </p>
 </div>
 

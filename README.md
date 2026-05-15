@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I don’t stop when I am tired.  I stop when I am done.”  –  David Goggins
+    “Nothing is worth more than this day.”  –  Johann Wolfgang von Goethe
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Nothing is worth more than this day.”  –  Johann Wolfgang von Goethe
+    “The difference in winning and losing is most often…  Not quitting.”  –  Walt Disney
   </p>
 </div>
 

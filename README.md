@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The difference in winning and losing is most often…  Not quitting.”  –  Walt Disney
+    “It’s hard to beat a person who never gives up.” – Babe Ruth
   </p>
 </div>
 

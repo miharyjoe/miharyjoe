@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It’s hard to beat a person who never gives up.” – Babe Ruth
+    “Do not bite at the bait of pleasure till you know there is no hook beneath it.”  –  Thomas Jefferson
   </p>
 </div>
 

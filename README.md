@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Valor grows by daring; fear by holding back.”  –  Publilius Syrus
+    “No great achievement is possible without persistent work.”  –  Bertrand Russell
   </p>
 </div>
 

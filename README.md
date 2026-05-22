@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I knew the one thing I might regret was not ever having tried.”  –  Jeff Bezos
+    “You may have to fight a battle more than once to win it.”  –  Margaret Thatcher
   </p>
 </div>
 

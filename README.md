@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You may have to fight a battle more than once to win it.”  –  Margaret Thatcher
+    “He who is not courageous enough to take risks will accomplish nothing in life.”  –  Muhammad Ali
   </p>
 </div>
 

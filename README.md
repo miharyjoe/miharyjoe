@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “He who is not courageous enough to take risks will accomplish nothing in life.”  –  Muhammad Ali
+    “If you don’t give up, you still have a chance. Giving up is the greatest failure.”  –  Jack Ma
   </p>
 </div>
 

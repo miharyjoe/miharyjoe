@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you don’t give up, you still have a chance. Giving up is the greatest failure.”  –  Jack Ma
+    “Most people don’t finish strong, but some do. And those that do continually get the treasures of their effort.”  –  Brian Robben
   </p>
 </div>
 

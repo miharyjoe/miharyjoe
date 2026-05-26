@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Most people don’t finish strong, but some do. And those that do continually get the treasures of their effort.”  –  Brian Robben
+    “Having a mental snapshot of where you are, where you are going, and what you are moving toward is incredibly powerful.”  –  Sara Blakely
   </p>
 </div>
 

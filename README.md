@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Having a mental snapshot of where you are, where you are going, and what you are moving toward is incredibly powerful.”  –  Sara Blakely
+    “It is after all, the dab of grit that seeps into an oyster’s shell that makes the pearl, not pear-making seminars with other oysters.”  –  Stephen King
   </p>
 </div>
 

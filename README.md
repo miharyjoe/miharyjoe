@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It is after all, the dab of grit that seeps into an oyster’s shell that makes the pearl, not pear-making seminars with other oysters.”  –  Stephen King
+    “Your daily behavior reveals your deepest beliefs.”  –  Robin Sharma
   </p>
 </div>
 

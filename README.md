@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Your daily behavior reveals your deepest beliefs.”  –  Robin Sharma
+    “You can never achieve more than you aspire to.”  –  Al Ries
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You can never achieve more than you aspire to.”  –  Al Ries
+    “Stay focused, ignore the distractions, and you will accomplish your goals much faster.”  –  Joel Osteen
   </p>
 </div>
 

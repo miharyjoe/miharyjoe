@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I am not a product of my circumstances. I am a product of my decision.”  –  Stephen Covey
+    “Energy and persistence conquer all things.”  –  Benjamin Franklin
   </p>
 </div>
 

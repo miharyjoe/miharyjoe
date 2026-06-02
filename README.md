@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Energy and persistence conquer all things.”  –  Benjamin Franklin
+    “To be gritty is to keep working when others would have given up.”  –  Angela Duckworth
   </p>
 </div>
 

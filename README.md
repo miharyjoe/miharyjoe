@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “To be gritty is to keep working when others would have given up.”  –  Angela Duckworth
+    “Grit isn’t about getting an incredible dose of inspiration or courage. It’s about building the daily habits that allow you to stick to a schedule and overcome challenges and distractions over and over and over again.”  –  James Clear
   </p>
 </div>
 

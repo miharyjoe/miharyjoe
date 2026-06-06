@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Focus on the solution, not on the problem.”  –  Jim Rohn
+    “Do the work. Everyone wants to be successful, but nobody wants to do the work.”  –  Gary Vaynerchuk
   </p>
 </div>
 

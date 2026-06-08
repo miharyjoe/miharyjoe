@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you are not willing to learn, no one can help you. If you are determined to learn, no one can stop you.”  –  Zig Ziglar
+    “The only way to do great work is to love what you do.”  –  Steve Jobs
   </p>
 </div>
 

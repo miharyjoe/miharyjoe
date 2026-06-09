@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The only way to do great work is to love what you do.”  –  Steve Jobs
+    “In any given moment, we have two options: To step forward into growth or to step back into safety.”  –  Abraham Maslow
   </p>
 </div>
 

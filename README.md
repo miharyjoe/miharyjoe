@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “In any given moment, we have two options: To step forward into growth or to step back into safety.”  –  Abraham Maslow
+    “A dream doesn’t become reality through magic; it takes sweat, commitment, and hard work.”  –  Grit quote
   </p>
 </div>
 

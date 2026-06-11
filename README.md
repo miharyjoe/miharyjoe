@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “A dream doesn’t become reality through magic; it takes sweat, commitment, and hard work.”  –  Grit quote
+    “Some people dream of success while others wake up and work.”  –  Anonymous
   </p>
 </div>
 

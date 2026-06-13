@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Gritty people are resilient, in the sense that they thrive through adversity. They reframe every challenge as an opportunity and do the work to become the master of their emotions.”  –  Ashley Elizabeth
+    “Do not wait to strike till the iron is hot: But make it hot by striking.”  –  William B. Sprague
   </p>
 </div>
 

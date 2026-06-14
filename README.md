@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Do not wait to strike till the iron is hot: But make it hot by striking.”  –  William B. Sprague
+    “The greatest predictor of success is grit.”  –  Angel Duckworth
   </p>
 </div>
 

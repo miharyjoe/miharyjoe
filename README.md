@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The greatest predictor of success is grit.”  –  Angel Duckworth
+    “I did not have the most experience in the industry or the most money, but I cared the most.”  –  Sara Blakely
   </p>
 </div>
 

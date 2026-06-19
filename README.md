@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I don’t count my sit-ups, I only start counting when it starts hurting, whenI feel pain, that’s when I start counting, cause that’s when it really counts.”  –  Muhammad Ali
+    “Without ambition one starts nothing. Without work, one finishes nothing. The prize will not be sent to you. You have to win it.“  –  Ralph Waldo Emerson
   </p>
 </div>
 

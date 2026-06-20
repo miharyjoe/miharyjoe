@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Without ambition one starts nothing. Without work, one finishes nothing. The prize will not be sent to you. You have to win it.“  –  Ralph Waldo Emerson
+    “I CAN is 100 times more important that IQ.”  –  Anonymous
   </p>
 </div>
 

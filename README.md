@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I CAN is 100 times more important that IQ.”  –  Anonymous
+    “There is no failure except in no longer trying.”  –  Elbert Hubbard
   </p>
 </div>
 

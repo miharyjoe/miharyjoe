@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “When we demonstrate grit or are described as gritty, it is because we have had the resilience to push ourselves over, through, around, and sometimes under obstacles.”  –  Kori D. Miller
+    “Effort is grossly underrated.”  –  Gary Vaynerchuk
   </p>
 </div>
 

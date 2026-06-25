@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Resilience is like a muscle. The more you get through something and not let it get you down or defeat you, the stronger your resilience muscle becomes.”  –  Sara Blakely
+    “Striving for success without hard work is like trying to harvest where youhaven’t planted.”  –  David Bly
   </p>
 </div>
 

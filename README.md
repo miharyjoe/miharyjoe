@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Nothing is put on pause. Everything is still happening. And then as far as just reflecting on what got you to where you are, there aren’t very many times where we have the space to sit and reflect and really understand the depth of what it took and the grit that we had to have to get to where we are.” – Jessica Alba
+    “It’s not about money or connections.  It’s the willingness to outwork and outlearn everyone when it comes to your business.”  –  Mark Cuban
   </p>
 </div>
 

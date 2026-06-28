@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It’s not about money or connections.  It’s the willingness to outwork and outlearn everyone when it comes to your business.”  –  Mark Cuban
+    “The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself.”  –  Mark Caine
   </p>
 </div>
 

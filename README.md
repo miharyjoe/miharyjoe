@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself.”  –  Mark Caine
+    “Every great story happened when someone decided not to give up.”  –  Spryte Loriano
   </p>
 </div>
 

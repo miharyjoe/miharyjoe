@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Every great story happened when someone decided not to give up.”  –  Spryte Loriano
+    “Before anything else, preparation is the key to success.”  –  Alexander Graham Bell
   </p>
 </div>
 

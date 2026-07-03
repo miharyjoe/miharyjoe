@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “What we call the beginning is often the end.  And to make an end is to make a beginning.  The end is where we start from.”  –  T.S. Eliot
+    “Perseverance is the hard work you do after you get tired of doing the hard work you already did.”  –  Newt Gingrich
   </p>
 </div>
 

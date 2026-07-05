@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The devil whispers, “You can’t withstand the storm.” The Warrior replied, “I am the storm.”  –  Anonymous
+    “If you want to make an easy job seem mighty hard, just keep putting off doing it.”  –  Olin Miller
   </p>
 </div>
 

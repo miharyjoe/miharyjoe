@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Get going… walk if you have to, but finish the damned race.”  –  Ron Hill
+    “All the so-called ‘secrets of success’ will not work unless you do.” – Anonymous
   </p>
 </div>
 

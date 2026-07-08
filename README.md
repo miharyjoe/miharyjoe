@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “All the so-called ‘secrets of success’ will not work unless you do.” – Anonymous
+    “One step at a time.  One punch at a time.  One round at a time.”  –  Rocky Balboa
   </p>
 </div>
 

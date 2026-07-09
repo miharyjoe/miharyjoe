@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “One step at a time.  One punch at a time.  One round at a time.”  –  Rocky Balboa
+    “It takes courage to grow up and become who you really are.”  –  E.E. Cummings
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It takes courage to grow up and become who you really are.”  –  E.E. Cummings
+    “Differentiate yourself!  Why are you different?  What’s important about you?  Why does the customer need you?”  –  Sara Blakely
   </p>
 </div>
 

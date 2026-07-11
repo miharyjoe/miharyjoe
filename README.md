@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Differentiate yourself!  Why are you different?  What’s important about you?  Why does the customer need you?”  –  Sara Blakely
+    “Every morning you have two choices: continue to sleep with your dreams, or wake up and chase them.” – Anonymous
   </p>
 </div>
 

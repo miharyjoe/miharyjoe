@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Every morning you have two choices: continue to sleep with your dreams, or wake up and chase them.” – Anonymous
+    “Focus on your goal, not the how.”  –  Bob Proctor
   </p>
 </div>
 

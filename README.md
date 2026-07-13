@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Focus on your goal, not the how.”  –  Bob Proctor
+    “It always seems impossible until it’s done.”  –  Nelson Mandela
   </p>
 </div>
 

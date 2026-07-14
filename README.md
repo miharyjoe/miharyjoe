@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It always seems impossible until it’s done.”  –  Nelson Mandela
+    “Climb mountains not so the world can see you, but so you can see the world.”  –  David McCullough Jr.
   </p>
 </div>
 

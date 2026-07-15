@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Climb mountains not so the world can see you, but so you can see the world.”  –  David McCullough Jr.
+    “Only those who dare to fail greatly can ever achieve greatly.”  –  Robert F. Kennedy
   </p>
 </div>
 

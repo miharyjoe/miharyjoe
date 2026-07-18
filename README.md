@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Dreams are not what you see in your sleep, they are the things that don’t let you sleep.”  –   Cristiano Ronaldo
+    “Every great story happened when someone decided not to give up.”  –  Spryte Loriano
   </p>
 </div>
 

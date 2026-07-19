@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Every great story happened when someone decided not to give up.”  –  Spryte Loriano
+    “Having a mental snapshot of where you are, where you are going, and what you are moving toward is incredibly powerful.”  –  Sara Blakely
   </p>
 </div>
 

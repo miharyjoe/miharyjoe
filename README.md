@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Having a mental snapshot of where you are, where you are going, and what you are moving toward is incredibly powerful.”  –  Sara Blakely
+    “Success doesn’t just happen. You have to be intentional about it, and that takes discipline.”  –  John C. Maxwell
   </p>
 </div>
 

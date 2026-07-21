@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Success doesn’t just happen. You have to be intentional about it, and that takes discipline.”  –  John C. Maxwell
+    “One of the most important principles of success is developing the habit of going the extra mile.”  –  Napoleon Hill
   </p>
 </div>
 

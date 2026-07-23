@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Ignore the noise, focus on your work.”  –  Anonymous
+    “He who is not courageous enough to take risks will accomplish nothing in life.”  –  Muhammad Ali
   </p>
 </div>
 

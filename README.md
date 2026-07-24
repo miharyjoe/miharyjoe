@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “He who is not courageous enough to take risks will accomplish nothing in life.”  –  Muhammad Ali
+    “Success demands singleness of purpose.”  –  Vince Lombardi
   </p>
 </div>
 

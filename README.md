@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Success demands singleness of purpose.”  –  Vince Lombardi
+    “If you fell down yesterday, stand up today.”  –  H.G. Wells
   </p>
 </div>
 

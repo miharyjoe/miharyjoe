@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you fell down yesterday, stand up today.”  –  H.G. Wells
+    “You have to learn the rules of the game. And then you have to play better than anyone else.”  –  Albert Einstein
   </p>
 </div>
 

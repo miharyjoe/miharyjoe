@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You have to learn the rules of the game. And then you have to play better than anyone else.”  –  Albert Einstein
+    “One of the most important principles of success is developing the habit of going the extra mile.”  –  Napoleon Hill
   </p>
 </div>
 

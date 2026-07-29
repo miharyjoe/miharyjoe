@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If people are doubting how far you can go, go so far that you can’t hear them anymore.”  –  Michele Ruiz
+    “Survival can be summed up in three words – never give up. That’s theheart of it really. Just keep trying.”  –  Bear Grylls
   </p>
 </div>
 

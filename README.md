@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The secret to happiness is freedom… and the secret to freedom is courage.”  –  Thucydides
+    “Sell the problem you’re solving, not the product.”  –  Sara Blakely
   </p>
 </div>
 

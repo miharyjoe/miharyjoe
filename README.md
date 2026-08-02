@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Thought allied fearlessly to purpose becomes creative force.”  –  James Allen
+    “In starting a business and growing a business, every day is learning how to manage obstacles.”  –  Sara Blakely
   </p>
 </div>
 

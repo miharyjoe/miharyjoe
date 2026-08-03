@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “In starting a business and growing a business, every day is learning how to manage obstacles.”  –  Sara Blakely
+    “Follow your dreams, they know the way.”  –  Kobe Yamada
   </p>
 </div>
 

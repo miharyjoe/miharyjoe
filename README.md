@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Follow your dreams, they know the way.”  –  Kobe Yamada
+    “You can never achieve more than you aspire to.”  –  Al Ries
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You can never achieve more than you aspire to.”  –  Al Ries
+    “True grit is staying in the game when others would have dropped the ball and left the park.”  –  Anonymous
   </p>
 </div>
 

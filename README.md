@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “True grit is staying in the game when others would have dropped the ball and left the park.”  –  Anonymous
+    “Consistency of effort over the long run is everything.”  –  Angela Duckworth
   </p>
 </div>
 

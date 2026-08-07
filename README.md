@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Consistency of effort over the long run is everything.”  –  Angela Duckworth
+    “When a goal matters enough to a person, that person will find a way to accomplish what at first seemed impossible.” – Nido Qubein
   </p>
 </div>
 

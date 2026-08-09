@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you don’t design your own life plan, chances are you’ll fall into someone else’s plan. And guess what they have planned for you? Not much.”  –  Jim Rohn
+    “Doing the best at this moment puts you in the best place for the next moment.”  –  Oprah Winfrey
   </p>
 </div>
 

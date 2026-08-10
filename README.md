@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Doing the best at this moment puts you in the best place for the next moment.”  –  Oprah Winfrey
+    “As long as there’s breath in You–Persist!  –  Bernard Kelvin Clive
   </p>
 </div>
 

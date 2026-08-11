@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “As long as there’s breath in You–Persist!  –  Bernard Kelvin Clive
+    “Dream big, start small, but most of all, start.”  –  Simon Sinek
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Dream big, start small, but most of all, start.”  –  Simon Sinek
+    “Action is the foundational key to all success.”  –  Pablo Picasso
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Action is the foundational key to all success.”  –  Pablo Picasso
+    “You deserve what your actions earned, or haven’t earned.”  –  M.J. Demarco
   </p>
 </div>
 

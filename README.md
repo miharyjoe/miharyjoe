@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Get going… walk if you have to, but finish the damned race.”  –  Ron Hill
+    “Perseverance is the key to starting a successful business.”  –  Sara Blakely
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The key to success is failure.” – Michael Jordan
+    “When people don’t believe in you, you have to believe in yourself.”  –  Peirce Brosnan
   </p>
 </div>
 

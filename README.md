@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “When people don’t believe in you, you have to believe in yourself.”  –  Peirce Brosnan
+    “When you help a woman fulfill her potential, magic happens.”  –  Sara Blakely
   </p>
 </div>
 

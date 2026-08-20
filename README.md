@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “When you help a woman fulfill her potential, magic happens.”  –  Sara Blakely
+    “One step at a time.  One punch at a time.  One round at a time.”  –  Rocky Balboa
   </p>
 </div>
 

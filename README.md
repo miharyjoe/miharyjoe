@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “One step at a time.  One punch at a time.  One round at a time.”  –  Rocky Balboa
+    “Always take another step. If this is to no avail take another, and yet another. One step at a time is not too difficult.”  –  Og Mandino
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Always take another step. If this is to no avail take another, and yet another. One step at a time is not too difficult.”  –  Og Mandino
+    “If you are not willing to learn, no one can help you. If you are determined to learn, no one can stop you.”  –  Zig Ziglar
   </p>
 </div>
 

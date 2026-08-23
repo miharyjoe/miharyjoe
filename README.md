@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you are not willing to learn, no one can help you. If you are determined to learn, no one can stop you.”  –  Zig Ziglar
+    “The 99% that achieve are willing to sacrifice, be persistent and put in disproportionate work, and think in 50 year terms not 50 day terms.” – Gary Vaynerchuk
   </p>
 </div>
 

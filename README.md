@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The 99% that achieve are willing to sacrifice, be persistent and put in disproportionate work, and think in 50 year terms not 50 day terms.” – Gary Vaynerchuk
+    “Your true success in life begins only when you make the commitment to become excellent at what you do.”  –  Brian Tracy
   </p>
 </div>
 

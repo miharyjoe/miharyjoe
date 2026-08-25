@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Your true success in life begins only when you make the commitment to become excellent at what you do.”  –  Brian Tracy
+    “What most of us never suspect of existing, is the silent but irresistiblepower which comes to the rescue of those who fight on in the face ofdiscouragement.” – Napoleon Hill
   </p>
 </div>
 

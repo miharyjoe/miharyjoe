@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “What most of us never suspect of existing, is the silent but irresistiblepower which comes to the rescue of those who fight on in the face ofdiscouragement.” – Napoleon Hill
+    “The secret of success in life is for a man to be ready for his opportunity when it comes.”  –  Benjamin Disraeli
   </p>
 </div>
 

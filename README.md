@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The secret of success in life is for a man to be ready for his opportunity when it comes.”  –  Benjamin Disraeli
+    “It does not matter how slowly you go as long as you do not stop.”  –  Confucius
   </p>
 </div>
 

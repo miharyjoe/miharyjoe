@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It does not matter how slowly you go as long as you do not stop.”  –  Confucius
+    “It’s the constant and determined effort that breaks down all resistance,sweeps away all obstacles.”  –  Claude M. Bristol
   </p>
 </div>
 

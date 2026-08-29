@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It’s the constant and determined effort that breaks down all resistance,sweeps away all obstacles.”  –  Claude M. Bristol
+    “It ain’t how you start out, it’s how you finish.”  –  Tony Gonzales
   </p>
 </div>
 

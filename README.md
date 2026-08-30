@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It ain’t how you start out, it’s how you finish.”  –  Tony Gonzales
+    “Where your attention goes, your time goes”  –  Idowu Koyenikan
   </p>
 </div>
 

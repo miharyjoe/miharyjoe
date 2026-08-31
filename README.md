@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Where your attention goes, your time goes”  –  Idowu Koyenikan
+    “Courage is fear holding on a minute longer.”  –  General George S. Patton
   </p>
 </div>
 

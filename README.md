@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you are not willing to learn, no one can help you. If you are determined to learn, no one can stop you.”  –  Zig Ziglar
+    “Change your thoughts and you change your world.”  –  Norman Vincent Peale
   </p>
 </div>
 

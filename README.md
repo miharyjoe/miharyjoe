@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You have to learn the rules of the game. And then you have to play better than anyone else.”  –  Albert Einstein
+    “It is not enough to be an enthusiastic starter; you must also be an optimistic finisher.”  –  Leon Ho
   </p>
 </div>
 

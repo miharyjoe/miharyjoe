@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It is not enough to be an enthusiastic starter; you must also be an optimistic finisher.”  –  Leon Ho
+    “I am grinding while your sleeping.”  –  Gary Vaynerchuk
   </p>
 </div>
 

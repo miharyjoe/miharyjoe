@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I am grinding while your sleeping.”  –  Gary Vaynerchuk
+    “Remember that guy that gave up? Neither does anyone else.”  –  Anonymous
   </p>
 </div>
 

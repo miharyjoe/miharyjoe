@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Remember that guy that gave up? Neither does anyone else.”  –  Anonymous
+    “If you are not willing to learn, no one can help you.  If you are determined to learn, no one can stop you.”  –  Zig Ziglar
   </p>
 </div>
 

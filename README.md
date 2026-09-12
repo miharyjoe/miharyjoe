@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.”  –  Earl Nightingale
+    “To live is to learn, to strive is to become.” – Friedrich Nietzsche
   </p>
 </div>
 

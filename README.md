@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Formula for success: rise early, work hard, strike oil.”  –  J. Paul Getty
+    “Put a grain of boldness into everything you do.”  –  Baltasar Gracian
   </p>
 </div>
 

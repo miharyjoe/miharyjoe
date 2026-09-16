@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Put a grain of boldness into everything you do.”  –  Baltasar Gracian
+    “Don’t fear failure. — Not failure, but low aim, is the crime. In great attempts it is glorious even to fail.”  –  Bruce Lee
   </p>
 </div>
 

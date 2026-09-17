@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Don’t fear failure. — Not failure, but low aim, is the crime. In great attempts it is glorious even to fail.”  –  Bruce Lee
+    “Whatever you can do, or dream you can, begin it. Boldness has genius, power, and magic in it.”  –  Johann Wolfgang von Goethe
   </p>
 </div>
 

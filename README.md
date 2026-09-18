@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Whatever you can do, or dream you can, begin it. Boldness has genius, power, and magic in it.”  –  Johann Wolfgang von Goethe
+    “Mental dominance is what ultimately makes you unstoppable.” – Tim S. Grover
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Mental dominance is what ultimately makes you unstoppable.” – Tim S. Grover
+    “The level path is easy, but it will not bring you to the mountaintop.”  –  Dr. Idel Dreimer
   </p>
 </div>
 

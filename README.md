@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The level path is easy, but it will not bring you to the mountaintop.”  –  Dr. Idel Dreimer
+    “Most people don’t finish strong, but some do. And those that do continually get the treasures of their effort.”  –  Brian Robben
   </p>
 </div>
 

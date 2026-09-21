@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Most people don’t finish strong, but some do. And those that do continually get the treasures of their effort.”  –  Brian Robben
+    “Once you agree upon the price you and your family must pay for success, it enables you to ignore the minor hurts, the opponent’s pressure, and the temporary failures.”  –  Vince Lombardi
   </p>
 </div>
 

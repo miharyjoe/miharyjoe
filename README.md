@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Once you agree upon the price you and your family must pay for success, it enables you to ignore the minor hurts, the opponent’s pressure, and the temporary failures.”  –  Vince Lombardi
+    “I walk slowly, but I never walk backward.” – Abraham Lincoln
   </p>
 </div>
 

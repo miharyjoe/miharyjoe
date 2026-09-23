@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I walk slowly, but I never walk backward.” – Abraham Lincoln
+    “Surround yourself with people who are only going to lift you higher.”  –  Anonymous
   </p>
 </div>
 

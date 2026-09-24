@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Surround yourself with people who are only going to lift you higher.”  –  Anonymous
+    “Success comes from knowing that you did your best to become the best that you are capable of becoming.”  –  John Wooden
   </p>
 </div>
 

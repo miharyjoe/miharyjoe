@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Success comes from knowing that you did your best to become the best that you are capable of becoming.”  –  John Wooden
+    “To follow, without halt, one aim: There’s the secret of success.”  –  Anna Pavlova
   </p>
 </div>
 

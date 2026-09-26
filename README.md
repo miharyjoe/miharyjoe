@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “To follow, without halt, one aim: There’s the secret of success.”  –  Anna Pavlova
+    “Only put off until tomorrow what you are willing to die having left undone.”  –  Pablo Picasso
   </p>
 </div>
 

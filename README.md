@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Regardless of what came before or of what is yet to come, what matters most right now is how I choose to respond to the challenge before me. Will I lie down or will I fight? The choice is mine, and I choose to FINISH STRONG.” – Dan Green
+    “If people are doubting how far you can go, go so far that you can’t hear them anymore.”  –  Michele Ruiz
   </p>
 </div>
 

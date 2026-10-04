@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “To live is to learn, to strive is to become.” – Friedrich Nietzsche
+    “Amateurs sit and wait for inspiration, the rest of us just get up and go to work.”  –  Stephen King
   </p>
 </div>
 

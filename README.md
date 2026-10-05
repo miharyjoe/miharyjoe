@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Amateurs sit and wait for inspiration, the rest of us just get up and go to work.”  –  Stephen King
+    “To win you’ve got to stay in the game.”  –  Claude M. Bristol
   </p>
 </div>
 

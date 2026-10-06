@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “To win you’ve got to stay in the game.”  –  Claude M. Bristol
+    “It ain’t how you start out, it’s how you finish.”  –  Tony Gonzales
   </p>
 </div>
 

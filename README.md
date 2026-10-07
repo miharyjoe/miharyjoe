@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It ain’t how you start out, it’s how you finish.”  –  Tony Gonzales
+    “You know you are on the road to success if you would do your job, and not be paid for it.”  –  Oprah Winfrey
   </p>
 </div>
 

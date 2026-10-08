@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “You know you are on the road to success if you would do your job, and not be paid for it.”  –  Oprah Winfrey
+    “Focus on your goal, not the how.”  –  Bob Proctor
   </p>
 </div>
 

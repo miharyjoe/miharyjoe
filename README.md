@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “All good ideas start out as bad ideas, that’s why it takes so long.”  –  Steven Spielberg
+    “The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself.”  –  Mark Caine
   </p>
 </div>
 

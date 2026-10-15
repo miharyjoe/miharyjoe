@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Dreams are not what you see in your sleep, they are the things that don’t let you sleep.”  –   Cristiano Ronaldo
+    “Beginning in itself has no value, it is an end which makes beginning meaningful, we must end what we begun.”  –  Amit Kalantri
   </p>
 </div>
 

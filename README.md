@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Winners embrace hard work. They love the discipline of it, the trade-off they’re making to win. Losers, on the other hand, see it as a punishment.And that’s the difference.”  –  Lou Holtz
+    “Maybe, if you put your disbelief aside, roll up your sleeves, take some risks, and totally go for it, you’ll wake up one day and realize you’re living the kind of life you used to be jealous of.” – Jen Sincero
   </p>
 </div>
 

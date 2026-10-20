@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “I live by ‘Go big or go home.’ That’s with everything. It’s like either commit and go for it or don’t do it at all.”  –  Paul Walker
+    “Don’t dwell on what went wrong. Instead, focus on what to do next. Spend your energies on moving forward toward finding the answer.” – Denis Waitley
   </p>
 </div>
 

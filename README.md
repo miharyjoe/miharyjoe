@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Don’t dwell on what went wrong. Instead, focus on what to do next. Spend your energies on moving forward toward finding the answer.” – Denis Waitley
+    “Motivation gets you going, but discipline keeps you growing.”  –  John C. Maxwell
   </p>
 </div>
 

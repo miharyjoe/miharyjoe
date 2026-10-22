@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Motivation gets you going, but discipline keeps you growing.”  –  John C. Maxwell
+    “It was desire that brought progress to the world.”  –  Claude M. Bristol
   </p>
 </div>
 

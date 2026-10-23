@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “It was desire that brought progress to the world.”  –  Claude M. Bristol
+    “Focus does not mean saying yes, it means saying no.”  –  Steve Jobs
   </p>
 </div>
 

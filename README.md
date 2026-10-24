@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Focus does not mean saying yes, it means saying no.”  –  Steve Jobs
+    “The most common way people give up their power is by thinking they don’t have any.”  –  Alice Walker
   </p>
 </div>
 

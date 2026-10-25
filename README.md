@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The most common way people give up their power is by thinking they don’t have any.”  –  Alice Walker
+    “The world is full of starters.  Be a finisher.”  –  Anonymous
   </p>
 </div>
 

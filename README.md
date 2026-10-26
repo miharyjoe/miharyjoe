@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “The world is full of starters.  Be a finisher.”  –  Anonymous
+    “Never hope for it more than you work for it.”  –  Sonya Teclai
   </p>
 </div>
 

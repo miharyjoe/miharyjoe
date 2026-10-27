@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Never hope for it more than you work for it.”  –  Sonya Teclai
+    “A lot of people say they want to be great, but they’re not willing to make the sacrifices necessary to achieve greatness.”  –  Kobe Bryant
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “A lot of people say they want to be great, but they’re not willing to make the sacrifices necessary to achieve greatness.”  –  Kobe Bryant
+    “Every great story happened when someone decided not to give up.”  –  Spryte Loriano
   </p>
 </div>
 

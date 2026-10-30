@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Grit isn’t about getting an incredible dose of inspiration or courage. It’s about building the daily habits that allow you to stick to a schedule and overcome challenges and distractions over and over and over again.”  –  James Clear
+    “If you want to make an easy job seem mighty hard, just keep putting off doing it.”  –  Olin Miller
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “If you want to make an easy job seem mighty hard, just keep putting off doing it.”  –  Olin Miller
+    “No one ever defeated a resolute will. Even death stands still before such a will.”  –  Claude M. Bristol
   </p>
 </div>
 

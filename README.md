@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “No one ever defeated a resolute will. Even death stands still before such a will.”  –  Claude M. Bristol
+    “What great thing would you attempt, if you knew you could not fail.”  –  Robert H. Schuller
   </p>
 </div>
 

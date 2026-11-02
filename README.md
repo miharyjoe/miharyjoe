@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “What great thing would you attempt, if you knew you could not fail.”  –  Robert H. Schuller
+    “What is grit?  Grit is refusing to give up.  Persistence.  It’s making your own luck.”  –  Peter Diamandis
   </p>
 </div>
 

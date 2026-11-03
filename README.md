@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “What is grit?  Grit is refusing to give up.  Persistence.  It’s making your own luck.”  –  Peter Diamandis
+    “Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.”  –  Earl Nightingale
   </p>
 </div>
 

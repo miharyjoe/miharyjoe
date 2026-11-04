@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.”  –  Earl Nightingale
+    “Courage is not having the strength to go on;  it is going on when you don’t have the strength.”  –  Theodore Roosevelt
   </p>
 </div>
 

@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Courage is not having the strength to go on;  it is going on when you don’t have the strength.”  –  Theodore Roosevelt
+    “There isn’t a person anywhere who isn’t capable of doing more than he thinks he can.”  –  Henry Ford
   </p>
 </div>
 

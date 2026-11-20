@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “There isn’t a person anywhere who isn’t capable of doing more than he thinks he can.”  –  Henry Ford
+    “Be not afraid of going slowly; be afraid only of standing still.”  –  Chinese Proverb
   </p>
 </div>
 

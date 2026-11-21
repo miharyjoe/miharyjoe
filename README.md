@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Be not afraid of going slowly; be afraid only of standing still.”  –  Chinese Proverb
+    “Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.”  –  Dale Carnegie
   </p>
 </div>
 

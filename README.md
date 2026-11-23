@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Always make a total effort, even when the odds are against you.”  –  Arnold Palmer
+    “What we achieve inwardly will change outer reality.”  –  Plutarch
   </p>
 </div>
 

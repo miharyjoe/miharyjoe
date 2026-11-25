@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Give your dreams all you’ve got and you’ll be amazed at the energy that comes out of you.”  –  William James
+    “Winning is not everything, but the effort to win is.”  –  Zig Ziglar
   </p>
 </div>
 

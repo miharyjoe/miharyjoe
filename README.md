@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Winning is not everything, but the effort to win is.”  –  Zig Ziglar
+    “Glory gives herself only to those who have always dreamed of her.”  –  Charles de Gaul
   </p>
 </div>
 

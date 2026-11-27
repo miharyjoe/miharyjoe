@@ -25,7 +25,7 @@
 <div id="quote" align="center">
   <summary>Quote of the Day</summary>
   <p>
-    “Glory gives herself only to those who have always dreamed of her.”  –  Charles de Gaul
+    “Grit is a super power. Intelligence is awesome, but the ability to push through the emotional firestorm that is failure will take you anywhere you want to go. There are plenty of intelligent people that never do anything with their lives. But the gritty among us rule the world.” – Tom Bilyeu
   </p>
 </div>
 
